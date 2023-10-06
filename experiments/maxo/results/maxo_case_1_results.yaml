@@ -1,0 +1,126 @@
+---
+input_text: |
+  Routine laboratory investigations showed hyperglycemia, low hemoglobin of 11.1g/dl, and raised erythrocyte sedimentation rate of 33mm/hr. Liver, renal, and thyroid function tests were within normal limits. Echocardiography revealed normal biventricular systolic function with impaired relaxation of the left ventricle. Further investigations confirmed the presence of cystitis and gall stones. Radiographic examination of hands and feet confirmed the resorption of distal phalanges (acroosteolysis) and soft tissue calcific deposits close to the tips of fingers and toes with peri-articular osteoporosis (Figure 4). Decreased joint space at metacarpophalangeal joints was also noted. Cataracts were ruled out on slit-lamp examination and indirect laryngoscopic findings were also insignificant.
+raw_completion_output: |-
+  action: Routine laboratory investigations; Echocardiography; Further investigations; Radiographic examination of hands and feet; Slit-lamp examination; Indirect laryngoscopic examination
+  disease: hyperglycemia; cystitis; gall stones; acroosteolysis; peri-articular osteoporosis; cataracts
+  symptom: low hemoglobin; raised erythrocyte sedimentation rate; impaired relaxation of the left ventricle; resorption of distal phalanges; soft tissue calcific deposits; Decreased joint space at metacarpophalangeal joints
+  action_to_disease: Routine laboratory investigations DIAGNOSE hyperglycemia; Further investigations CONFIRM cystitis and gall stones; Radiographic examination of hands USES TO DIAGNOSE acroosteolysis and peri-articular osteoporosis; Slit-lamp examination RULES OUT cataracts
+  action_to_symptom: Echocardiography REVEALS impaired relaxation of the left ventricle; Radiographic examination of hands OBSERVES Decreased joint space at metacarpophalangeal joints
+prompt: |+
+  From the text below, extract the following entities in the following format:
+
+  subject: <the value for subject>
+  predicate: <The relationship type, usually IS USED TO DIAGNOSE>
+  object: <semicolon-separated list of objects>
+  qualifier: <A qualifier for the statements, e.g. "NOT" for negation>
+  subject_qualifier: <An optional qualifier or modifier for the medical action.>
+  object_qualifier: <An optional qualifier or modifier for the symptom.>
+
+
+  Text:
+  Radiographic examination of hands OBSERVES Decreased joint space at metacarpophalangeal joints
+
+  ===
+
+extracted_object:
+  action:
+    - AUTO:Routine%20laboratory%20investigations
+    - MAXO:0010203
+    - AUTO:Further%20investigations
+    - AUTO:Radiographic%20examination%20of%20hands%20and%20feet
+    - MAXO:0000973
+    - AUTO:Indirect%20laryngoscopic%20examination
+  disease:
+    - MONDO:0002909
+    - MONDO:0006032
+    - AUTO:gall%20stones
+    - MONDO:0007056
+    - AUTO:peri-articular%20osteoporosis
+    - MONDO:0005129
+  symptom:
+    - AUTO:low%20hemoglobin
+    - HP:0003565
+    - AUTO:impaired%20relaxation%20of%20the%20left%20ventricle
+    - AUTO:resorption%20of%20distal%20phalanges
+    - AUTO:soft%20tissue%20calcific%20deposits
+    - AUTO:Decreased%20joint%20space%20at%20metacarpophalangeal%20joints
+  action_to_disease:
+    - subject: AUTO:Routine%20laboratory%20investigations
+      predicate: AUTO:DIAGNOSE
+      object:
+        - MONDO:0002909
+    - subject: AUTO:Further%20investigations
+      predicate: AUTO:CONFIRM
+      object:
+        - MONDO:0006032
+        - AUTO:gall%20stones
+    - subject: AUTO:Radiographic%20examination%20of%20hands
+      predicate: AUTO:USES%20TO%20DIAGNOSE
+      object:
+        - MONDO:0007056
+        - AUTO:peri-articular%20osteoporosis
+    - subject: MAXO:0000973
+      predicate: AUTO:RULES%20OUT
+      object:
+        - MONDO:0005129
+  action_to_symptom:
+    - subject: MAXO:0010203
+      predicate: AUTO:REVEALS
+      object:
+        - AUTO:impaired%20relaxation%20of%20the%20left%20ventricle
+    - subject: AUTO:Radiographic%20examination%20of%20hands
+      predicate: AUTO:OBSERVES
+      object:
+        - AUTO:Decreased%20joint%20space%20at%20metacarpophalangeal%20joints
+named_entities:
+  - id: AUTO:Routine%20laboratory%20investigations
+    label: Routine laboratory investigations
+  - id: MAXO:0010203
+    label: Echocardiography
+  - id: AUTO:Further%20investigations
+    label: Further investigations
+  - id: AUTO:Radiographic%20examination%20of%20hands%20and%20feet
+    label: Radiographic examination of hands and feet
+  - id: MAXO:0000973
+    label: Slit-lamp examination
+  - id: AUTO:Indirect%20laryngoscopic%20examination
+    label: Indirect laryngoscopic examination
+  - id: MONDO:0002909
+    label: hyperglycemia
+  - id: MONDO:0006032
+    label: cystitis
+  - id: AUTO:gall%20stones
+    label: gall stones
+  - id: MONDO:0007056
+    label: acroosteolysis
+  - id: AUTO:peri-articular%20osteoporosis
+    label: peri-articular osteoporosis
+  - id: MONDO:0005129
+    label: cataracts
+  - id: AUTO:low%20hemoglobin
+    label: low hemoglobin
+  - id: HP:0003565
+    label: raised erythrocyte sedimentation rate
+  - id: AUTO:impaired%20relaxation%20of%20the%20left%20ventricle
+    label: impaired relaxation of the left ventricle
+  - id: AUTO:resorption%20of%20distal%20phalanges
+    label: resorption of distal phalanges
+  - id: AUTO:soft%20tissue%20calcific%20deposits
+    label: soft tissue calcific deposits
+  - id: AUTO:Decreased%20joint%20space%20at%20metacarpophalangeal%20joints
+    label: Decreased joint space at metacarpophalangeal joints
+  - id: AUTO:DIAGNOSE
+    label: DIAGNOSE
+  - id: AUTO:CONFIRM
+    label: CONFIRM
+  - id: AUTO:Radiographic%20examination%20of%20hands
+    label: Radiographic examination of hands
+  - id: AUTO:USES%20TO%20DIAGNOSE
+    label: USES TO DIAGNOSE
+  - id: AUTO:RULES%20OUT
+    label: RULES OUT
+  - id: AUTO:REVEALS
+    label: REVEALS
+  - id: AUTO:OBSERVES
+    label: OBSERVES
