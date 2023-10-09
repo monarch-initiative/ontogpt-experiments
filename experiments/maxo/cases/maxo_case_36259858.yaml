@@ -1,17 +1,64 @@
 ---
 input_text: >-
-  Routine laboratory investigations showed hyperglycemia, low hemoglobin of 11.1g/dl, and raised erythrocyte sedimentation rate of 33mm/hr. Liver, renal, and thyroid function tests were within normal limits. Echocardiography revealed normal biventricular systolic function with impaired relaxation of the left ventricle. Further investigations confirmed the presence of cystitis and gall stones. Radiographic examination of hands and feet confirmed the resorption of distal phalanges (acroosteolysis) and soft tissue calcific deposits close to the tips of fingers and toes with peri-articular osteoporosis (Figure 4). Decreased joint space at metacarpophalangeal joints was also noted. Cataracts were ruled out on slit-lamp examination and indirect laryngoscopic findings were also insignificant.
+  Routine laboratory investigations showed hyperglycemia, low hemoglobin of
+  11.1g/dl, and raised erythrocyte sedimentation rate of 33mm/hr. Liver, renal,
+  and thyroid function tests were within normal limits. Echocardiography
+  revealed normal biventricular systolic function with impaired relaxation of
+  the left ventricle. Further investigations confirmed the presence of cystitis
+  and gall stones. Radiographic examination of hands and feet confirmed the
+  resorption of distal phalanges (acroosteolysis) and soft tissue calcific
+  deposits close to the tips of fingers and toes with peri-articular
+  osteoporosis (Figure 4). Decreased joint space at metacarpophalangeal joints
+  was also noted. Cataracts were ruled out on slit-lamp examination and
+  indirect laryngoscopic findings were also insignificant.
 named_entities:
-  - id:
-    label:
+  - id: MAXO:0000006
+    label: laboratory investigations
+  - id: HP:0003074
+    label: hyperglycemia
+  - id: HP:0001903
+    label: low hemoglobin
+  - id: HP:0003565
+    label: raised erythrocyte sedimentation rate
+  - id: MAXO:0000778
+    label: Liver, renal, and thyroid function tests
+  - id: MAXO:0000886
+    label: renal, and thyroid function tests
+  - id: MAXO:0010203
+    label: Echocardiography
+  - id: HP:0100577
+    label: cystitis
+  - id: HP:0001081
+    label: gall stones
+  - id: MAXO:0000595
+    label: Radiographic examination
+  - id: HP:0001870
+    label: resorption of distal phalanges
+  - id: MONDO:0005298
+    label: osteoporosis
+  - id: HP:0011911
+    label: Decreased joint space at metacarpophalangeal joints
+  - id: HP:0000518
+    label: Cataracts
+  - id: MAXO:0000973
+    label: slit-lamp examination
+  - id: MAXO:0001189
+    label: indirect laryngoscopic findings
 extracted_object:
   action_to_disease:
-    - subject:
-      predicate: 
+    - subject: MAXO:0000595
       object:
-        -
+        - MONDO:0005298
   action_to_symptom:
-    - subject:
-      predicate:
+    - subject: MAXO:0000006
       object:
-        - 
+        - HP:0003074
+        - HP:0001903
+        - HP:0003565
+    - subject: MAXO:0000595
+      object:
+        - HP:0011911
+    - subject: MAXO:0000973
+      object:
+        - HP:0000518
+      qualifier: NOT
