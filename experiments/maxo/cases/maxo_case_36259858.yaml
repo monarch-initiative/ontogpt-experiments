@@ -47,18 +47,22 @@ named_entities:
 extracted_object:
   action_to_disease:
     - subject: MAXO:0000595
+      predicate: DIAGNOSES
       object:
         - MONDO:0005298
   action_to_symptom:
     - subject: MAXO:0000006
+      predicate: DIAGNOSES
       object:
         - HP:0003074
         - HP:0001903
         - HP:0003565
     - subject: MAXO:0000595
+      predicate: DIAGNOSES
       object:
         - HP:0011911
     - subject: MAXO:0000973
+      predicate: DIAGNOSES
       object:
         - HP:0000518
       qualifier: NOT
