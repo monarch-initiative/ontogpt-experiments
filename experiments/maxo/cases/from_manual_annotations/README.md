@@ -13,7 +13,9 @@ MONDO:0009367	Mckusick-kaufman Syndrome	PMID:20301675	MAXO:0000004	surgical proc
 
 then the test case should include only the following:
 * For `input_text`, approximately one paragraph containing the disease, action, and phenotype entities specified in the annotation. These may not be perfect lexical matches to any ontology term's label.
+    * The text may be assembled from multiple non-consecutive selections of the source document. 
 * For each of the `named_entities`, the CURIE specified in the annotation and the text within `input_text` corresponding to that identifier.
+    * If the text from the source document does not explicitly mention the entitiy, use the corresponding ontology's label (this may be found on OLS - see https://www.ebi.ac.uk/ols4/). 
 * Add a relation under `extracted_object` for each annotation. In this case, the relation will be:
 
   ```yaml
@@ -23,4 +25,16 @@ then the test case should include only the following:
         predicate: TREATS
         object:
           - HP:0030010
+  ```
+  
+  If the same MaXO term corresponds to multiple objects (e.g., MAXO:0000448 -> HP:0011781 and MAXO:0000448 -> HP:0002897 are both existing annotations), provide the objects in a list as follows:
+
+  ```yaml
+    extracted_object:
+    action_to_symptom:
+      - subject: MAXO:0000448
+        predicate: TREATS
+        object:
+          - HP:0011781
+          - HP:0002897
   ```
