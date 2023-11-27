@@ -1,0 +1,65 @@
+# MONDO:0011831	Arrhythmogenic Right Ventricular Dysplasia, Familial, 8	PMID:31078652	MAXO:0000185	antiarrythmic agent therapy	MONDO:0011831	PREVENTS	PCS				morgan.similuk@nih.gov	2023-06-16	2023-04-12
+# MONDO:0011831	Arrhythmogenic Right Ventricular Dysplasia, Familial, 8	PMID:31078652	MAXO:0000802	avoid excessive exercise	HP:0001645	PREVENTS	TAS				morgan.similuk@nih.gov	2023-04-16	2023-04-12
+# could not find one paragraph that covered both annotations. This input text is
+# excerpted from three distinct pages of PMID 31078652:
+# p. e328, figure 14; p. e329; p. e331, figure 16---
+input_text: >-
+  "2019 HRS expert consensus statement on evaluation, risk stratification, and management
+  of arrhythmogenic cardiomyopathy
+  IIb). Symptomatic arrhythmias? Yes Amiodarone (LOE B-NR) and sotalol (LOE C-LD) may be
+  reasonable in individuals with ACM for control of arrhythmic symptoms or to reduce ICD
+  shocks (COR IIb). Continued symptoms due to ventricular arrhythmias? Yes Preserved RV
+  and LV function? Yes Flecainide in combination with beta-blockers and in the absence of
+  other antiarrhythmic drugs may be reasonable in individuals with ACM, an ICD, and
+  preserved LV and RV function for control of ventricular arrhythmias that are refractory
+  to other therapies (COR IIb, LOE C-LD).
+  Clinicians have long recognized that patients with ARVC were disproportionately athletes
+  and that athletic patients with ARVC have a high risk of SCD. A seminal review of
+  autopsies in Italy showed that participation in competitive athletics resulted in a
+  more than 5-fold increase in SCD risk among adolescents and young adults with ARVC and
+  that implementing a preparticipation screening program resulted in a sharp decline in
+  deaths.
+  Individuals with ARVC should not participate in competitive or frequent high-intensity endurance
+  exercise as this is associated with increased risk of ventricular arrhythmias and promoting
+  progression of structural disease (COR III: Harm, LOE B-NR). Clinicians should counsel adolescent
+  and adult individuals with a positive genetic test for ARVC but who are phenotype-negative that
+  competitive or frequent high-intensity endurance exercise is associated with increased likelihood
+  of developing ARVC and ventricular arrhythmias (COR I, LOE B-NR). Figure 16 Exercise recommendations
+  for individuals with arrhythmogenic right ventricular cardiomyopathy (ARVC). COR 5 Class of
+  Recommendation; LOE 5 Level of Evidence. Colors correspond to COR in Figure 1."
+named_entities:
+  - id: MAXO:0000185
+    label: antiarrhythmic drugs
+  - id: MONDO:0011831
+    label: ARVC
+  - id: MAXO:0000802
+    label: avoid excessive exercise
+  - id: HP:0001645
+    label: SCD
+extracted_object:
+  action_to_disease:
+    - subject: MAXO:0000185
+      predicate: PREVENTS
+      object:
+        - MONDO: 0011831
+  action_to_symptom:
+    - subject: MAXO:0000802
+      predicate: PREVENTS
+      object:
+        - HP:0001645
+
+# Note spelling of antiarrythmic in the MAxO term label "antiarrythmic agent therapy": this
+# spelling does not appear in the cited reference. PMID 31078652 spells words derived from
+# arrhythmia with an h after the double r. "antiarrhythmic agent therapy" is listed in maxo.obo
+# as a synonym of "antiarrythmic agent therapy"
+
+# The disease mentioned in the MAxO annotations is
+# MONDO:0011831, arrhythmogenic right ventricular dysplasia 8 [Any arrhythmogenic right
+# ventricular cardiomyopathy in which the cause of the disease is a mutation in the DSP gene.]
+# this is a child of
+# MONDO:0016342 familial isolated arrhythmogenic right ventricular dysplasia
+# which is a child of
+# MONDO:0016587 arrhythmogenic right ventricular cardiomyopathy
+# PMID 31078652 mostly speaks of ARVC (MONDO:0016587). The DSP gene is listed along with
+# several other genes in which pathogenic variants cause cardiomyopathy. Not sure why the
+# annotations are specific to MONDO:0011831 when they seem to apply to all MONDO:0016587.
