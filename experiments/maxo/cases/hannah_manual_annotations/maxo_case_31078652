@@ -1,8 +1,9 @@
+---
 # MONDO:0011831	Arrhythmogenic Right Ventricular Dysplasia, Familial, 8	PMID:31078652	MAXO:0000185	antiarrythmic agent therapy	MONDO:0011831	PREVENTS	PCS				morgan.similuk@nih.gov	2023-06-16	2023-04-12
 # MONDO:0011831	Arrhythmogenic Right Ventricular Dysplasia, Familial, 8	PMID:31078652	MAXO:0000802	avoid excessive exercise	HP:0001645	PREVENTS	TAS				morgan.similuk@nih.gov	2023-04-16	2023-04-12
 # could not find one paragraph that covered both annotations. This input text is
 # excerpted from three distinct pages of PMID 31078652:
-# p. e328, figure 14; p. e329; p. e331, figure 16---
+# p. e328, figure 14; p. e329; p. e331, figure 16
 input_text: >-
   "2019 HRS expert consensus statement on evaluation, risk stratification, and management
   of arrhythmogenic cardiomyopathy
