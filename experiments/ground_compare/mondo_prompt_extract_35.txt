@@ -1,0 +1,99 @@
+id: MONDO:0015261 ! label: lissencephaly due to TUBA1A mutation
+id: MONDO:0016921 ! label: late-onset Steinert myotonic dystrophy
+id: MONDO:0016786 ! label: acinic cell breast carcinoma
+id: MONDO:0017941 ! label: Kleefstra syndrome 1
+id: MONDO:0019094 ! label: isolated microphthalmia 5
+id: MONDO:0010514 ! label: diabetes mellitus, transient neonatal, 2
+id: MONDO:0016837 ! label: transient tyrosinemia of the newborn
+id: MONDO:0017989 ! label: nephronophthisis
+id: MONDO:0018586 ! label: nephrotic syndrome - deafness - pretibial epidermolysis bullosa syndrome
+id: MONDO:0017202 ! label: non-gestational ovarian choriocarcinoma
+id: MONDO:0018330 ! label: carpo tarsal osteolysis recessive
+id: MONDO:0018721 ! label: Thomas syndrome
+id: MONDO:0016424 ! label: prostate carcinoma
+id: MONDO:0017547 ! label: postgastrectomy syndrome
+id: MONDO:0016816 ! label: transient congenital hypothyroidism due to neonatal factor
+id: MONDO:0001254 ! label: peroxisome biogenesis disorder 8B
+id: MONDO:0112322 ! label: post-COVID-19 disorder, non-human animal
+id: MONDO:0018254 ! label: Eiken syndrome
+id: MONDO:0017999 ! label: amyotrophic lateral sclerosis type 7
+id: MONDO:0017641 ! label: T-cell Subgroups, non-HLA-linked
+id: MONDO:0018070 ! label: Charcot-Marie-Tooth disease axonal type 2V
+id: MONDO:0016778 ! label: genochondromatosis type 1
+id: MONDO:0018666 ! label: short stature, oligodontia, dysmorphic facies, and motor delay
+id: MONDO:0018006 ! label: Hirschsprung disease, susceptibility to
+id: MONDO:0010036 ! label: phosphorus metabolism disease
+id: MONDO:0012320 ! label: ornithosis
+id: MONDO:0019315 ! label: Ewing sarcoma/peripheral primitive neuroectodermal tumor
+id: MONDO:0015905 ! label: X-linked intellectual disability with hypopituitarism
+id: MONDO:0017390 ! label: congenital hypothyroidism
+id: MONDO:0017365 ! label: autosomal dominant vibratory urticaria
+id: MONDO:0019093 ! label: intellectual disability-hypoplastic corpus callosum-preauricular tag syndrome
+id: MONDO:0019542 ! label: androgenetic alopecia
+id: MONDO:0017493 ! label: chromosome 4q21 deletion syndrome
+id: MONDO:0018462 ! label: ectodermal dysplasia Berlin type
+id: MONDO:0018941 ! label: abdominal cystic lymphangioma
+id: MONDO:0018349 ! label: neuronal ceroid lipofuscinosis 8
+id: MONDO:0017490 ! label: brittle cornea syndrome 1
+id: MONDO:0016783 ! label: antigen defined by monoclonal antibody T87
+id: MONDO:0019593 ! label: triglyceride deposit cardiomyovasculopathy
+id: MONDO:0017645 ! label: peritoneal solitary fibrous tumor
+id: MONDO:0019288 ! label: ichthyosiform erythroderma, corneal involvement, and hearing loss
+id: MONDO:0019203 ! label: cyclic vomiting syndrome
+id: MONDO:0017149 ! label: voriconazole toxicity
+id: MONDO:0018143 ! label: lethal congenital contracture syndrome
+id: MONDO:0017600 ! label: retroperitoneal hemangiopericytoma
+id: MONDO:0005266 ! label: status epilepticus
+id: MONDO:0017897 ! label: pleural epithelioid mesothelioma
+id: MONDO:0019875 ! label: hearing loss, autosomal recessive 110
+id: MONDO:0005327 ! label: XH antigen
+id: MONDO:0018897 ! label: nephrotic syndrome 14
+id: MONDO:0015259 ! label: Paramyxoviridae infectious disease
+id: MONDO:0018678 ! label: trismus-pseudocamptodactyly syndrome
+id: MONDO:0018262 ! label: ovarian surface papilloma
+id: MONDO:0017121 ! label: calpain-3-related limb-girdle muscular dystrophy D4
+id: MONDO:0018736 ! label: B-lymphoblastic leukemia/lymphoma MLL rearranged
+id: MONDO:0019229 ! label: idiopathic bilateral vestibulopathy
+id: MONDO:0019864 ! label: hearing loss, autosomal dominant 82
+id: MONDO:0018354 ! label: partial optic atrophy
+id: MONDO:0018475 ! label: Plasmodium ovale malaria
+id: MONDO:0019861 ! label: spermatogenic failure 49
+id: MONDO:0019444 ! label: episodic kinesigenic dyskinesia 3
+id: MONDO:0019298 ! label: relapsing-remitting multiple sclerosis
+id: MONDO:0019408 ! label: atypical hypotonia-cystinuria syndrome
+id: MONDO:0018406 ! label: chronic venous insufficiency
+id: MONDO:0019549 ! label: streptococcus pneumoniae-associated hemolytic uremic syndrome
+id: MONDO:0017278 ! label: nodular goiter
+id: MONDO:0018356 ! label: akinetopsia
+id: MONDO:0019764 ! label: Usher syndrome type 1K
+id: MONDO:0018410 ! label: trichodysplasia-xeroderma syndrome
+id: MONDO:0010154 ! label: hypophosphatemic rickets, X-linked recessive
+id: MONDO:0019033 ! label: thromboangiitis obliterans
+id: MONDO:0019283 ! label: malignant superior sulcus neoplasm
+id: MONDO:0018504 ! label: Franceschini Vardeu Guala syndrome
+id: MONDO:0018727 ! label: nasal cavity and paranasal sinus lethal midline granuloma
+id: MONDO:0019819 ! label: neurodevelopmental disorder with central hypotonia and dysmorphic facies
+id: MONDO:0019530 ! label: acrocardiofacial syndrome
+id: MONDO:0016762 ! label: bipolar II disorder
+id: MONDO:0016298 ! label: prostate cancer, hereditary, 8
+id: MONDO:0019505 ! label: hereditary predisposition to infections
+id: MONDO:0016909 ! label: aortic dissection lentiginosis
+id: MONDO:0018167 ! label: UV-induced skin damage, susceptibility to
+id: MONDO:0019892 ! label: Schistosoma japonicum infectious disease
+id: MONDO:0018834 ! label: Charcot-Marie-Tooth disease type 1
+id: MONDO:0018571 ! label: juvenile open angle glaucoma
+id: MONDO:0019881 ! label: myopathy, distal, 6, adult-onset, autosomal dominant
+id: MONDO:0018620 ! label: complete cryptophthalmia
+id: MONDO:0017650 ! label: acute myeloid leukemia, CEBPA gene mutation
+id: MONDO:0017648 ! label: acute canaliculitis
+id: MONDO:0019889 ! label: bone dysplasia Moore type
+id: MONDO:0018290 ! label: third branchial cleft anomaly
+id: MONDO:0017287 ! label: ichthyosis, hystrix-like, with hearing loss
+id: MONDO:0019642 ! label: distal trisomy 6q
+id: MONDO:0018287 ! label: oculocutaneous albinism type 6
+id: MONDO:0018373 ! label: congenital absence of the sternocleidomastoid muscle
+id: MONDO:0019949 ! label: duplication of the esophagus
+id: MONDO:0016948 ! label: type 2 diabetes mellitus
+id: MONDO:0015320 ! label: tertiary lesion of yaws
+id: MONDO:0016681 ! label: short tarsus-absence of lower eyelashes syndrome
+id: MONDO:00179

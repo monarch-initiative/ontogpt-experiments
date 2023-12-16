@@ -1,0 +1,102 @@
+Please provide the corresponding identifier from the emapa Ontology for each of the following terms. The output should be in the following format: 
+ id: IDENTIFIER ! label: LABEL 
+perineum
+medial ganglionic eminence
+hindgut diverticulum endoderm
+forelimb digit 5
+cortical early proximal tubule
+lingual vein
+vaginal venous plexus
+distal segment of s-shaped body
+scala vestibuli
+forearm mesenchyme
+lower jaw molar epithelium
+tail nervous system
+limb-girdle complex
+mammary mesenchyme
+interdigital region between hindlimb digits 2 and 3 skin
+Tl16 neural arch transverse process
+Tl5 neural arch transverse process
+presacral vertebra
+foregut-midgut junction vascular element
+Tl3 nucleus pulposus
+facial neural crest
+cerebral cortex marginal layer
+parathyroid gland
+genital tubercle mesenchyme
+amnion
+stomach
+distal rib
+spinal cord gray matter
+fusiform nucleus
+lateral arcuate ligament
+enteric nervous system
+lobar bronchus epithelium
+duodenum caudal part muscularis mucosa
+male lower urogenital tract epithelium
+esophageal region epithelium
+extensor carpi radialis longus
+kidney cortical arch
+metencephalon part of 4th ventricle choroid plexus
+dorsal genital swelling
+upper jaw gum
+lateral nasal gland 2
+Tl11 neural arch pedicle
+hindlimb digit
+head bone
+Tl12 neural arch pedicle
+sacral vertebral cartilage condensation
+right hepatico-cardiac vein
+intermediate cell layer of pelvic urethra
+perioptic vascular plexus
+lateral reticular nucleus
+right lung middle lobe alveolar system
+sagittal suture
+future hindbrain neural ectoderm
+chest nerve
+developing vasculature of oviduct
+exocrine gland
+gracilis posticus
+stratum intermedium
+anal canal rostral part mesenchyme
+frontal suture
+thalamus subventricular zone
+orbit of skull
+branchial arch mesenchyme derived from neural crest
+zona limitans intrathalamica
+foot bone
+periaqueductal grey
+temporal vein
+lens vesicle cavity
+S4 vertebral pre-cartilage condensation
+L5 dorsal root
+joint articular surface
+midgut loop mesentery
+myelencephalon floor plate
+primary trophoblast giant cell
+tongue papilla epithelium
+interatrial septum
+medulla oblongata alar plate marginal layer
+accessory XI nerve nucleus
+mesenchymal layer of primitive bladder
+craniofacial suture
+foramen ovale of interatrial septum
+upper arm mesenchyme
+inferior olive beta subnucleus
+forelimb digit mesenchyme
+mesenchyme of bladder-urethra transition zone
+right lung accessory lobe lobar bronchus
+hindlimb digit 4 dermis
+peritubular fibroblasts of inner medulla
+right atrium
+periorbital region
+falciform ligament
+T2 rib pre-cartilage condensation
+perineal body serosa
+T1 rib
+adventitia of ureter
+anterior pre-placodal region
+external auditory meatus osseus part
+hindlimb digit connective tissue
+greater sac mesothelium
+T6 rib cartilage condensation

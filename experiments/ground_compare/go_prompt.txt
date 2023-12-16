@@ -1,0 +1,102 @@
+Please provide the corresponding identifier from the go Ontology for each of the following terms. The output should be in the following format: 
+ id: IDENTIFIER ! label: LABEL 
+Golgi vesicle prefusion complex stabilization
+formaldehyde transketolase activity
+negative regulation of excitatory synapse pruning
+norepinephrine:sodium symporter activity
+hydroxyphytanate oxidase activity
+telomere maintenance via recombination
+tagatose kinase activity
+2-dehydro-3-deoxy-D-gluconic acid biosynthetic process
+integrase activity
+voltage-gated potassium channel complex
+ventral cord development
+positive regulation of cAMP-dependent protein kinase activity
+meiotic cohesin complex
+regulation of eating behavior
+serotonin-gated cation-selective signaling pathway
+AV node cell to bundle of His cell communication
+establishment of mitochondrion localization by microtubule attachment
+regulation of acute inflammatory response to antigenic stimulus
+left ventricular compact myocardium morphogenesis
+proton motive force dependent protein transmembrane transporter activity
+high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity
+negative regulation of RNA metabolic process
+negative regulation of chemokine (C-C motif) ligand 1 production
+skeletal muscle tissue growth
+alcohol dehydrogenase (cytochrome c(L)) activity
+photoreceptor cell terminal bouton
+histone methyltransferase binding
+positive regulation of synapse structural plasticity
+glycerol-2-phosphatase activity
+negative regulation of response to amylopectin
+cytoplasmic side of nuclear pore
+N-acylsphingosine galactosyltransferase activity
+retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission
+negative regulation of myotube cell migration
+short-chain fatty acid metabolic process
+sequestering of BMP in extracellular matrix
+ARF protein signal transduction
+homophytochelatin synthase activity (polymer-forming)
+development of primary female sexual characteristics
+regulation of neutrophil mediated killing of gram-negative bacterium
+negative regulation of chemotaxis to arachidonic acid
+four-way junction helicase activity
+tetrahydrofolate interconversion
+polynucleotide 3'-phosphatase activity
+beta-galactoside (CMP) alpha-2,3-sialyltransferase activity
+regulation of mast cell cytokine production
+mitochondrial intermembrane space protein transporter complex
+hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides
+DNA replication-dependent chromatin disassembly
+biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity
+response to brassinosteroid
+aliphatic (R)-hydroxynitrile lyase activity
+axon terminus
+minus-end kinesin complex
+positive regulation of collagen catabolic process
+testosterone secretion
+positive regulation of RNA polymerase II transcription preinitiation complex assembly
+plasma membrane succinate dehydrogenase complex
+positive regulation of G1 to G0 transition
+UV protection
+regulation of cilium assembly
+regulation of ascospore formation
+negative regulation of spindle assembly
+(+)-pinoresinol biosynthetic process
+flavonol biosynthetic process
+voltage-gated calcium channel activity involved in bundle of His cell action potential
+structural constituent of synapse
+apoptotic process involved in metanephric collecting duct development
+L-arabinitol 2-dehydrogenase activity
+RNA exon ligation
+viral capsid, major subunit
+regulation of planar cell polarity pathway involved in pericardium morphogenesis
+lens epithelial cell proliferation
+viral DNA genome packaging, 3' extended cos packaging
+peptidyl-tyrosine sulfation
+cerebellar granular layer morphogenesis
+adenine import across plasma membrane
+regulation of MyD88-dependent toll-like receptor signaling pathway
+negative regulation of leukocyte degranulation
+negative regulation of inward rectifier potassium channel activity
+dendritic spine morphogenesis
+C-fiber
+regulation of translation, ncRNA-mediated
+alpha-patchoulene synthase activityy
+plastid localization
+negative regulation of lysosomal protein catabolic process
+negative regulation of skeletal muscle acetylcholine-gated channel clustering
+perturbation by virus of host G0/G1 transition checkpoint
+nitric oxide biosynthetic process
+T cell migration
+regulation of tube length, open tracheal system
+ether catabolic process
+neural plate axis specification
+negative regulation of protein-containing complex disassembly
+ectopic germ cell programmed cell death
+phosphothreonine residue binding
+positive regulation of tissue kallikrein-kinin cascade
+haustorium neck formation
+negative regulation of cytoplasmic transport
+regulation of toll-like receptor 21 signaling pathway

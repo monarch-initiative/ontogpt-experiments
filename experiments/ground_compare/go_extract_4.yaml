@@ -1,0 +1,526 @@
+---
+input_text: |
+  Golgi vesicle prefusion complex stabilization
+  formaldehyde transketolase activity
+  negative regulation of excitatory synapse pruning
+  norepinephrine:sodium symporter activity
+  hydroxyphytanate oxidase activity
+  telomere maintenance via recombination
+  tagatose kinase activity
+  2-dehydro-3-deoxy-D-gluconic acid biosynthetic process
+  integrase activity
+  voltage-gated potassium channel complex
+  ventral cord development
+  positive regulation of cAMP-dependent protein kinase activity
+  meiotic cohesin complex
+  regulation of eating behavior
+  serotonin-gated cation-selective signaling pathway
+  AV node cell to bundle of His cell communication
+  establishment of mitochondrion localization by microtubule attachment
+  regulation of acute inflammatory response to antigenic stimulus
+  left ventricular compact myocardium morphogenesis
+  proton motive force dependent protein transmembrane transporter activity
+  high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity
+  negative regulation of RNA metabolic process
+  negative regulation of chemokine (C-C motif) ligand 1 production
+  skeletal muscle tissue growth
+  alcohol dehydrogenase (cytochrome c(L)) activity
+  photoreceptor cell terminal bouton
+  histone methyltransferase binding
+  positive regulation of synapse structural plasticity
+  glycerol-2-phosphatase activity
+  negative regulation of response to amylopectin
+  cytoplasmic side of nuclear pore
+  N-acylsphingosine galactosyltransferase activity
+  retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission
+  negative regulation of myotube cell migration
+  short-chain fatty acid metabolic process
+  sequestering of BMP in extracellular matrix
+  ARF protein signal transduction
+  homophytochelatin synthase activity (polymer-forming)
+  development of primary female sexual characteristics
+  regulation of neutrophil mediated killing of gram-negative bacterium
+  negative regulation of chemotaxis to arachidonic acid
+  four-way junction helicase activity
+  tetrahydrofolate interconversion
+  polynucleotide 3'-phosphatase activity
+  beta-galactoside (CMP) alpha-2,3-sialyltransferase activity
+  regulation of mast cell cytokine production
+  mitochondrial intermembrane space protein transporter complex
+  hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides
+  DNA replication-dependent chromatin disassembly
+  biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity
+  response to brassinosteroid
+  aliphatic (R)-hydroxynitrile lyase activity
+  axon terminus
+  minus-end kinesin complex
+  positive regulation of collagen catabolic process
+  testosterone secretion
+  positive regulation of RNA polymerase II transcription preinitiation complex assembly
+  plasma membrane succinate dehydrogenase complex
+  positive regulation of G1 to G0 transition
+  UV protection
+  regulation of cilium assembly
+  regulation of ascospore formation
+  negative regulation of spindle assembly
+  (+)-pinoresinol biosynthetic process
+  flavonol biosynthetic process
+  voltage-gated calcium channel activity involved in bundle of His cell action potential
+  structural constituent of synapse
+  apoptotic process involved in metanephric collecting duct development
+  L-arabinitol 2-dehydrogenase activity
+  RNA exon ligation
+  viral capsid, major subunit
+  regulation of planar cell polarity pathway involved in pericardium morphogenesis
+  lens epithelial cell proliferation
+  viral DNA genome packaging, 3' extended cos packaging
+  peptidyl-tyrosine sulfation
+  cerebellar granular layer morphogenesis
+  adenine import across plasma membrane
+  regulation of MyD88-dependent toll-like receptor signaling pathway
+  negative regulation of leukocyte degranulation
+  negative regulation of inward rectifier potassium channel activity
+  dendritic spine morphogenesis
+  C-fiber
+  regulation of translation, ncRNA-mediated
+  alpha-patchoulene synthase activityy
+  plastid localization
+  negative regulation of lysosomal protein catabolic process
+  negative regulation of skeletal muscle acetylcholine-gated channel clustering
+  perturbation by virus of host G0/G1 transition checkpoint
+  nitric oxide biosynthetic process
+  T cell migration
+  regulation of tube length, open tracheal system
+  ether catabolic process
+  neural plate axis specification
+  negative regulation of protein-containing complex disassembly
+  ectopic germ cell programmed cell death
+  phosphothreonine residue binding
+  positive regulation of tissue kallikrein-kinin cascade
+  haustorium neck formation
+  negative regulation of cytoplasmic transport
+  regulation of toll-like receptor 21 signaling pathway
+raw_completion_output: |-
+  terms: Golgi vesicle prefusion complex stabilization; formaldehyde transketolase activity; negative regulation of excitatory synapse pruning; norepinephrine:sodium symporter activity; hydroxyphytanate oxidase activity; telomere maintenance via recombination; tagatose kinase activity; 2-dehydro-3-deoxy-D-gluconic acid biosynthetic process; integrase activity; voltage-gated potassium channel complex; ventral cord development; positive regulation of cAMP-dependent protein kinase activity; meiotic cohesin complex; regulation of eating behavior; serotonin-gated cation-selective signaling pathway; AV node cell to bundle of His cell communication; establishment of mitochondrion localization by microtubule attachment; regulation of acute inflammatory response to antigenic stimulus; left ventricular compact myocardium morphogenesis; proton motive force dependent protein transmembrane transporter activity; high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity; negative regulation of RNA metabolic process; negative regulation of chemokine (C-C motif) ligand 1 production; skeletal muscle tissue growth; alcohol dehydrogenase (cytochrome c(L)) activity; photoreceptor cell terminal bouton; histone methyltransferase binding; positive regulation of synapse structural plasticity; glycerol-2-phosphatase activity; negative regulation of response to amylopectin; cytoplasmic side of nuclear pore; N-acylsphingosine galactosyltransferase activity; retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission; negative regulation of myotube cell migration; short-chain fatty acid metabolic process; sequestering of BMP in extracellular matrix; ARF protein signal transduction; homophytochelatin synthase activity (polymer-forming); development of primary female sexual characteristics; regulation of neutrophil mediated killing of gram-negative bacterium; negative regulation of chemotaxis to arachidonic acid; four-way junction helicase activity; tetrahydrofolate interconversion; polynucleotide 3'-phosphatase activity; beta-galactoside (CMP) alpha-2,3-sialyltransferase activity; regulation of mast cell cytokine production; mitochondrial intermembrane space protein transporter complex; hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides; DNA replication-dependent chromatin disassembly; biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity; response to brassinosteroid; aliphatic (R)-hydroxynitrile lyase activity; axon terminus; minus-end kinesin complex; positive regulation of collagen catabolic process; testosterone secretion; positive regulation of RNA polymerase II transcription preinitiation complex assembly; plasma membrane succinate dehydrogenase complex; positive regulation of G1 to G0 transition; UV protection; regulation of cilium assembly; regulation of ascospore formation; negative regulation of spindle assembly; (+)-pinoresinol biosynthetic process; flavonol biosynthetic process; voltage-gated calcium channel activity involved in bundle of His cell action potential; structural constituent of synapse; apoptotic process involved in metanephric collecting duct development; L-arabinitol 2-dehydrogenase activity; RNA exon ligation; viral capsid, major subunit; regulation of planar cell polarity pathway involved in pericardium morphogenesis; lens epithelial cell proliferation; viral DNA genome packaging, 3' extended cos packaging; peptidyl-tyrosine sulfation; cerebellar granular layer morphogenesis; adenine import across plasma membrane; regulation of MyD88-dependent toll-like receptor signaling pathway; negative regulation of leukocyte degranulation; negative regulation of inward rectifier potassium channel activity; dendritic spine morphogenesis; C-fiber; regulation of translation, ncRNA-mediated; alpha-patchoulene synthase activity; plastid localization; negative regulation of lysosomal protein catabolic process; negative regulation of skeletal muscle acetylcholine-gated channel clustering; perturbation by virus of host G0/G1 transition checkpoint; nitric oxide biosynthetic process; T cell migration; regulation of tube length, open tracheal system; ether catabolic process; neural plate axis specification; negative regulation of protein-containing complex disassembly; ectopic germ cell programmed cell death; phosphothreonine residue binding; positive regulation of tissue kallikrein-kinin cascade; haustorium neck formation; negative regulation of cytoplasmic transport; regulation of toll-like receptor 21 signaling pathway.
+
+  label: None provided.
+prompt: |+
+  From the text below, extract the following entities in the following format:
+
+  terms: <A semicolon-separated list of any Gene Ontology terms.>
+  label: <The label (name) of the named thing>
+
+
+  Text:
+  Golgi vesicle prefusion complex stabilization
+  formaldehyde transketolase activity
+  negative regulation of excitatory synapse pruning
+  norepinephrine:sodium symporter activity
+  hydroxyphytanate oxidase activity
+  telomere maintenance via recombination
+  tagatose kinase activity
+  2-dehydro-3-deoxy-D-gluconic acid biosynthetic process
+  integrase activity
+  voltage-gated potassium channel complex
+  ventral cord development
+  positive regulation of cAMP-dependent protein kinase activity
+  meiotic cohesin complex
+  regulation of eating behavior
+  serotonin-gated cation-selective signaling pathway
+  AV node cell to bundle of His cell communication
+  establishment of mitochondrion localization by microtubule attachment
+  regulation of acute inflammatory response to antigenic stimulus
+  left ventricular compact myocardium morphogenesis
+  proton motive force dependent protein transmembrane transporter activity
+  high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity
+  negative regulation of RNA metabolic process
+  negative regulation of chemokine (C-C motif) ligand 1 production
+  skeletal muscle tissue growth
+  alcohol dehydrogenase (cytochrome c(L)) activity
+  photoreceptor cell terminal bouton
+  histone methyltransferase binding
+  positive regulation of synapse structural plasticity
+  glycerol-2-phosphatase activity
+  negative regulation of response to amylopectin
+  cytoplasmic side of nuclear pore
+  N-acylsphingosine galactosyltransferase activity
+  retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission
+  negative regulation of myotube cell migration
+  short-chain fatty acid metabolic process
+  sequestering of BMP in extracellular matrix
+  ARF protein signal transduction
+  homophytochelatin synthase activity (polymer-forming)
+  development of primary female sexual characteristics
+  regulation of neutrophil mediated killing of gram-negative bacterium
+  negative regulation of chemotaxis to arachidonic acid
+  four-way junction helicase activity
+  tetrahydrofolate interconversion
+  polynucleotide 3'-phosphatase activity
+  beta-galactoside (CMP) alpha-2,3-sialyltransferase activity
+  regulation of mast cell cytokine production
+  mitochondrial intermembrane space protein transporter complex
+  hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides
+  DNA replication-dependent chromatin disassembly
+  biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity
+  response to brassinosteroid
+  aliphatic (R)-hydroxynitrile lyase activity
+  axon terminus
+  minus-end kinesin complex
+  positive regulation of collagen catabolic process
+  testosterone secretion
+  positive regulation of RNA polymerase II transcription preinitiation complex assembly
+  plasma membrane succinate dehydrogenase complex
+  positive regulation of G1 to G0 transition
+  UV protection
+  regulation of cilium assembly
+  regulation of ascospore formation
+  negative regulation of spindle assembly
+  (+)-pinoresinol biosynthetic process
+  flavonol biosynthetic process
+  voltage-gated calcium channel activity involved in bundle of His cell action potential
+  structural constituent of synapse
+  apoptotic process involved in metanephric collecting duct development
+  L-arabinitol 2-dehydrogenase activity
+  RNA exon ligation
+  viral capsid, major subunit
+  regulation of planar cell polarity pathway involved in pericardium morphogenesis
+  lens epithelial cell proliferation
+  viral DNA genome packaging, 3' extended cos packaging
+  peptidyl-tyrosine sulfation
+  cerebellar granular layer morphogenesis
+  adenine import across plasma membrane
+  regulation of MyD88-dependent toll-like receptor signaling pathway
+  negative regulation of leukocyte degranulation
+  negative regulation of inward rectifier potassium channel activity
+  dendritic spine morphogenesis
+  C-fiber
+  regulation of translation, ncRNA-mediated
+  alpha-patchoulene synthase activityy
+  plastid localization
+  negative regulation of lysosomal protein catabolic process
+  negative regulation of skeletal muscle acetylcholine-gated channel clustering
+  perturbation by virus of host G0/G1 transition checkpoint
+  nitric oxide biosynthetic process
+  T cell migration
+  regulation of tube length, open tracheal system
+  ether catabolic process
+  neural plate axis specification
+  negative regulation of protein-containing complex disassembly
+  ectopic germ cell programmed cell death
+  phosphothreonine residue binding
+  positive regulation of tissue kallikrein-kinin cascade
+  haustorium neck formation
+  negative regulation of cytoplasmic transport
+  regulation of toll-like receptor 21 signaling pathway
+
+
+  ===
+
+extracted_object:
+  id: e0968aa2-bc2d-4141-a0ad-e62640188a63
+  label: None provided.
+  terms:
+    - GO:0048213
+    - GO:0047896
+    - GO:1905811
+    - GO:0005334
+    - GO:0047996
+    - GO:0000722
+    - GO:0050317
+    - GO:1901274
+    - GO:0008907
+    - GO:0008076
+    - GO:0007419
+    - GO:2000481
+    - GO:0030893
+    - GO:1903998
+    - GO:0140227
+    - GO:0086067
+    - GO:0034640
+    - GO:0002864
+    - GO:0003224
+    - GO:0009977
+    - GO:0033827
+    - GO:0051253
+    - GO:0071653
+    - GO:0048630
+    - GO:0052933
+    - GO:1990796
+    - GO:1990226
+    - GO:0051835
+    - GO:0047954
+    - GO:1900522
+    - GO:1990876
+    - GO:0047263
+    - GO:0098925
+    - GO:0110125
+    - GO:0046459
+    - GO:0035582
+    - GO:0032011
+    - GO:0102272
+    - GO:0046545
+    - GO:0070951
+    - GO:1904553
+    - GO:0009378
+    - GO:0035999
+    - GO:0046403
+    - GO:0052798
+    - GO:0032763
+    - GO:0042719
+    - GO:0016819
+    - GO:0140889
+    - GO:0004079
+    - GO:0009741
+    - GO:0052919
+    - GO:0043679
+    - GO:0005872
+    - GO:0120158
+    - GO:0035936
+    - GO:0045899
+    - GO:0045282
+    - GO:1903452
+    - GO:0009650
+    - GO:1902017
+    - GO:0034307
+    - GO:1905831
+    - GO:1902126
+    - GO:0051555
+    - GO:0086057
+    - GO:0098918
+    - GO:1900204
+    - GO:0047002
+    - GO:0000378
+    - GO:0098017
+    - GO:2000165
+    - GO:0097166
+    - GO:0098036
+    - GO:0006478
+    - GO:0021683
+    - GO:0098702
+    - GO:0034124
+    - GO:0043301
+    - GO:1903609
+    - GO:0060997
+    - GO:0044299
+    - GO:0045974
+    - AUTO:alpha-patchoulene%20synthase%20activity
+    - GO:0051644
+    - GO:1905166
+    - GO:1904394
+    - GO:0039646
+    - GO:0006809
+    - GO:0072678
+    - GO:0035159
+    - GO:1901502
+    - GO:0021997
+    - GO:0043242
+    - GO:0035234
+    - GO:0050816
+    - GO:0002547
+    - GO:0075197
+    - GO:1903650
+    - AUTO:regulation%20of%20toll-like%20receptor%2021%20signaling%20pathway.
+named_entities:
+  - id: GO:0048213
+    label: Golgi vesicle prefusion complex stabilization
+  - id: GO:0047896
+    label: formaldehyde transketolase activity
+  - id: GO:1905811
+    label: negative regulation of excitatory synapse pruning
+  - id: GO:0005334
+    label: norepinephrine:sodium symporter activity
+  - id: GO:0047996
+    label: hydroxyphytanate oxidase activity
+  - id: GO:0000722
+    label: telomere maintenance via recombination
+  - id: GO:0050317
+    label: tagatose kinase activity
+  - id: GO:1901274
+    label: 2-dehydro-3-deoxy-D-gluconic acid biosynthetic process
+  - id: GO:0008907
+    label: integrase activity
+  - id: GO:0008076
+    label: voltage-gated potassium channel complex
+  - id: GO:0007419
+    label: ventral cord development
+  - id: GO:2000481
+    label: positive regulation of cAMP-dependent protein kinase activity
+  - id: GO:0030893
+    label: meiotic cohesin complex
+  - id: GO:1903998
+    label: regulation of eating behavior
+  - id: GO:0140227
+    label: serotonin-gated cation-selective signaling pathway
+  - id: GO:0086067
+    label: AV node cell to bundle of His cell communication
+  - id: GO:0034640
+    label: establishment of mitochondrion localization by microtubule attachment
+  - id: GO:0002864
+    label: regulation of acute inflammatory response to antigenic stimulus
+  - id: GO:0003224
+    label: left ventricular compact myocardium morphogenesis
+  - id: GO:0009977
+    label: proton motive force dependent protein transmembrane transporter activity
+  - id: GO:0033827
+    label: high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity
+  - id: GO:0051253
+    label: negative regulation of RNA metabolic process
+  - id: GO:0071653
+    label: negative regulation of chemokine (C-C motif) ligand 1 production
+  - id: GO:0048630
+    label: skeletal muscle tissue growth
+  - id: GO:0052933
+    label: alcohol dehydrogenase (cytochrome c(L)) activity
+  - id: GO:1990796
+    label: photoreceptor cell terminal bouton
+  - id: GO:1990226
+    label: histone methyltransferase binding
+  - id: GO:0051835
+    label: positive regulation of synapse structural plasticity
+  - id: GO:0047954
+    label: glycerol-2-phosphatase activity
+  - id: GO:1900522
+    label: negative regulation of response to amylopectin
+  - id: GO:1990876
+    label: cytoplasmic side of nuclear pore
+  - id: GO:0047263
+    label: N-acylsphingosine galactosyltransferase activity
+  - id: GO:0098925
+    label: retrograde trans-synaptic signaling by nitric oxide, modulating synaptic
+      transmission
+  - id: GO:0110125
+    label: negative regulation of myotube cell migration
+  - id: GO:0046459
+    label: short-chain fatty acid metabolic process
+  - id: GO:0035582
+    label: sequestering of BMP in extracellular matrix
+  - id: GO:0032011
+    label: ARF protein signal transduction
+  - id: GO:0102272
+    label: homophytochelatin synthase activity (polymer-forming)
+  - id: GO:0046545
+    label: development of primary female sexual characteristics
+  - id: GO:0070951
+    label: regulation of neutrophil mediated killing of gram-negative bacterium
+  - id: GO:1904553
+    label: negative regulation of chemotaxis to arachidonic acid
+  - id: GO:0009378
+    label: four-way junction helicase activity
+  - id: GO:0035999
+    label: tetrahydrofolate interconversion
+  - id: GO:0046403
+    label: polynucleotide 3'-phosphatase activity
+  - id: GO:0052798
+    label: beta-galactoside (CMP) alpha-2,3-sialyltransferase activity
+  - id: GO:0032763
+    label: regulation of mast cell cytokine production
+  - id: GO:0042719
+    label: mitochondrial intermembrane space protein transporter complex
+  - id: GO:0016819
+    label: hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides
+  - id: GO:0140889
+    label: DNA replication-dependent chromatin disassembly
+  - id: GO:0004079
+    label: biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity
+  - id: GO:0009741
+    label: response to brassinosteroid
+  - id: GO:0052919
+    label: aliphatic (R)-hydroxynitrile lyase activity
+  - id: GO:0043679
+    label: axon terminus
+  - id: GO:0005872
+    label: minus-end kinesin complex
+  - id: GO:0120158
+    label: positive regulation of collagen catabolic process
+  - id: GO:0035936
+    label: testosterone secretion
+  - id: GO:0045899
+    label: positive regulation of RNA polymerase II transcription preinitiation complex
+      assembly
+  - id: GO:0045282
+    label: plasma membrane succinate dehydrogenase complex
+  - id: GO:1903452
+    label: positive regulation of G1 to G0 transition
+  - id: GO:0009650
+    label: UV protection
+  - id: GO:1902017
+    label: regulation of cilium assembly
+  - id: GO:0034307
+    label: regulation of ascospore formation
+  - id: GO:1905831
+    label: negative regulation of spindle assembly
+  - id: GO:1902126
+    label: (+)-pinoresinol biosynthetic process
+  - id: GO:0051555
+    label: flavonol biosynthetic process
+  - id: GO:0086057
+    label: voltage-gated calcium channel activity involved in bundle of His cell action
+      potential
+  - id: GO:0098918
+    label: structural constituent of synapse
+  - id: GO:1900204
+    label: apoptotic process involved in metanephric collecting duct development
+  - id: GO:0047002
+    label: L-arabinitol 2-dehydrogenase activity
+  - id: GO:0000378
+    label: RNA exon ligation
+  - id: GO:0098017
+    label: viral capsid, major subunit
+  - id: GO:2000165
+    label: regulation of planar cell polarity pathway involved in pericardium morphogenesis
+  - id: GO:0097166
+    label: lens epithelial cell proliferation
+  - id: GO:0098036
+    label: viral DNA genome packaging, 3' extended cos packaging
+  - id: GO:0006478
+    label: peptidyl-tyrosine sulfation
+  - id: GO:0021683
+    label: cerebellar granular layer morphogenesis
+  - id: GO:0098702
+    label: adenine import across plasma membrane
+  - id: GO:0034124
+    label: regulation of MyD88-dependent toll-like receptor signaling pathway
+  - id: GO:0043301
+    label: negative regulation of leukocyte degranulation
+  - id: GO:1903609
+    label: negative regulation of inward rectifier potassium channel activity
+  - id: GO:0060997
+    label: dendritic spine morphogenesis
+  - id: GO:0044299
+    label: C-fiber
+  - id: GO:0045974
+    label: regulation of translation, ncRNA-mediated
+  - id: AUTO:alpha-patchoulene%20synthase%20activity
+    label: alpha-patchoulene synthase activity
+  - id: GO:0051644
+    label: plastid localization
+  - id: GO:1905166
+    label: negative regulation of lysosomal protein catabolic process
+  - id: GO:1904394
+    label: negative regulation of skeletal muscle acetylcholine-gated channel clustering
+  - id: GO:0039646
+    label: perturbation by virus of host G0/G1 transition checkpoint
+  - id: GO:0006809
+    label: nitric oxide biosynthetic process
+  - id: GO:0072678
+    label: T cell migration
+  - id: GO:0035159
+    label: regulation of tube length, open tracheal system
+  - id: GO:1901502
+    label: ether catabolic process
+  - id: GO:0021997
+    label: neural plate axis specification
+  - id: GO:0043242
+    label: negative regulation of protein-containing complex disassembly
+  - id: GO:0035234
+    label: ectopic germ cell programmed cell death
+  - id: GO:0050816
+    label: phosphothreonine residue binding
+  - id: GO:0002547
+    label: positive regulation of tissue kallikrein-kinin cascade
+  - id: GO:0075197
+    label: haustorium neck formation
+  - id: GO:1903650
+    label: negative regulation of cytoplasmic transport
+  - id: AUTO:regulation%20of%20toll-like%20receptor%2021%20signaling%20pathway.
+    label: regulation of toll-like receptor 21 signaling pathway.
