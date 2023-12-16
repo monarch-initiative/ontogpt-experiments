@@ -1,0 +1,102 @@
+Please provide the corresponding identifier from the mondo Ontology for each of the following terms. The output should be in the following format: 
+ id: IDENTIFIER ! label: LABEL 
+lissencephaly due to TUBA1A mutation
+late-onset Steinert myotonic dystrophy
+acinic cell breast carcinoma
+Kleefstra syndrome 1
+isolated microphthalmia 5
+diabetes mellitus, transient neonatal, 2
+transient tyrosinemia of the newborn
+nephronophthisis
+nephrotic syndrome - deafness - pretibial epidermolysis bullosa syndrome
+non-gestational ovarian choriocarcinoma
+carpo tarsal osteolysis recessive
+Thomas syndrome
+prostate carcinoma
+postgastrectomy syndrome
+transient congenital hypothyroidism due to neonatal factor
+peroxisome biogenesis disorder 8B
+post-COVID-19 disorder, non-human animal
+Eiken syndrome
+amyotrophic lateral sclerosis type 7
+T-cell Subgroups, non-HLA-linked
+Charcot-Marie-Tooth disease axonal type 2V
+genochondromatosis type 1
+short stature, oligodontia, dysmorphic facies, and motor delay
+Hirschsprung disease, susceptibility to
+phosphorus metabolism disease
+ornithosis
+Ewing sarcoma/peripheral primitive neuroectodermal tumor
+X-linked intellectual disability with hypopituitarism
+congenital hypothyroidism
+autosomal dominant vibratory urticaria
+intellectual disability-hypoplastic corpus callosum-preauricular tag syndrome
+androgenetic alopecia
+chromosome 4q21 deletion syndrome
+ectodermal dysplasia Berlin type
+abdominal cystic lymphangioma
+neuronal ceroid lipofuscinosis 8
+brittle cornea syndrome 1
+antigen defined by monoclonal antibody T87
+triglyceride deposit cardiomyovasculopathy
+peritoneal solitary fibrous tumor
+ichthyosiform erythroderma, corneal involvement, and hearing loss
+cyclic vomiting syndrome
+voriconazole toxicity
+lethal congenital contracture syndrome
+retroperitoneal hemangiopericytoma
+status epilepticus
+pleural epithelioid mesothelioma
+hearing loss, autosomal recessive 110
+XH antigen
+nephrotic syndrome 14
+Paramyxoviridae infectious disease
+trismus-pseudocamptodactyly syndrome
+ovarian surface papilloma
+calpain-3-related limb-girdle muscular dystrophy D4
+B-lymphoblastic leukemia/lymphoma MLL rearranged
+idiopathic bilateral vestibulopathy
+hearing loss, autosomal dominant 82
+partial optic atrophy
+Plasmodium ovale malaria
+spermatogenic failure 49
+episodic kinesigenic dyskinesia 3
+relapsing-remitting multiple sclerosis
+atypical hypotonia-cystinuria syndrome
+chronic venous insufficiency
+streptococcus pneumoniae-associated hemolytic uremic syndrome
+nodular goiter
+akinetopsia
+Usher syndrome type 1K
+trichodysplasia-xeroderma syndrome
+hypophosphatemic rickets, X-linked recessive
+thromboangiitis obliterans
+malignant superior sulcus neoplasm
+Franceschini Vardeu Guala syndrome
+nasal cavity and paranasal sinus lethal midline granuloma
+neurodevelopmental disorder with central hypotonia and dysmorphic facies
+acrocardiofacial syndrome
+bipolar II disorder
+prostate cancer, hereditary, 8
+hereditary predisposition to infections
+aortic dissection lentiginosis
+UV-induced skin damage, susceptibility to
+Schistosoma japonicum infectious disease
+Charcot-Marie-Tooth disease type 1
+juvenile open angle glaucoma
+myopathy, distal, 6, adult-onset, autosomal dominant
+complete cryptophthalmia
+acute myeloid leukemia, CEBPA gene mutation
+acute canaliculitis
+bone dysplasia Moore type
+third branchial cleft anomaly
+ichthyosis, hystrix-like, with hearing loss
+distal trisomy 6q
+oculocutaneous albinism type 6
+congenital absence of the sternocleidomastoid muscle
+duplication of the esophagus
+type 2 diabetes mellitus
+tertiary lesion of yaws
+short tarsus-absence of lower eyelashes syndrome
+nanophthalmos 2
+proliferative vitreoretinopathy

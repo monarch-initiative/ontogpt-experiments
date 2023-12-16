@@ -1,0 +1,38 @@
+*** go_extract_35.yaml ***
+Total named entities found: 100
+Total score: 98 / 100 (0.98)
+*** go_extract_4.yaml ***
+Total named entities found: 100
+Total score: 97 / 100 (0.97)
+*** go_prompt_extract_35.txt ***
+Total named entities found: 100
+Total score: 3 / 100 (0.03)
+*** go_prompt_extract_4.txt ***
+Total named entities found: 2
+Total score: 1 / 100 (0.01) # Note: A non-response, beginning 'As an AI developed before 2023, I do not have real-time access to databases...'
+
+*** emapa_extract_35.yaml ***
+Total named entities found: 100
+Total score: 100 / 100 (1.0)
+*** emapa_extract_4.yaml ***
+Total named entities found: 100
+Total score: 100 / 100 (1.0)
+*** emapa_prompt_extract_35.txt ***
+Total named entities found: 100
+Total score: 0 / 100 (0.0) # Note: GPT3.5 provided only EHDAA2 identifiers, i.e., for the incorrect species.
+*** emapa_prompt_extract_4.txt ***
+Total named entities found: 0
+Total score: 0 / 100 (0.0) # Note: A non-response, beginning 'I currently do not have direct access to the EMA (Edinburgh Mouse Atlas) Project's Emapa Ontology...'
+
+*** mondo_extract_35.yaml ***
+Total named entities found: 101
+Total score: 97 / 100 (0.97)
+*** mondo_extract_4.yaml ***
+Total named entities found: 89
+Total score: 18 / 100 (0.18) # Note: a surprising result, and largely due to the LLM failing to extract provided entities.
+*** mondo_prompt_extract_35.txt ***
+Total named entities found: 98
+Total score: 0 / 100 (0.0)
+*** mondo_prompt_extract_4.txt ***
+Total named entities found: 98
+Total score: 1 / 100 (0.01)

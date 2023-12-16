@@ -1,0 +1,102 @@
+Here are the corresponding identifiers from the go Ontology for each term:
+
+id: GO:0097362 ! label: Golgi vesicle prefusion complex stabilization 
+id: GO:0050180 ! label: formaldehyde transketolase activity 
+id: GO:1903428 ! label: negative regulation of excitatory synapse pruning 
+id: GO:0005328 ! label: norepinephrine:sodium symporter activity 
+id: GO:0033993 ! label: hydroxyphytanate oxidase activity 
+id: GO:0000722 ! label: telomere maintenance via recombination 
+id: GO:0004388 ! label: tagatose kinase activity 
+id: GO:0046059 ! label: 2-dehydro-3-deoxy-D-gluconic acid biosynthetic process 
+id: GO:0015074 ! label: integrase activity 
+id: GO:0008076 ! label: voltage-gated potassium channel complex 
+id: GO:0021537 ! label: ventral cord development 
+id: GO:0031437 ! label: positive regulation of cAMP-dependent protein kinase activity 
+id: GO:0017077 ! label: meiotic cohesin complex 
+id: GO:0051057 ! label: regulation of eating behavior 
+id: GO:0021772 ! label: serotonin-gated cation-selective signaling pathway 
+id: GO:0003145 ! label: AV node cell to bundle of His cell communication 
+id: GO:0030499 ! label: establishment of mitochondrion localization by microtubule attachment 
+id: GO:0070373 ! label: regulation of acute inflammatory response to antigenic stimulus 
+id: GO:0048849 ! label: left ventricular compact myocardium morphogenesis 
+id: GO:0033290 ! label: proton motive force dependent protein transmembrane transporter activity 
+id: GO:0015004 ! label: high-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase activity 
+id: GO:0032271 ! label: negative regulation of RNA metabolic process 
+id: GO:0032744 ! label: negative regulation of chemokine (C-C motif) ligand 1 production 
+id: GO:0060614 ! label: skeletal muscle tissue growth 
+id: GO:0050728 ! label: alcohol dehydrogenase (cytochrome c(L)) activity 
+id: GO:0048816 ! label: photoreceptor cell terminal bouton 
+id: GO:0018024 ! label: histone methyltransferase binding 
+id: GO:0050806 ! label: positive regulation of synapse structural plasticity 
+id: GO:0016162 ! label: glycerol-2-phosphatase activity 
+id: GO:0031974 ! label: negative regulation of response to amylopectin 
+id: GO:0005776 ! label: cytoplasmic side of nuclear pore 
+id: GO:0010913 ! label: N-acylsphingosine galactosyltransferase activity 
+id: GO:0098680 ! label: retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission 
+id: GO:0030336 ! label: negative regulation of myotube cell migration 
+id: GO:0030148 ! label: short-chain fatty acid metabolic process 
+id: GO:0070849 ! label: sequestering of BMP in extracellular matrix 
+id: GO:0007264 ! label: ARF protein signal transduction 
+id: GO:0016684 ! label: homophytochelatin synthase activity (polymer-forming) 
+id: GO:0048568 ! label: development of primary female sexual characteristics 
+id: GO:0050835 ! label: regulation of neutrophil mediated killing of gram-negative bacterium 
+id: GO:1902398 ! label: negative regulation of chemotaxis to arachidonic acid 
+id: GO:0031976 ! label: four-way junction helicase activity 
+id: GO:0042943 ! label: tetrahydrofolate interconversion 
+id: GO:0043490 ! label: polynucleotide 3'-phosphatase activity 
+id: GO:0008499 ! label: beta-galactoside (CMP) alpha-2,3-sialyltransferase activity 
+id: GO:0032767 ! label: regulation of mast cell cytokine production 
+id: GO:0031307 ! label: mitochondrial intermembrane space protein transporter complex 
+id: GO:0016765 ! label: hydrolase activity, acting on acid anhydrides, in sulfonyl-containing anhydrides 
+id: GO:0006336 ! label: DNA replication-dependent chromatin disassembly 
+id: GO:0003840 ! label: biotin-[methylmalonyl-CoA-carboxytransferase] ligase activity 
+id: GO:0010243 ! label: response to brassinosteroid 
+id: GO:0047799 ! label: aliphatic (R)-hydroxynitrile lyase activity 
+id: GO:0030425 ! label: axon terminus 
+id: GO:0099013 ! label: minus-end kinesin complex 
+id: GO:0030572 ! label: positive regulation of collagen catabolic process 
+id: GO:0030253 ! label: testosterone secretion 
+id: GO:0035822 ! label: positive regulation of RNA polymerase II transcription preinitiation complex assembly 
+id: GO:0005741 ! label: plasma membrane succinate dehydrogenase complex 
+id: GO:0032468 ! label: positive regulation of G1 to G0 transition 
+id: GO:0032268 ! label: UV protection 
+id: GO:0061579 ! label: regulation of cilium assembly 
+id: GO:0001640 ! label: regulation of ascospore formation 
+id: GO:0072309 ! label: negative regulation of spindle assembly 
+id: GO:0019286 ! label: (+)-pinoresinol biosynthetic process 
+id: GO:0009813 ! label: flavonol biosynthetic process 
+id: GO:0001542 ! label: voltage-gated calcium channel activity involved in bundle of His cell action potential 
+id: GO:0045202 ! label: structural constituent of synapse 
+id: GO:0072176 ! label: apoptotic process involved in metanephric collecting duct development 
+id: GO:0050151 ! label: L-arabinitol 2-dehydrogenase activity 
+id: GO:0001463 ! label: RNA exon ligation 
+id: GO:0019028 ! label: viral capsid, major subunit 
+id: GO:0061372 ! label: regulation of planar cell polarity pathway involved in pericardium morphogenesis 
+id: GO:0060799 ! label: lens epithelial cell proliferation 
+id: GO:0046795 ! label: viral DNA genome packaging, 3' extended cos packaging 
+id: GO:0018143 ! label: peptidyl-tyrosine sulfation 
+id: GO:0061550 ! label: cerebellar granular layer morphogenesis 
+id: GO:0033344 ! label: adenine import across plasma membrane 
+id: GO:0031323 ! label: regulation of MyD88-dependent toll-like receptor signaling pathway 
+id: GO:0050763 ! label: negative regulation of leukocyte degranulation 
+id: GO:0043523 ! label: negative regulation of inward rectifier potassium channel activity 
+id: GO:0097475 ! label: dendritic spine morphogenesis 
+id: GO:0034016 ! label: C-fiber 
+id: GO:0000209 ! label: regulation of translation, ncRNA-mediated 
+id: GO:0051343 ! label: alpha-patchoulene synthase activityy 
+id: GO:0042354 ! label: plastid localization 
+id: GO:0032075 ! label: negative regulation of lysosomal protein catabolic process 
+id: GO:0032159 ! label: negative regulation of skeletal muscle acetylcholine-gated channel clustering 
+id: GO:0019061 ! label: perturbation by virus of host G0/G1 transition checkpoint 
+id: GO:0006809 ! label: nitric oxide biosynthetic process 
+id: GO:0016477 ! label: T cell migration 
+id: GO:0043409 ! label: regulation of tube length, open tracheal system 
+id: GO:0046159 ! label: ether catabolic process 
+id: GO:0035238 ! label: neural plate axis specification 
+id: GO:0043085 ! label: negative regulation of protein-containing complex disassembly 
+id: GO:0048596 ! label: ectopic germ cell programmed cell death 
+id: GO:0043308 ! label: phosphothreonine residue binding 
+id: GO:0017160 ! label: positive regulation of tissue kallikrein-kinin cascade 
+id: GO:0030839 ! label: haustorium neck formation 
+id: GO:0015903 ! label: negative regulation of cytoplasmic transport 
+id: GO:0071358 ! label: regulation of toll-like receptor 21 signaling pathway

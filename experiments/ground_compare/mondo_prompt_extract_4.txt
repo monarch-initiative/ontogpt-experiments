@@ -1,0 +1,107 @@
+As an AI, I don't have real-time access to databases, but I can attempt to match the terms you've provided with the Monarch Disease Ontology (MONDO) identifiers based on my last update before my knowledge cutoff. However, it's important to note that identifiers can be updated or changed, so it's always best to check the current MONDO database for the most accurate and up-to-date identifiers.
+
+Here are the MONDO identifiers for the terms you've provided, based on the information available up to my last update:
+
+```
+id: MONDO:0011903 ! label: lissencephaly due to TUBA1A mutation
+id: MONDO:0009730 ! label: late-onset Steinert myotonic dystrophy
+id: MONDO:0006512 ! label: acinic cell carcinoma
+id: MONDO:0012102 ! label: Kleefstra syndrome 1
+id: MONDO:0010780 ! label: isolated microphthalmia 5
+id: MONDO:0011582 ! label: transient neonatal diabetes mellitus type 2
+id: MONDO:0014087 ! label: transient neonatal tyrosinemia
+id: MONDO:0009743 ! label: nephronophthisis
+id: MONDO:0019195 ! label nephrotic syndrome-deafness-pretibial epidermolysis bullosa syndrome
+id: MONDO:0006508 ! label: ovarian choriocarcinoma
+id: MONDO:0013741 ! label: carpotarsal osteochondromatosis
+id: MONDO:0015279 ! label: Thomas syndrome
+id: MONDO:0003258 ! label: prostate carcinoma
+id: MONDO:0019390 ! label: postgastrectomy syndrome
+id: MONDO:0033097 ! label: transient congenital hypothyroidism
+id: MONDO:0015901 ! label: peroxisome biogenesis disorder 8B
+id: MONDO:0100096 ! label: COVID-19
+id: MONDO:0011129 ! label: Eiken syndrome
+id: MONDO:0013257 ! label: amyotrophic lateral sclerosis type 7
+id: MONDO:0000001 ! label: disease or disorder (Note: There's no specific identifier for T-cell Subgroups, non-HLA-linked)
+id: MONDO:0013662 ! label: Charcot-Marie-Tooth disease, axonal, type 2V
+id: MONDO:0017315 ! label: genochondromatosis type 1
+id: MONDO:0033278 ! label: short stature, oligodontia, dysmorphic facies, and motor delay
+id: MONDO:0001698 ! label: Hirschsprung disease
+id: MONDO:0021195 ! label: phosphorus metabolism disease
+id: MONDO:0005829 ! label: psittacosis
+id: MONDO:0019315 ! label: Ewing sarcoma
+id: MONDO:0014663 ! label: syndromic X-linked intellectual disability, Krausz type
+id: MONDO:0005024 ! label: congenital hypothyroidism
+id: MONDO:0011225 ! label: autosomal dominant non-syndromic intellectual disability
+id: MONDO:0017286 ! label: postaxial polydactyly-intellectual disability syndrome
+id: MONDO:0009219 ! label: androgenetic alopecia
+id: MONDO:0019241 ! label: chromosome 4q21 deletion syndrome
+id: MONDO:0011861 ! label: ectodermal dysplasia, 'pure' hair-nail type
+id: MONDO:0016253 ! label: abdominal cystic lymphangioma
+id: MONDO:0019317 ! label: neuronal ceroid-lipofuscinosis 8
+id: MONDO:0005801 ! label: Ehlers-Danlos syndrome, kyphoscoliotic type
+id: MONDO:0015061 ! label: antigen defined by monoclonal antibody T87
+id: MONDO:0019060 ! label: triglyceride deposit cardiomyovasculopathy
+id: MONDO:0022865 ! label: solitary fibrous tumor
+id: MONDO:0016577 ! label: ichthyosis with confetti
+id: MONDO:0007173 ! label: cyclic vomiting syndrome
+id: MONDO:0017673 ! label: adverse reaction to drug
+id: MONDO:0015961 ! label: lethal congenital contracture syndrome
+id: MONDO:0019243 ! label: hemangiopericytoma
+id: MONDO:0019616 ! label: status epilepticus
+id: MONDO:0002732 ! label: malignant mesothelioma
+id: MONDO:0017880 ! label: autosomal recessive non-syndromic deafness
+id: MONDO:0021135 ! label: XH antigen
+id: MONDO:0015968 ! label: steroid-resistant nephrotic syndrome
+id: MONDO:0005096 ! label: paramyxoviral infectious disease
+id: MONDO:0019051 ! label: Hecht-Scott syndrome
+id: MONDO:0007088 ! label: ovarian papillary serous cystadenoma
+id: MONDO:0013245 ! label: limb-girdle muscular dystrophy-d2
+id: MONDO:0005414 ! label: leukemoid reaction
+id: MONDO:0005776 ! label: vestibular disease
+id: MONDO:0019334 ! label: auditory system disease
+id: MONDO:0010573 ! label: optic atrophy
+id: MONDO:0005147 ! label: Plasmodium ovale malaria
+id: MONDO:0005011 ! label: spermatogenic failure
+id: MONDO:0009118 ! label: familial paroxysmal kinesigenic dyskinesia
+id: MONDO:0005301 ! label: multiple sclerosis
+id: MONDO:0017697 ! label: atypical hypotonia-cystinuria syndrome
+id: MONDO:0007001 ! label: chronic venous insufficiency
+id: MONDO:0017884 ! label: hemolytic-uremic syndrome
+id: MONDO:0000838 ! label: goiter
+id: MONDO:0021065 ! label: akinetopsia
+id: MONDO:0007055 ! label: Usher syndrome type 1
+id: MONDO:0032825 ! label: trichothiodystrophy syndrome
+id: MONDO:0007731 ! label: hypophosphatemic rickets, X-linked recessive
+id: MONDO:0004675 ! label: Buerger disease
+id: MONDO:0024585 ! label: malignant superior sulcus neoplasm
+id: MONDO:0015153 ! label: Franceschini Vardeu Guala syndrome
+id: MONDO:0015148 ! label: NK/T-cell lymphoma, nasal type
+id: MONDO:0024291 ! label: Jupiter syndrome
+id: MONDO:0017423 ! label: acro-cardio-facial syndrome
+id: MONDO:0019246 ! label: bipolar II disorder
+id: MONDO:0020152 ! label: prostate cancer, familial, type 8
+id: MONDO:0009066 ! label: susceptibility to infectious diseases
+id: MONDO:0016500 ! label: familial thoracic aortic aneurysm and aortic dissection
+id: MONDO:0033773 ! label: sensitivity to UV radiation
+id: MONDO:0005122 ! label: Schistosoma japonicum infection
+id: MONDO:0008753 ! label: Charcot-Marie-Tooth disease
+id: MONDO:0007691 ! label: juvenile open angle glaucoma
+id: MONDO:0010371 ! label: autosomal dominant limb-girdle muscular dystrophy type 1D
+id: MONDO:0007609 ! label: cryptophthalmos syndrome
+id: MONDO:0012174 ! label: acute myeloid leukemia
+id: MONDO:0033788 ! label: dacryolith
+id: MONDO:0015369 ! label: dyssegmental dysplasia, Silverman-Handmaker type
+id: MONDO:0011038 ! label: third branchial cleft cyst
+id: MONDO:0011216 ! label: hystrix-like ichthyosis with deafness
+id: MONDO:0007521 ! label: 6q22-q24 deletion syndrome
+id: MONDO:0008788 ! label: oculocutaneous albinism
+id: MONDO:0008145 ! label: congenital torticollis
+id: MONDO:0005463 ! label: esophageal duplication
+id: MONDO:0005148 ! label: type 2 diabetes mellitus
+id: MONDO:0006815 ! label: yaws
+id: MONDO:0011367 ! label: nanophthalmos
+id: MONDO:0010740 ! label: proliferative vitreoretinopathy
+```
+
+Please keep in mind that these identifiers can sometimes change and some conditions might not have a direct counterpart or have been renamed in the MONDO ontology. Always refer to the latest version of the ontology for the most accurate information.

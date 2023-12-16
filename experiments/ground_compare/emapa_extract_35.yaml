@@ -1,0 +1,555 @@
+---
+input_text: |
+  perineum
+  medial ganglionic eminence
+  hindgut diverticulum endoderm
+  forelimb digit 5
+  cortical early proximal tubule
+  lingual vein
+  vaginal venous plexus
+  distal segment of s-shaped body
+  scala vestibuli
+  forearm mesenchyme
+  lower jaw molar epithelium
+  tail nervous system
+  limb-girdle complex
+  mammary mesenchyme
+  interdigital region between hindlimb digits 2 and 3 skin
+  Tl16 neural arch transverse process
+  Tl5 neural arch transverse process
+  presacral vertebra
+  foregut-midgut junction vascular element
+  Tl3 nucleus pulposus
+  facial neural crest
+  cerebral cortex marginal layer
+  parathyroid gland
+  genital tubercle mesenchyme
+  amnion
+  stomach
+  distal rib
+  spinal cord gray matter
+  fusiform nucleus
+  lateral arcuate ligament
+  enteric nervous system
+  lobar bronchus epithelium
+  duodenum caudal part muscularis mucosa
+  male lower urogenital tract epithelium
+  esophageal region epithelium
+  extensor carpi radialis longus
+  kidney cortical arch
+  metencephalon part of 4th ventricle choroid plexus
+  dorsal genital swelling
+  upper jaw gum
+  lateral nasal gland 2
+  Tl11 neural arch pedicle
+  hindlimb digit
+  head bone
+  Tl12 neural arch pedicle
+  sacral vertebral cartilage condensation
+  right hepatico-cardiac vein
+  intermediate cell layer of pelvic urethra
+  perioptic vascular plexus
+  lateral reticular nucleus
+  right lung middle lobe alveolar system
+  sagittal suture
+  future hindbrain neural ectoderm
+  chest nerve
+  developing vasculature of oviduct
+  exocrine gland
+  gracilis posticus
+  stratum intermedium
+  anal canal rostral part mesenchyme
+  frontal suture
+  thalamus subventricular zone
+  orbit of skull
+  branchial arch mesenchyme derived from neural crest
+  zona limitans intrathalamica
+  foot bone
+  periaqueductal grey
+  temporal vein
+  lens vesicle cavity
+  S4 vertebral pre-cartilage condensation
+  L5 dorsal root
+  joint articular surface
+  midgut loop mesentery
+  myelencephalon floor plate
+  primary trophoblast giant cell
+  tongue papilla epithelium
+  interatrial septum
+  medulla oblongata alar plate marginal layer
+  accessory XI nerve nucleus
+  mesenchymal layer of primitive bladder
+  craniofacial suture
+  foramen ovale of interatrial septum
+  upper arm mesenchyme
+  inferior olive beta subnucleus
+  forelimb digit mesenchyme
+  mesenchyme of bladder-urethra transition zone
+  right lung accessory lobe lobar bronchus
+  hindlimb digit 4 dermis
+  peritubular fibroblasts of inner medulla
+  right atrium
+  periorbital region
+  falciform ligament
+  T2 rib pre-cartilage condensation
+  perineal body serosa
+  T1 rib
+  adventitia of ureter
+  anterior pre-placodal region
+  external auditory meatus osseus part
+  hindlimb digit connective tissue
+  greater sac mesothelium
+  T6 rib cartilage condensation
+raw_completion_output: |-
+  terms: perineum; medial ganglionic eminence; hindgut diverticulum endoderm; forelimb digit 5; cortical early proximal tubule; lingual vein; vaginal venous plexus; distal segment of s-shaped body; scala vestibuli; forearm mesenchyme; lower jaw molar epithelium; tail nervous system; limb-girdle complex; mammary mesenchyme; interdigital region between hindlimb digits 2 and 3 skin; Tl16 neural arch transverse process; Tl5 neural arch transverse process; presacral vertebra; foregut-midgut junction vascular element; Tl3 nucleus pulposus; facial neural crest; cerebral cortex marginal layer; parathyroid gland; genital tubercle mesenchyme; amnion; stomach; distal rib; spinal cord gray matter; fusiform nucleus; lateral arcuate ligament; enteric nervous system; lobar bronchus epithelium; duodenum caudal part muscularis mucosa; male lower urogenital tract epithelium; esophageal region epithelium; extensor carpi radialis longus; kidney cortical arch; metencephalon part of 4th ventricle choroid plexus; dorsal genital swelling; upper jaw gum; lateral nasal gland 2; Tl11 neural arch pedicle; hindlimb digit; head bone; Tl12 neural arch pedicle; sacral vertebral cartilage condensation; right hepatico-cardiac vein; intermediate cell layer of pelvic urethra; perioptic vascular plexus; lateral reticular nucleus; right lung middle lobe alveolar system; sagittal suture; future hindbrain neural ectoderm; chest nerve; developing vasculature of oviduct; exocrine gland; gracilis posticus; stratum intermedium; anal canal rostral part mesenchyme; frontal suture; thalamus subventricular zone; orbit of skull; branchial arch mesenchyme derived from neural crest; zona limitans intrathalamica; foot bone; periaqueductal grey; temporal vein; lens vesicle cavity; S4 vertebral pre-cartilage condensation; L5 dorsal root; joint articular surface; midgut loop mesentery; myelencephalon floor plate; primary trophoblast giant cell; tongue papilla epithelium; interatrial septum; medulla oblongata alar plate marginal layer; accessory XI nerve nucleus; mesenchymal layer of primitive bladder; craniofacial suture; foramen ovale of interatrial septum; upper arm mesenchyme; inferior olive beta subnucleus; forelimb digit mesenchyme; mesenchyme of bladder-urethra transition zone; right lung accessory lobe lobar bronchus; hindlimb digit 4 dermis; peritubular fibroblasts of inner medulla; right atrium; periorbital region; falciform ligament; T2 rib pre-cartilage condensation; perineal body serosa; T1 rib; adventitia of ureter; anterior pre-placodal region; external auditory meatus osseus part; hindlimb digit connective tissue; greater sac mesothelium; T6 rib cartilage condensation
+
+  labels: perineum; medial ganglionic eminence; hindgut diverticulum endoderm; forelimb digit 5; cortical early proximal tubule; lingual vein; vaginal venous plexus; distal segment of s-shaped body; scala vestibuli; forearm mesenchyme; lower jaw molar epithelium; tail nervous system; limb-girdle complex; mammary mesenchyme; interdigital region between hindlimb digits 2 and 3 skin; Tl16 neural arch transverse process; Tl5 neural arch transverse process; presacral vertebra; foregut-midgut junction vascular element; Tl3 nucleus pulposus; facial neural crest; cerebral cortex marginal layer; parathyroid gland; genital tubercle mesenchyme; amnion; stomach; distal rib; spinal cord gray matter; fusiform nucleus; lateral arcuate ligament; enteric nervous system; lobar bronchus epithelium; duodenum caudal part muscularis mucosa; male lower urogenital tract epithelium; esophageal region epithelium; extensor carpi radialis longus; kidney cortical arch; metencephalon part of 4th ventricle choroid plexus; dorsal genital swelling; upper jaw gum; lateral nasal gland 2; Tl11 neural arch pedicle; hindlimb digit; head bone; Tl12 neural arch pedicle; sacral vertebral cartilage condensation; right hepatico-cardiac vein; intermediate cell layer of pelvic urethra; perioptic vascular plexus; lateral reticular nucleus; right lung middle lobe alveolar system; sagittal suture; future hindbrain neural ectoderm; chest nerve; developing vasculature of oviduct; exocrine gland; gracilis posticus; stratum intermedium; anal canal rostral part mesenchyme; frontal suture; thalamus subventricular zone; orbit of skull; branchial arch mesenchyme derived from neural crest; zona limitans intrathalamica; foot bone; periaqueductal grey; temporal vein; lens vesicle cavity; S4 vertebral pre-cartilage condensation; L5 dorsal root; joint articular surface; midgut loop mesentery; myelencephalon floor plate; primary trophoblast giant cell; tongue papilla epithelium; interatrial septum; medulla oblongata alar plate marginal layer; accessory XI nerve nucleus; mesenchymal layer of primitive bladder; craniofacial suture; foramen ovale of interatrial septum; upper arm mesenchyme; inferior olive beta subnucleus; forelimb digit mesenchyme; mesenchyme of bladder-urethra transition zone; right lung accessory lobe lobar bronchus; hindlimb digit 4 dermis; peritubular fibroblasts of inner medulla; right atrium; periorbital region; falciform ligament; T2 rib pre-cartilage condensation; perineal body serosa; T1 rib; adventitia of ureter; anterior pre-placodal region; external auditory meatus osseus part; hindlimb digit connective tissue; greater sac mesothelium; T6 rib cartilage condensation
+prompt: |+
+  From the text below, extract the following entities in the following format:
+
+  terms: <A semicolon-separated list of any Mouse Developmental Anatomy Ontology terms.>
+  label: <The label (name) of the named thing>
+
+
+  Text:
+  perineum
+  medial ganglionic eminence
+  hindgut diverticulum endoderm
+  forelimb digit 5
+  cortical early proximal tubule
+  lingual vein
+  vaginal venous plexus
+  distal segment of s-shaped body
+  scala vestibuli
+  forearm mesenchyme
+  lower jaw molar epithelium
+  tail nervous system
+  limb-girdle complex
+  mammary mesenchyme
+  interdigital region between hindlimb digits 2 and 3 skin
+  Tl16 neural arch transverse process
+  Tl5 neural arch transverse process
+  presacral vertebra
+  foregut-midgut junction vascular element
+  Tl3 nucleus pulposus
+  facial neural crest
+  cerebral cortex marginal layer
+  parathyroid gland
+  genital tubercle mesenchyme
+  amnion
+  stomach
+  distal rib
+  spinal cord gray matter
+  fusiform nucleus
+  lateral arcuate ligament
+  enteric nervous system
+  lobar bronchus epithelium
+  duodenum caudal part muscularis mucosa
+  male lower urogenital tract epithelium
+  esophageal region epithelium
+  extensor carpi radialis longus
+  kidney cortical arch
+  metencephalon part of 4th ventricle choroid plexus
+  dorsal genital swelling
+  upper jaw gum
+  lateral nasal gland 2
+  Tl11 neural arch pedicle
+  hindlimb digit
+  head bone
+  Tl12 neural arch pedicle
+  sacral vertebral cartilage condensation
+  right hepatico-cardiac vein
+  intermediate cell layer of pelvic urethra
+  perioptic vascular plexus
+  lateral reticular nucleus
+  right lung middle lobe alveolar system
+  sagittal suture
+  future hindbrain neural ectoderm
+  chest nerve
+  developing vasculature of oviduct
+  exocrine gland
+  gracilis posticus
+  stratum intermedium
+  anal canal rostral part mesenchyme
+  frontal suture
+  thalamus subventricular zone
+  orbit of skull
+  branchial arch mesenchyme derived from neural crest
+  zona limitans intrathalamica
+  foot bone
+  periaqueductal grey
+  temporal vein
+  lens vesicle cavity
+  S4 vertebral pre-cartilage condensation
+  L5 dorsal root
+  joint articular surface
+  midgut loop mesentery
+  myelencephalon floor plate
+  primary trophoblast giant cell
+  tongue papilla epithelium
+  interatrial septum
+  medulla oblongata alar plate marginal layer
+  accessory XI nerve nucleus
+  mesenchymal layer of primitive bladder
+  craniofacial suture
+  foramen ovale of interatrial septum
+  upper arm mesenchyme
+  inferior olive beta subnucleus
+  forelimb digit mesenchyme
+  mesenchyme of bladder-urethra transition zone
+  right lung accessory lobe lobar bronchus
+  hindlimb digit 4 dermis
+  peritubular fibroblasts of inner medulla
+  right atrium
+  periorbital region
+  falciform ligament
+  T2 rib pre-cartilage condensation
+  perineal body serosa
+  T1 rib
+  adventitia of ureter
+  anterior pre-placodal region
+  external auditory meatus osseus part
+  hindlimb digit connective tissue
+  greater sac mesothelium
+  T6 rib cartilage condensation
+
+
+  ===
+
+extracted_object:
+  id: d2a970b8-1766-4ca7-8ed2-70253c82b2db
+  label: perineum; medial ganglionic eminence; hindgut diverticulum endoderm; forelimb
+    digit 5; cortical early proximal tubule; lingual vein; vaginal venous plexus;
+    distal segment of s-shaped body; scala vestibuli; forearm mesenchyme; lower jaw
+    molar epithelium; tail nervous system; limb-girdle complex; mammary mesenchyme;
+    interdigital region between hindlimb digits 2 and 3 skin; Tl16 neural arch transverse
+    process; Tl5 neural arch transverse process; presacral vertebra; foregut-midgut
+    junction vascular element; Tl3 nucleus pulposus; facial neural crest; cerebral
+    cortex marginal layer; parathyroid gland; genital tubercle mesenchyme; amnion;
+    stomach; distal rib; spinal cord gray matter; fusiform nucleus; lateral arcuate
+    ligament; enteric nervous system; lobar bronchus epithelium; duodenum caudal part
+    muscularis mucosa; male lower urogenital tract epithelium; esophageal region epithelium;
+    extensor carpi radialis longus; kidney cortical arch; metencephalon part of 4th
+    ventricle choroid plexus; dorsal genital swelling; upper jaw gum; lateral nasal
+    gland 2; Tl11 neural arch pedicle; hindlimb digit; head bone; Tl12 neural arch
+    pedicle; sacral vertebral cartilage condensation; right hepatico-cardiac vein;
+    intermediate cell layer of pelvic urethra; perioptic vascular plexus; lateral
+    reticular nucleus; right lung middle lobe alveolar system; sagittal suture; future
+    hindbrain neural ectoderm; chest nerve; developing vasculature of oviduct; exocrine
+    gland; gracilis posticus; stratum intermedium; anal canal rostral part mesenchyme;
+    frontal suture; thalamus subventricular zone; orbit of skull; branchial arch mesenchyme
+    derived from neural crest; zona limitans intrathalamica; foot bone; periaqueductal
+    grey; temporal vein; lens vesicle cavity; S4 vertebral pre-cartilage condensation;
+    L5 dorsal root; joint articular surface; midgut loop mesentery; myelencephalon
+    floor plate; primary trophoblast giant cell; tongue papilla epithelium; interatrial
+    septum; medulla oblongata alar plate marginal layer; accessory XI nerve nucleus;
+    mesenchymal layer of primitive bladder; craniofacial suture; foramen ovale of
+    interatrial septum; upper arm mesenchyme; inferior olive beta subnucleus; forelimb
+    digit mesenchyme; mesenchyme of bladder-urethra transition zone; right lung accessory
+    lobe lobar bronchus; hindlimb digit 4 dermis; peritubular fibroblasts of inner
+    medulla; right atrium; periorbital region; falciform ligament; T2 rib pre-cartilage
+    condensation; perineal body serosa; T1 rib; adventitia of ureter; anterior pre-placodal
+    region; external auditory meatus osseus part; hindlimb digit connective tissue;
+    greater sac mesothelium; T6 rib cartilage condensation
+  terms:
+    - EMAPA:36628
+    - EMAPA:37471
+    - EMAPA:16253
+    - EMAPA:17441
+    - EMAPA:28003
+    - EMAPA:19312
+    - EMAPA:37801
+    - EMAPA:27760
+    - EMAPA:35753
+    - EMAPA:17419
+    - EMAPA:17922
+    - EMAPA:16753
+    - EMAPA:37858
+    - EMAPA:17761
+    - EMAPA:18134
+    - EMAPA:25605
+    - EMAPA:25661
+    - EMAPA:37722
+    - EMAPA:16566
+    - EMAPA:19600
+    - EMAPA:16311
+    - EMAPA:17546
+    - EMAPA:32812
+    - EMAPA:36384
+    - EMAPA:16109
+    - EMAPA:17021
+    - EMAPA:37492
+    - EMAPA:35792
+    - EMAPA:37591
+    - EMAPA:19238
+    - EMAPA:26922
+    - EMAPA:32695
+    - EMAPA:27107
+    - EMAPA:38166
+    - EMAPA:16702
+    - EMAPA:36189
+    - EMAPA:37486
+    - EMAPA:17568
+    - EMAPA:30077
+    - EMAPA:18970
+    - EMAPA:38102
+    - EMAPA:25563
+    - EMAPA:32649
+    - EMAPA:35996
+    - EMAPA:25571
+    - EMAPA:18009
+    - EMAPA:18254
+    - EMAPA:38241
+    - EMAPA:36465
+    - EMAPA:35484
+    - EMAPA:19009
+    - EMAPA:19224
+    - EMAPA:16153
+    - EMAPA:37266
+    - EMAPA:31214
+    - EMAPA:35327
+    - EMAPA:36233
+    - EMAPA:38082
+    - EMAPA:18258
+    - EMAPA:19226
+    - EMAPA:36603
+    - EMAPA:36955
+    - EMAPA:32756
+    - EMAPA:36604
+    - EMAPA:35354
+    - EMAPA:32781
+    - EMAPA:37196
+    - EMAPA:17164
+    - EMAPA:19365
+    - EMAPA:25276
+    - EMAPA:37620
+    - EMAPA:17039
+    - EMAPA:17260
+    - EMAPA:16066
+    - EMAPA:35869
+    - EMAPA:17011
+    - EMAPA:17555
+    - EMAPA:37067
+    - EMAPA:30876
+    - EMAPA:38208
+    - EMAPA:18244
+    - EMAPA:17426
+    - EMAPA:37611
+    - EMAPA:32645
+    - EMAPA:36334
+    - EMAPA:17982
+    - EMAPA:18124
+    - EMAPA:31432
+    - EMAPA:17321
+    - EMAPA:36969
+    - EMAPA:18288
+    - EMAPA:19370
+    - EMAPA:27059
+    - EMAPA:19529
+    - EMAPA:28114
+    - EMAPA:38173
+    - EMAPA:37526
+    - EMAPA:37330
+    - EMAPA:16887
+    - EMAPA:19452
+named_entities:
+  - id: EMAPA:36628
+    label: perineum
+  - id: EMAPA:37471
+    label: medial ganglionic eminence
+  - id: EMAPA:16253
+    label: hindgut diverticulum endoderm
+  - id: EMAPA:17441
+    label: forelimb digit 5
+  - id: EMAPA:28003
+    label: cortical early proximal tubule
+  - id: EMAPA:19312
+    label: lingual vein
+  - id: EMAPA:37801
+    label: vaginal venous plexus
+  - id: EMAPA:27760
+    label: distal segment of s-shaped body
+  - id: EMAPA:35753
+    label: scala vestibuli
+  - id: EMAPA:17419
+    label: forearm mesenchyme
+  - id: EMAPA:17922
+    label: lower jaw molar epithelium
+  - id: EMAPA:16753
+    label: tail nervous system
+  - id: EMAPA:37858
+    label: limb-girdle complex
+  - id: EMAPA:17761
+    label: mammary mesenchyme
+  - id: EMAPA:18134
+    label: interdigital region between hindlimb digits 2 and 3 skin
+  - id: EMAPA:25605
+    label: Tl16 neural arch transverse process
+  - id: EMAPA:25661
+    label: Tl5 neural arch transverse process
+  - id: EMAPA:37722
+    label: presacral vertebra
+  - id: EMAPA:16566
+    label: foregut-midgut junction vascular element
+  - id: EMAPA:19600
+    label: Tl3 nucleus pulposus
+  - id: EMAPA:16311
+    label: facial neural crest
+  - id: EMAPA:17546
+    label: cerebral cortex marginal layer
+  - id: EMAPA:32812
+    label: parathyroid gland
+  - id: EMAPA:36384
+    label: genital tubercle mesenchyme
+  - id: EMAPA:16109
+    label: amnion
+  - id: EMAPA:17021
+    label: stomach
+  - id: EMAPA:37492
+    label: distal rib
+  - id: EMAPA:35792
+    label: spinal cord gray matter
+  - id: EMAPA:37591
+    label: fusiform nucleus
+  - id: EMAPA:19238
+    label: lateral arcuate ligament
+  - id: EMAPA:26922
+    label: enteric nervous system
+  - id: EMAPA:32695
+    label: lobar bronchus epithelium
+  - id: EMAPA:27107
+    label: duodenum caudal part muscularis mucosa
+  - id: EMAPA:38166
+    label: male lower urogenital tract epithelium
+  - id: EMAPA:16702
+    label: esophageal region epithelium
+  - id: EMAPA:36189
+    label: extensor carpi radialis longus
+  - id: EMAPA:37486
+    label: kidney cortical arch
+  - id: EMAPA:17568
+    label: metencephalon part of 4th ventricle choroid plexus
+  - id: EMAPA:30077
+    label: dorsal genital swelling
+  - id: EMAPA:18970
+    label: upper jaw gum
+  - id: EMAPA:38102
+    label: lateral nasal gland 2
+  - id: EMAPA:25563
+    label: Tl11 neural arch pedicle
+  - id: EMAPA:32649
+    label: hindlimb digit
+  - id: EMAPA:35996
+    label: head bone
+  - id: EMAPA:25571
+    label: Tl12 neural arch pedicle
+  - id: EMAPA:18009
+    label: sacral vertebral cartilage condensation
+  - id: EMAPA:18254
+    label: right hepatico-cardiac vein
+  - id: EMAPA:38241
+    label: intermediate cell layer of pelvic urethra
+  - id: EMAPA:36465
+    label: perioptic vascular plexus
+  - id: EMAPA:35484
+    label: lateral reticular nucleus
+  - id: EMAPA:19009
+    label: right lung middle lobe alveolar system
+  - id: EMAPA:19224
+    label: sagittal suture
+  - id: EMAPA:16153
+    label: future hindbrain neural ectoderm
+  - id: EMAPA:37266
+    label: chest nerve
+  - id: EMAPA:31214
+    label: developing vasculature of oviduct
+  - id: EMAPA:35327
+    label: exocrine gland
+  - id: EMAPA:36233
+    label: gracilis posticus
+  - id: EMAPA:38082
+    label: stratum intermedium
+  - id: EMAPA:18258
+    label: anal canal rostral part mesenchyme
+  - id: EMAPA:19226
+    label: frontal suture
+  - id: EMAPA:36603
+    label: thalamus subventricular zone
+  - id: EMAPA:36955
+    label: orbit of skull
+  - id: EMAPA:32756
+    label: branchial arch mesenchyme derived from neural crest
+  - id: EMAPA:36604
+    label: zona limitans intrathalamica
+  - id: EMAPA:35354
+    label: foot bone
+  - id: EMAPA:32781
+    label: periaqueductal grey
+  - id: EMAPA:37196
+    label: temporal vein
+  - id: EMAPA:17164
+    label: lens vesicle cavity
+  - id: EMAPA:19365
+    label: S4 vertebral pre-cartilage condensation
+  - id: EMAPA:25276
+    label: L5 dorsal root
+  - id: EMAPA:37620
+    label: joint articular surface
+  - id: EMAPA:17039
+    label: midgut loop mesentery
+  - id: EMAPA:17260
+    label: myelencephalon floor plate
+  - id: EMAPA:16066
+    label: primary trophoblast giant cell
+  - id: EMAPA:35869
+    label: tongue papilla epithelium
+  - id: EMAPA:17011
+    label: interatrial septum
+  - id: EMAPA:17555
+    label: medulla oblongata alar plate marginal layer
+  - id: EMAPA:37067
+    label: accessory XI nerve nucleus
+  - id: EMAPA:30876
+    label: mesenchymal layer of primitive bladder
+  - id: EMAPA:38208
+    label: craniofacial suture
+  - id: EMAPA:18244
+    label: foramen ovale of interatrial septum
+  - id: EMAPA:17426
+    label: upper arm mesenchyme
+  - id: EMAPA:37611
+    label: inferior olive beta subnucleus
+  - id: EMAPA:32645
+    label: forelimb digit mesenchyme
+  - id: EMAPA:36334
+    label: mesenchyme of bladder-urethra transition zone
+  - id: EMAPA:17982
+    label: right lung accessory lobe lobar bronchus
+  - id: EMAPA:18124
+    label: hindlimb digit 4 dermis
+  - id: EMAPA:31432
+    label: peritubular fibroblasts of inner medulla
+  - id: EMAPA:17321
+    label: right atrium
+  - id: EMAPA:36969
+    label: periorbital region
+  - id: EMAPA:18288
+    label: falciform ligament
+  - id: EMAPA:19370
+    label: T2 rib pre-cartilage condensation
+  - id: EMAPA:27059
+    label: perineal body serosa
+  - id: EMAPA:19529
+    label: T1 rib
+  - id: EMAPA:28114
+    label: adventitia of ureter
+  - id: EMAPA:38173
+    label: anterior pre-placodal region
+  - id: EMAPA:37526
+    label: external auditory meatus osseus part
+  - id: EMAPA:37330
+    label: hindlimb digit connective tissue
+  - id: EMAPA:16887
+    label: greater sac mesothelium
+  - id: EMAPA:19452
+    label: T6 rib cartilage condensation

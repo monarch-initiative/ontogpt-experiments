@@ -1,0 +1,534 @@
+---
+input_text: |
+  lissencephaly due to TUBA1A mutation
+  late-onset Steinert myotonic dystrophy
+  acinic cell breast carcinoma
+  Kleefstra syndrome 1
+  isolated microphthalmia 5
+  diabetes mellitus, transient neonatal, 2
+  transient tyrosinemia of the newborn
+  nephronophthisis
+  nephrotic syndrome - deafness - pretibial epidermolysis bullosa syndrome
+  non-gestational ovarian choriocarcinoma
+  carpo tarsal osteolysis recessive
+  Thomas syndrome
+  prostate carcinoma
+  postgastrectomy syndrome
+  transient congenital hypothyroidism due to neonatal factor
+  peroxisome biogenesis disorder 8B
+  post-COVID-19 disorder, non-human animal
+  Eiken syndrome
+  amyotrophic lateral sclerosis type 7
+  T-cell Subgroups, non-HLA-linked
+  Charcot-Marie-Tooth disease axonal type 2V
+  genochondromatosis type 1
+  short stature, oligodontia, dysmorphic facies, and motor delay
+  Hirschsprung disease, susceptibility to
+  phosphorus metabolism disease
+  ornithosis
+  Ewing sarcoma/peripheral primitive neuroectodermal tumor
+  X-linked intellectual disability with hypopituitarism
+  congenital hypothyroidism
+  autosomal dominant vibratory urticaria
+  intellectual disability-hypoplastic corpus callosum-preauricular tag syndrome
+  androgenetic alopecia
+  chromosome 4q21 deletion syndrome
+  ectodermal dysplasia Berlin type
+  abdominal cystic lymphangioma
+  neuronal ceroid lipofuscinosis 8
+  brittle cornea syndrome 1
+  antigen defined by monoclonal antibody T87
+  triglyceride deposit cardiomyovasculopathy
+  peritoneal solitary fibrous tumor
+  ichthyosiform erythroderma, corneal involvement, and hearing loss
+  cyclic vomiting syndrome
+  voriconazole toxicity
+  lethal congenital contracture syndrome
+  retroperitoneal hemangiopericytoma
+  status epilepticus
+  pleural epithelioid mesothelioma
+  hearing loss, autosomal recessive 110
+  XH antigen
+  nephrotic syndrome 14
+  Paramyxoviridae infectious disease
+  trismus-pseudocamptodactyly syndrome
+  ovarian surface papilloma
+  calpain-3-related limb-girdle muscular dystrophy D4
+  B-lymphoblastic leukemia/lymphoma MLL rearranged
+  idiopathic bilateral vestibulopathy
+  hearing loss, autosomal dominant 82
+  partial optic atrophy
+  Plasmodium ovale malaria
+  spermatogenic failure 49
+  episodic kinesigenic dyskinesia 3
+  relapsing-remitting multiple sclerosis
+  atypical hypotonia-cystinuria syndrome
+  chronic venous insufficiency
+  streptococcus pneumoniae-associated hemolytic uremic syndrome
+  nodular goiter
+  akinetopsia
+  Usher syndrome type 1K
+  trichodysplasia-xeroderma syndrome
+  hypophosphatemic rickets, X-linked recessive
+  thromboangiitis obliterans
+  malignant superior sulcus neoplasm
+  Franceschini Vardeu Guala syndrome
+  nasal cavity and paranasal sinus lethal midline granuloma
+  neurodevelopmental disorder with central hypotonia and dysmorphic facies
+  acrocardiofacial syndrome
+  bipolar II disorder
+  prostate cancer, hereditary, 8
+  hereditary predisposition to infections
+  aortic dissection lentiginosis
+  UV-induced skin damage, susceptibility to
+  Schistosoma japonicum infectious disease
+  Charcot-Marie-Tooth disease type 1
+  juvenile open angle glaucoma
+  myopathy, distal, 6, adult-onset, autosomal dominant
+  complete cryptophthalmia
+  acute myeloid leukemia, CEBPA gene mutation
+  acute canaliculitis
+  bone dysplasia Moore type
+  third branchial cleft anomaly
+  ichthyosis, hystrix-like, with hearing loss
+  distal trisomy 6q
+  oculocutaneous albinism type 6
+  congenital absence of the sternocleidomastoid muscle
+  duplication of the esophagus
+  type 2 diabetes mellitus
+  tertiary lesion of yaws
+  short tarsus-absence of lower eyelashes syndrome
+  nanophthalmos 2
+  proliferative vitreoretinopathy
+raw_completion_output: |-
+  terms: lissencephaly; Steinert myotonic dystrophy; acinic cell carcinoma; Kleefstra syndrome; microphthalmia; diabetes mellitus, transient neonatal; tyrosinemia; nephronophthisis; nephrotic syndrome; choriocarcinoma; osteolysis; prostate carcinoma; gastrectomy syndrome; hypothyroidism; peroxisome biogenesis disorder; COVID-19; Eiken syndrome; amyotrophic lateral sclerosis; Charcot-Marie-Tooth disease; genochondromatosis; Hirschsprung disease; phosphorus metabolism disease; ornithosis; Ewing sarcoma; intellectual disability; congenital hypothyroidism; vibratory urticaria; ectodermal dysplasia; cystic lymphangioma; neuronal ceroid lipofuscinosis; brittle cornea syndrome; antigen defined by monoclonal antibody; triglyceride deposit cardiomyovasculopathy; solitary fibrous tumor; ichthyosiform erythroderma; cyclic vomiting syndrome; voriconazole toxicity; congenital contracture syndrome; hemangiopericytoma; status epilepticus; epithelioid mesothelioma; hearing loss; nephrotic syndrome; Paramyxoviridae infectious disease; trismus-pseudocamptodactyly syndrome; papilloma; limb-girdle muscular dystrophy; leukemia/lymphoma MLL rearranged; vestibulopathy; optic atrophy; Plasmodium ovale malaria; spermatogenic failure; kinesigenic dyskinesia; multiple sclerosis; hypotonia-cystinuria syndrome; venous insufficiency; hemolytic uremic syndrome; goiter; akinesia; Usher syndrome; trichodysplasia-xeroderma syndrome; hypophosphatemic rickets; thromboangiitis obliterans; superior sulcus neoplasm; Vardeu Guala syndrome; lethal midline granuloma; neurodevelopmental disorder; acrocardiofacial syndrome; bipolar disorder; cancer, hereditary; predisposition to infections; aortic dissection; skin damage; Schistosoma japonicum infectious disease; glaucoma; myopathy, distal; cryptophthalmia; acute myeloid leukemia; canaliculitis; dysplasia Moore type; branchial cleft anomaly; ichthyosis; trisomy; albinism; absence of the sternocleidomastoid muscle; esophagus duplication; diabetes mellitus type 2; yaws; tarsus syndrome; nanophthalmos; proliferative vitreoretinopathy
+
+  label: lissencephaly due to TUBA1A mutation; late-onset Steinert myotonic dystrophy; acinic cell breast carcinoma; Kleefstra syndrome 1; isolated microphthalmia 5; diabetes mellitus, transient neonatal, 2; transient tyrosinemia of the newborn; nephronophthisis; nephrotic syndrome - deafness - pretibial epidermolysis bullosa syndrome; non-gestational ovarian choriocarcinoma; carpo tarsal osteolysis recessive; Thomas syndrome; prostate carcinoma; postgastrectomy syndrome; transient congenital hypothyroidism due to neonatal factor; peroxisome biogenesis disorder 8B; post-COVID-19 disorder, non-human animal; Eiken syndrome; amyotrophic lateral sclerosis type 7; T-cell Subgroups, non-HLA-linked; Charcot-Marie-Tooth disease axonal type 2V; genochondromatosis type 1; short stature, oligodontia, dysmorphic facies, and motor delay; Hirschsprung disease, susceptibility to; phosphorus metabolism disease; ornithosis; Ewing sarcoma/peripheral primitive neuroectodermal tumor; X-linked intellectual disability with hypopituitarism; congenital hypothyroidism; autosomal dominant vibratory urticaria; intellectual disability-hypoplastic corpus callosum-preauricular tag syndrome; androgenetic alopecia; chromosome 4q21 deletion syndrome; ectodermal dysplasia Berlin type; abdominal cystic lymphangioma; neuronal ceroid lipofuscinosis 8; brittle cornea syndrome 1; antigen defined by monoclonal antibody T87; triglyceride deposit cardiomyovasculopathy; peritoneal solitary fibrous tumor; ichthyosiform erythroderma, corneal involvement, and hearing loss; cyclic vomiting syndrome; voriconazole toxicity; lethal congenital contracture syndrome; retroperitoneal hemangiopericytoma; status epilepticus; pleural epithelioid mesothelioma; hearing loss, autosomal recessive 110; XH antigen; nephrotic syndrome 14; Paramyxoviridae infectious disease; trismus-pseudocamptodactyly syndrome; ovarian surface papilloma; calpain-3-related limb-girdle muscular dystrophy D4; B-lymphoblastic leukemia/lymphoma MLL rearranged; idiopathic bilateral vestibulopathy; hearing loss, autosomal dominant 82; partial optic atrophy; Plasmodium ovale malaria; spermatogenic failure 49; episodic kinesigenic dyskinesia 3; relapsing-remitting multiple sclerosis; atypical hypotonia-cystinuria syndrome; chronic venous insufficiency; streptococcus pneumoniae-associated hemolytic uremic syndrome; nodular goiter; akinetopsia; Usher syndrome type 1K; trichodysplasia-xeroderma syndrome; hypophosphatemic rickets, X-linked recessive; thromboangiitis obliterans; malignant superior sulcus neoplasm; Franceschini Vardeu Guala syndrome; nasal cavity and paranasal sinus lethal midline granuloma; neurodevelopmental disorder with central hypotonia and dysmorphic facies; acrocardiofacial syndrome; bipolar II disorder; prostate cancer, hereditary, 8; hereditary predisposition to infections; aortic dissection lentiginosis; UV-induced skin damage, susceptibility to; Schistosoma japonicum infectious disease; Charcot-Marie-Tooth disease type 1; juvenile open angle glaucoma; myopathy, distal, 6, adult-onset, autosomal dominant; complete cryptophthalmia; acute myeloid leukemia, CEBPA gene mutation; acute canaliculitis; bone dysplasia Moore type; third branchial cleft anomaly; ichthyosis, hystrix-like, with hearing loss; distal trisomy 6q; oculocutaneous albinism type 6; congenital absence of the sternocleidomastoid muscle; duplication of the esophagus; type 2 diabetes mellitus; tertiary lesion of yaws; short tarsus-absence of lower eyelashes syndrome; nanophthalmos 2; proliferative vitreoretinopathy
+prompt: |+
+  From the text below, extract the following entities in the following format:
+
+  terms: <A semicolon-separated list of any MONDO Disease Ontology terms.>
+  label: <The label (name) of the named thing>
+
+
+  Text:
+  lissencephaly due to TUBA1A mutation
+  late-onset Steinert myotonic dystrophy
+  acinic cell breast carcinoma
+  Kleefstra syndrome 1
+  isolated microphthalmia 5
+  diabetes mellitus, transient neonatal, 2
+  transient tyrosinemia of the newborn
+  nephronophthisis
+  nephrotic syndrome - deafness - pretibial epidermolysis bullosa syndrome
+  non-gestational ovarian choriocarcinoma
+  carpo tarsal osteolysis recessive
+  Thomas syndrome
+  prostate carcinoma
+  postgastrectomy syndrome
+  transient congenital hypothyroidism due to neonatal factor
+  peroxisome biogenesis disorder 8B
+  post-COVID-19 disorder, non-human animal
+  Eiken syndrome
+  amyotrophic lateral sclerosis type 7
+  T-cell Subgroups, non-HLA-linked
+  Charcot-Marie-Tooth disease axonal type 2V
+  genochondromatosis type 1
+  short stature, oligodontia, dysmorphic facies, and motor delay
+  Hirschsprung disease, susceptibility to
+  phosphorus metabolism disease
+  ornithosis
+  Ewing sarcoma/peripheral primitive neuroectodermal tumor
+  X-linked intellectual disability with hypopituitarism
+  congenital hypothyroidism
+  autosomal dominant vibratory urticaria
+  intellectual disability-hypoplastic corpus callosum-preauricular tag syndrome
+  androgenetic alopecia
+  chromosome 4q21 deletion syndrome
+  ectodermal dysplasia Berlin type
+  abdominal cystic lymphangioma
+  neuronal ceroid lipofuscinosis 8
+  brittle cornea syndrome 1
+  antigen defined by monoclonal antibody T87
+  triglyceride deposit cardiomyovasculopathy
+  peritoneal solitary fibrous tumor
+  ichthyosiform erythroderma, corneal involvement, and hearing loss
+  cyclic vomiting syndrome
+  voriconazole toxicity
+  lethal congenital contracture syndrome
+  retroperitoneal hemangiopericytoma
+  status epilepticus
+  pleural epithelioid mesothelioma
+  hearing loss, autosomal recessive 110
+  XH antigen
+  nephrotic syndrome 14
+  Paramyxoviridae infectious disease
+  trismus-pseudocamptodactyly syndrome
+  ovarian surface papilloma
+  calpain-3-related limb-girdle muscular dystrophy D4
+  B-lymphoblastic leukemia/lymphoma MLL rearranged
+  idiopathic bilateral vestibulopathy
+  hearing loss, autosomal dominant 82
+  partial optic atrophy
+  Plasmodium ovale malaria
+  spermatogenic failure 49
+  episodic kinesigenic dyskinesia 3
+  relapsing-remitting multiple sclerosis
+  atypical hypotonia-cystinuria syndrome
+  chronic venous insufficiency
+  streptococcus pneumoniae-associated hemolytic uremic syndrome
+  nodular goiter
+  akinetopsia
+  Usher syndrome type 1K
+  trichodysplasia-xeroderma syndrome
+  hypophosphatemic rickets, X-linked recessive
+  thromboangiitis obliterans
+  malignant superior sulcus neoplasm
+  Franceschini Vardeu Guala syndrome
+  nasal cavity and paranasal sinus lethal midline granuloma
+  neurodevelopmental disorder with central hypotonia and dysmorphic facies
+  acrocardiofacial syndrome
+  bipolar II disorder
+  prostate cancer, hereditary, 8
+  hereditary predisposition to infections
+  aortic dissection lentiginosis
+  UV-induced skin damage, susceptibility to
+  Schistosoma japonicum infectious disease
+  Charcot-Marie-Tooth disease type 1
+  juvenile open angle glaucoma
+  myopathy, distal, 6, adult-onset, autosomal dominant
+  complete cryptophthalmia
+  acute myeloid leukemia, CEBPA gene mutation
+  acute canaliculitis
+  bone dysplasia Moore type
+  third branchial cleft anomaly
+  ichthyosis, hystrix-like, with hearing loss
+  distal trisomy 6q
+  oculocutaneous albinism type 6
+  congenital absence of the sternocleidomastoid muscle
+  duplication of the esophagus
+  type 2 diabetes mellitus
+  tertiary lesion of yaws
+  short tarsus-absence of lower eyelashes syndrome
+  nanophthalmos 2
+  proliferative vitreoretinopathy
+
+
+  ===
+
+extracted_object:
+  id: 7880c09d-4384-42c7-8442-6685b80e0e55
+  label: lissencephaly due to TUBA1A mutation; late-onset Steinert myotonic dystrophy;
+    acinic cell breast carcinoma; Kleefstra syndrome 1; isolated microphthalmia 5;
+    diabetes mellitus, transient neonatal, 2; transient tyrosinemia of the newborn;
+    nephronophthisis; nephrotic syndrome - deafness - pretibial epidermolysis bullosa
+    syndrome; non-gestational ovarian choriocarcinoma; carpo tarsal osteolysis recessive;
+    Thomas syndrome; prostate carcinoma; postgastrectomy syndrome; transient congenital
+    hypothyroidism due to neonatal factor; peroxisome biogenesis disorder 8B; post-COVID-19
+    disorder, non-human animal; Eiken syndrome; amyotrophic lateral sclerosis type
+    7; T-cell Subgroups, non-HLA-linked; Charcot-Marie-Tooth disease axonal type 2V;
+    genochondromatosis type 1; short stature, oligodontia, dysmorphic facies, and
+    motor delay; Hirschsprung disease, susceptibility to; phosphorus metabolism disease;
+    ornithosis; Ewing sarcoma/peripheral primitive neuroectodermal tumor; X-linked
+    intellectual disability with hypopituitarism; congenital hypothyroidism; autosomal
+    dominant vibratory urticaria; intellectual disability-hypoplastic corpus callosum-preauricular
+    tag syndrome; androgenetic alopecia; chromosome 4q21 deletion syndrome; ectodermal
+    dysplasia Berlin type; abdominal cystic lymphangioma; neuronal ceroid lipofuscinosis
+    8; brittle cornea syndrome 1; antigen defined by monoclonal antibody T87; triglyceride
+    deposit cardiomyovasculopathy; peritoneal solitary fibrous tumor; ichthyosiform
+    erythroderma, corneal involvement, and hearing loss; cyclic vomiting syndrome;
+    voriconazole toxicity; lethal congenital contracture syndrome; retroperitoneal
+    hemangiopericytoma; status epilepticus; pleural epithelioid mesothelioma; hearing
+    loss, autosomal recessive 110; XH antigen; nephrotic syndrome 14; Paramyxoviridae
+    infectious disease; trismus-pseudocamptodactyly syndrome; ovarian surface papilloma;
+    calpain-3-related limb-girdle muscular dystrophy D4; B-lymphoblastic leukemia/lymphoma
+    MLL rearranged; idiopathic bilateral vestibulopathy; hearing loss, autosomal dominant
+    82; partial optic atrophy; Plasmodium ovale malaria; spermatogenic failure 49;
+    episodic kinesigenic dyskinesia 3; relapsing-remitting multiple sclerosis; atypical
+    hypotonia-cystinuria syndrome; chronic venous insufficiency; streptococcus pneumoniae-associated
+    hemolytic uremic syndrome; nodular goiter; akinetopsia; Usher syndrome type 1K;
+    trichodysplasia-xeroderma syndrome; hypophosphatemic rickets, X-linked recessive;
+    thromboangiitis obliterans; malignant superior sulcus neoplasm; Franceschini Vardeu
+    Guala syndrome; nasal cavity and paranasal sinus lethal midline granuloma; neurodevelopmental
+    disorder with central hypotonia and dysmorphic facies; acrocardiofacial syndrome;
+    bipolar II disorder; prostate cancer, hereditary, 8; hereditary predisposition
+    to infections; aortic dissection lentiginosis; UV-induced skin damage, susceptibility
+    to; Schistosoma japonicum infectious disease; Charcot-Marie-Tooth disease type
+    1; juvenile open angle glaucoma; myopathy, distal, 6, adult-onset, autosomal dominant;
+    complete cryptophthalmia; acute myeloid leukemia, CEBPA gene mutation; acute canaliculitis;
+    bone dysplasia Moore type; third branchial cleft anomaly; ichthyosis, hystrix-like,
+    with hearing loss; distal trisomy 6q; oculocutaneous albinism type 6; congenital
+    absence of the sternocleidomastoid muscle; duplication of the esophagus; type
+    2 diabetes mellitus; tertiary lesion of yaws; short tarsus-absence of lower eyelashes
+    syndrome; nanophthalmos 2; proliferative vitreoretinopathy
+  terms:
+    - MONDO:0018838
+    - MONDO:0008056
+    - MONDO:0004965
+    - MONDO:0012455
+    - MONDO:0021129
+    - MONDO:0020525
+    - MONDO:0004741
+    - MONDO:0019005
+    - MONDO:0005377
+    - MONDO:0005207
+    - MONDO:0043731
+    - MONDO:0005159
+    - AUTO:gastrectomy%20syndrome
+    - MONDO:0005420
+    - MONDO:0019234
+    - MONDO:0100096
+    - MONDO:0010803
+    - MONDO:0004976
+    - MONDO:0015626
+    - MONDO:0007653
+    - MONDO:0018309
+    - MONDO:0002319
+    - MONDO:0005888
+    - MONDO:0012817
+    - MONDO:0001071
+    - MONDO:0018612
+    - MONDO:0006618
+    - MONDO:0009773
+    - MONDO:0009761
+    - MONDO:0016295
+    - MONDO:0009242
+    - AUTO:antigen%20defined%20by%20monoclonal%20antibody
+    - MONDO:0035423
+    - MONDO:0016238
+    - MONDO:0019306
+    - MONDO:0010778
+    - MONDO:0027696
+    - AUTO:congenital%20contracture%20syndrome
+    - MONDO:0005094
+    - MONDO:0002125
+    - MONDO:0005599
+    - MONDO:0005365
+    - MONDO:0005377
+    - MONDO:0005896
+    - MONDO:0008016
+    - MONDO:0002363
+    - MONDO:0016971
+    - AUTO:leukemia/lymphoma%20MLL%20rearranged
+    - AUTO:vestibulopathy
+    - MONDO:0003608
+    - MONDO:0001601
+    - MONDO:0004983
+    - AUTO:kinesigenic%20dyskinesia
+    - MONDO:0005301
+    - MONDO:0011669
+    - MONDO:0000945
+    - MONDO:0001549
+    - MONDO:0005397
+    - AUTO:akinesia
+    - MONDO:0019501
+    - MONDO:0008598
+    - MONDO:0024300
+    - MONDO:0008889
+    - AUTO:superior%20sulcus%20neoplasm
+    - AUTO:Vardeu%20Guala%20syndrome
+    - MONDO:0019472
+    - MONDO:0700092
+    - MONDO:0010890
+    - MONDO:0004985
+    - AUTO:cancer%2C%20hereditary
+    - AUTO:predisposition%20to%20infections
+    - AUTO:aortic%20dissection
+    - AUTO:skin%20damage
+    - MONDO:0044344
+    - MONDO:0005041
+    - AUTO:myopathy%2C%20distal
+    - MONDO:0020153
+    - MONDO:0018874
+    - MONDO:0005631
+    - AUTO:dysplasia%20Moore%20type
+    - AUTO:branchial%20cleft%20anomaly
+    - MONDO:0019269
+    - MONDO:0700065
+    - MONDO:0043209
+    - AUTO:absence%20of%20the%20sternocleidomastoid%20muscle
+    - AUTO:esophagus%20duplication
+    - MONDO:0007452
+    - MONDO:0006019
+    - AUTO:tarsus%20syndrome
+    - MONDO:0021129
+    - MONDO:0700115
+named_entities:
+  - id: MONDO:0018838
+    label: lissencephaly
+  - id: MONDO:0008056
+    label: Steinert myotonic dystrophy
+  - id: MONDO:0004965
+    label: acinic cell carcinoma
+  - id: MONDO:0012455
+    label: Kleefstra syndrome
+  - id: MONDO:0021129
+    label: microphthalmia
+  - id: MONDO:0020525
+    label: diabetes mellitus, transient neonatal
+  - id: MONDO:0004741
+    label: tyrosinemia
+  - id: MONDO:0019005
+    label: nephronophthisis
+  - id: MONDO:0005377
+    label: nephrotic syndrome
+  - id: MONDO:0005207
+    label: choriocarcinoma
+  - id: MONDO:0043731
+    label: osteolysis
+  - id: MONDO:0005159
+    label: prostate carcinoma
+  - id: AUTO:gastrectomy%20syndrome
+    label: gastrectomy syndrome
+  - id: MONDO:0005420
+    label: hypothyroidism
+  - id: MONDO:0019234
+    label: peroxisome biogenesis disorder
+  - id: MONDO:0100096
+    label: COVID-19
+  - id: MONDO:0010803
+    label: Eiken syndrome
+  - id: MONDO:0004976
+    label: amyotrophic lateral sclerosis
+  - id: MONDO:0015626
+    label: Charcot-Marie-Tooth disease
+  - id: MONDO:0007653
+    label: genochondromatosis
+  - id: MONDO:0018309
+    label: Hirschsprung disease
+  - id: MONDO:0002319
+    label: phosphorus metabolism disease
+  - id: MONDO:0005888
+    label: ornithosis
+  - id: MONDO:0012817
+    label: Ewing sarcoma
+  - id: MONDO:0001071
+    label: intellectual disability
+  - id: MONDO:0018612
+    label: congenital hypothyroidism
+  - id: MONDO:0006618
+    label: vibratory urticaria
+  - id: MONDO:0009773
+    label: ectodermal dysplasia
+  - id: MONDO:0009761
+    label: cystic lymphangioma
+  - id: MONDO:0016295
+    label: neuronal ceroid lipofuscinosis
+  - id: MONDO:0009242
+    label: brittle cornea syndrome
+  - id: AUTO:antigen%20defined%20by%20monoclonal%20antibody
+    label: antigen defined by monoclonal antibody
+  - id: MONDO:0035423
+    label: triglyceride deposit cardiomyovasculopathy
+  - id: MONDO:0016238
+    label: solitary fibrous tumor
+  - id: MONDO:0019306
+    label: ichthyosiform erythroderma
+  - id: MONDO:0010778
+    label: cyclic vomiting syndrome
+  - id: MONDO:0027696
+    label: voriconazole toxicity
+  - id: AUTO:congenital%20contracture%20syndrome
+    label: congenital contracture syndrome
+  - id: MONDO:0005094
+    label: hemangiopericytoma
+  - id: MONDO:0002125
+    label: status epilepticus
+  - id: MONDO:0005599
+    label: epithelioid mesothelioma
+  - id: MONDO:0005365
+    label: hearing loss
+  - id: MONDO:0005896
+    label: Paramyxoviridae infectious disease
+  - id: MONDO:0008016
+    label: trismus-pseudocamptodactyly syndrome
+  - id: MONDO:0002363
+    label: papilloma
+  - id: MONDO:0016971
+    label: limb-girdle muscular dystrophy
+  - id: AUTO:leukemia/lymphoma%20MLL%20rearranged
+    label: leukemia/lymphoma MLL rearranged
+  - id: AUTO:vestibulopathy
+    label: vestibulopathy
+  - id: MONDO:0003608
+    label: optic atrophy
+  - id: MONDO:0001601
+    label: Plasmodium ovale malaria
+  - id: MONDO:0004983
+    label: spermatogenic failure
+  - id: AUTO:kinesigenic%20dyskinesia
+    label: kinesigenic dyskinesia
+  - id: MONDO:0005301
+    label: multiple sclerosis
+  - id: MONDO:0011669
+    label: hypotonia-cystinuria syndrome
+  - id: MONDO:0000945
+    label: venous insufficiency
+  - id: MONDO:0001549
+    label: hemolytic uremic syndrome
+  - id: MONDO:0005397
+    label: goiter
+  - id: AUTO:akinesia
+    label: akinesia
+  - id: MONDO:0019501
+    label: Usher syndrome
+  - id: MONDO:0008598
+    label: trichodysplasia-xeroderma syndrome
+  - id: MONDO:0024300
+    label: hypophosphatemic rickets
+  - id: MONDO:0008889
+    label: thromboangiitis obliterans
+  - id: AUTO:superior%20sulcus%20neoplasm
+    label: superior sulcus neoplasm
+  - id: AUTO:Vardeu%20Guala%20syndrome
+    label: Vardeu Guala syndrome
+  - id: MONDO:0019472
+    label: lethal midline granuloma
+  - id: MONDO:0700092
+    label: neurodevelopmental disorder
+  - id: MONDO:0010890
+    label: acrocardiofacial syndrome
+  - id: MONDO:0004985
+    label: bipolar disorder
+  - id: AUTO:cancer%2C%20hereditary
+    label: cancer, hereditary
+  - id: AUTO:predisposition%20to%20infections
+    label: predisposition to infections
+  - id: AUTO:aortic%20dissection
+    label: aortic dissection
+  - id: AUTO:skin%20damage
+    label: skin damage
+  - id: MONDO:0044344
+    label: Schistosoma japonicum infectious disease
+  - id: MONDO:0005041
+    label: glaucoma
+  - id: AUTO:myopathy%2C%20distal
+    label: myopathy, distal
+  - id: MONDO:0020153
+    label: cryptophthalmia
+  - id: MONDO:0018874
+    label: acute myeloid leukemia
+  - id: MONDO:0005631
+    label: canaliculitis
+  - id: AUTO:dysplasia%20Moore%20type
+    label: dysplasia Moore type
+  - id: AUTO:branchial%20cleft%20anomaly
+    label: branchial cleft anomaly
+  - id: MONDO:0019269
+    label: ichthyosis
+  - id: MONDO:0700065
+    label: trisomy
+  - id: MONDO:0043209
+    label: albinism
+  - id: AUTO:absence%20of%20the%20sternocleidomastoid%20muscle
+    label: absence of the sternocleidomastoid muscle
+  - id: AUTO:esophagus%20duplication
+    label: esophagus duplication
+  - id: MONDO:0007452
+    label: diabetes mellitus type 2
+  - id: MONDO:0006019
+    label: yaws
+  - id: AUTO:tarsus%20syndrome
+    label: tarsus syndrome
+  - id: MONDO:0700115
+    label: proliferative vitreoretinopathy

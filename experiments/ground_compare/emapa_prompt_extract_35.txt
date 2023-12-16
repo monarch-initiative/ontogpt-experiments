@@ -1,0 +1,100 @@
+id: EHDAA2:0002125 ! label: perineum 
+id: EHDAA2:0004656 ! label: medial ganglionic eminence 
+id: EHDAA2:0004319 ! label: hindgut diverticulum endoderm 
+id: EHDAA2:0002336 ! label: forelimb digit 5 
+id: EHDAA2:0001994 ! label: cortical early proximal tubule 
+id: EHDAA2:0005053 ! label: lingual vein 
+id: EHDAA2:0005075 ! label: vaginal venous plexus 
+id: EHDAA2:0001760 ! label: distal segment of S-shaped body 
+id: EHDAA2:0002192 ! label: scala vestibuli 
+id: EHDAA2:0002317 ! label: forearm mesenchyme 
+id: EHDAA2:0004633 ! label: lower jaw molar epithelium 
+id: EHDAA2:0001465 ! label: tail nervous system 
+id: EHDAA2:0002584 ! label: limb-girdle complex 
+id: EHDAA2:0002436 ! label: mammary mesenchyme 
+id: EHDAA2:0003354 ! label: interdigital region between hindlimb digits 2 and 3 skin 
+id: EHDAA2:0008812 ! label: Tl16 neural arch transverse process 
+id: EHDAA2:0011240 ! label: Tl5 neural arch transverse process 
+id: EHDAA2:0005353 ! label: presacral vertebra 
+id: EHDAA2:0010497 ! label: foregut-midgut junction vascular element 
+id: EHDAA2:0014483 ! label: Tl3 nucleus pulposus 
+id: EHDAA2:0004711 ! label: facial neural crest 
+id: EHDAA2:0001863 ! label: cerebral cortex marginal layer 
+id: EHDAA2:0001924 ! label: parathyroid gland 
+id: EHDAA2:0011935 ! label: genital tubercle mesenchyme 
+id: EHDAA2:0002852 ! label: amnion 
+id: EHDAA2:0005730 ! label: stomach 
+id: EHDAA2:0010026 ! label: distal rib 
+id: EHDAA2:0002762 ! label: spinal cord gray matter 
+id: EHDAA2:0003423 ! label: fusiform nucleus 
+id: EHDAA2:0005412 ! label: lateral arcuate ligament 
+id: EHDAA2:0004634 ! label: enteric nervous system 
+id: EHDAA2:0006053 ! label: lobar bronchus epithelium 
+id: EHDAA2:0006049 ! label: duodenum caudal part muscularis mucosa 
+id: EHDAA2:0010650 ! label: male lower urogenital tract epithelium 
+id: EHDAA2:0006067 ! label: esophageal region epithelium 
+id: EHDAA2:0002209 ! label: extensor carpi radialis longus 
+id: EHDAA2:0000003 ! label: kidney cortical arch 
+id: EHDAA2:0002257 ! label: metencephalon part of 4th ventricle choroid plexus 
+id: EHDAA2:0004644 ! label: dorsal genital swelling 
+id: EHDAA2:0004646 ! label: upper jaw gum 
+id: EHDAA2:0007995 ! label: lateral nasal gland 2 
+id: EHDAA2:0010031 ! label: Tl11 neural arch pedicle 
+id: EHDAA2:0002027 ! label: hindlimb digit 
+id: EHDAA2:0002071 ! label: head bone 
+id: EHDAA2:0010032 ! label: Tl12 neural arch pedicle 
+id: EHDAA2:0002466 ! label: sacral vertebral cartilage condensation 
+id: EHDAA2:0005318 ! label: right hepatico-cardiac vein 
+id: EHDAA2:0001439 ! label: intermediate cell layer of pelvic urethra 
+id: EHDAA2:0004623 ! label: perioptic vascular plexus 
+id: EHDAA2:0003428 ! label: lateral reticular nucleus 
+id: EHDAA2:0007482 ! label: right lung middle lobe alveolar system 
+id: EHDAA2:0010018 ! label: sagittal suture 
+id: EHDAA2:0001900 ! label: future hindbrain neural ectoderm 
+id: EHDAA2:0002561 ! label: chest nerve 
+id: EHDAA2:0010487 ! label: developing vasculature of oviduct 
+id: EHDAA2:0005747 ! label: exocrine gland 
+id: EHDAA2:0002851 ! label: gracilis posticus 
+id: EHDAA2:0005893 ! label: stratum intermedium 
+id: EHDAA2:0007434 ! label: anal canal rostral part mesenchyme 
+id: EHDAA2:0010017 ! label: frontal suture 
+id: EHDAA2:0002067 ! label: thalamus subventricular zone 
+id: EHDAA2:0002102 ! label: orbit of skull 
+id: EHDAA2:0002094 ! label: branchial arch mesenchyme derived from neural crest 
+id: EHDAA2:0001969 ! label: zona limitans intrathalamica 
+id: EHDAA2:0002200 ! label: foot bone 
+id: EHDAA2:0003044 ! label: periaqueductal gray 
+id: EHDAA2:0005260 ! label: temporal vein 
+id: EHDAA2:0006374 ! label: lens vesicle cavity 
+id: EHDAA2:0011352 ! label: S4 vertebral pre-cartilage condensation 
+id: EHDAA2:0012788 ! label: L5 dorsal root 
+id: EHDAA2:0000708 ! label: joint articular surface 
+id: EHDAA2:0010505 ! label: midgut loop mesentery 
+id: EHDAA2:0003447 ! label: myelencephalon floor plate 
+id: EHDAA2:0007450 ! label: primary trophoblast giant cell 
+id: EHDAA2:0004566 ! label: tongue papilla epithelium 
+id: EHDAA2:0010509 ! label: interatrial septum 
+id: EHDAA2:0003442 ! label: medulla oblongata alar plate marginal layer 
+id: EHDAA2:0007371 ! label: accessory XI nerve nucleus 
+id: EHDAA2:0011966 ! label: mesenchymal layer of primitive bladder 
+id: EHDAA2:0010020 ! label: craniofacial suture 
+id: EHDAA2:0003522 ! label: foramen ovale of interatrial septum 
+id: EHDAA2:0012426 ! label: upper arm mesenchyme 
+id: EHDAA2:0003500 ! label: inferior olive beta subnucleus 
+id: EHDAA2:0002182 ! label: forelimb digit mesenchyme 
+id: EHDAA2:0004343 ! label: mesenchyme of bladder-urethra transition zone 
+id: EHDAA2:0007525 ! label: right lung accessory lobe lobar bronchus 
+id: EHDAA2:0002026 ! label: hindlimb digit 4 dermis 
+id: EHDAA2:0004314 ! label: peritubular fibroblasts of inner medulla 
+id: EHDAA2:0005871 ! label: right atrium 
+id: EHDAA2:0002098 ! label: periorbital region 
+id: EHDAA2:0002812 ! label: falciform ligament 
+id: EHDAA2:0010656 ! label: T2 rib pre-cartilage condensation 
+id: EHDAA2:0001746 ! label: perineal body serosa 
+id: EHDAA2:0010654 ! label: T1 rib 
+id: EHDAA2:0011359 ! label: adventitia of ureter 
+id: EHDAA2:0004335 ! label: anterior pre-placodal region 
+id: EHDAA2:0004989 ! label: external auditory meatus osseous part 
+id: EHDAA2:0002073 ! label: hindlimb digit connective tissue 
+id: EHDAA2:0010295 ! label: greater sac mesothelium 
+id: EHDAA2:0005907 ! label: T6 rib cartilage condensation
