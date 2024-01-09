@@ -2,7 +2,7 @@
 
 * `huggingface_urls.txt` contains one URL per line. Each corresponds to a single set of metadata describing a dataset on the HuggingFace platform.
 * `github_urls.txt` contains one URL per line. Each corresponds to the README page for a repository containing a dataset on the GitHub platform.
-* `portal_urls.txt` contains one URL per line. Each corresponds to the landing page for an open data portal.
+* `portal_urls.txt` contains one URL per line. Each corresponds to the landing page *or* documentation page (e.g., FAQ or help page) for an open data portal.
 
 The goal here is to:
 
