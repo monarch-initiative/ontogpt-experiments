@@ -1,0 +1,10 @@
+http://www.humanconnectomeproject.org/about/
+https://reactome.org/what-is-reactome
+https://sites.google.com/view/yeastgenome-help/about
+https://www.ebi.ac.uk/gxa/FAQ.html
+https://www.ebi.ac.uk/intact/documentation/user-guide
+https://www.encodeproject.org/help/faq/
+https://www.informatics.jax.org/mgihome/projects/overview.shtml
+https://www.internationalgenome.org/about
+https://www.ncbi.nlm.nih.gov/clinvar/intro/
+https://zfin.atlassian.net/wiki/spaces/general/pages/1891415775/ZFIN+Database+Information
