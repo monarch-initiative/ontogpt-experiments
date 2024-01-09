@@ -1,0 +1,8 @@
+https://github.com/GalAvineri/ISIC-Archive-Downloader
+https://github.com/biocore/American-Gut
+https://github.com/clinicalml/embeddings
+https://github.com/datasets/country-codes
+https://github.com/neheller/kits19/
+https://github.com/snap-stanford/ogb
+https://github.com/UCDenver-ccp/CRAFT
+https://github.com/bayer-science-for-a-better-life/data2text-bioleaflets
