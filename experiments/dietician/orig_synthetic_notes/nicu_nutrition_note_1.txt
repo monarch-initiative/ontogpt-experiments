@@ -1,0 +1,41 @@
+Pt Name: Baby Girl A
+Yellow Rainbow Hospital
+MRN: 000000000000
+
+Nutrition Assessment
+
+
+Assessment: 
+Baby Girl A (ex 37 0/7- BW: 2.81 kg) born via vaginal delivery, maternal hx significant for polyhydramnios. Infant transferred to Yellow Rainbow Hospital after NGT unable to be advance past 11 cm, concerning for esophageal atresia. CXR obtained with gastric bubble, concerning for TEF, likely type C. Infant NPO upon admission with starter TPN at 80 mL/kg/d and repogle to LIS. VACTERL w/u completed- ECHO with trivial PDA, VACTERL ruled out. PICC consent obtained, planning for custom TPN tonight. Infant to go to OR for repair today. RD following with NICU team. 
+
+EGA: 37 0/7
+CGA: 37 1/7
+BW: 2.81 kg, 48%ile, z-score: -0.06
+Current Wt: 2.79 kg, 46%ile, -0.10 
+Lt: 44 cm, 8%ile, z-score: -1.43
+HC: 35 cm, 92%ile, z-score: 1.42 
+
+Medications: amp/cefipime 
+
+Lines/Drains/Tubes: PICC (placed 12/1), Repogle 
+
+Labs: Na 134, K+ 4.5, Cl 104, CO2 24, BUN 17, Cr 0.2, BG 100, Ca 8.4, Phos 4.5 
+
+Nutrition Prescription: 
+Current Diet Order: Starter TPN (D10%, Trophamine 3.5%) at 80 ml/kg/d, GIR: 5.5 mg/kg/min, AA 2.8 gm/kg/d
+
+Fluid: 80 mL/kg/d (acutely)  120-140 mL/kg/d (per NICU post-operatively) 
+Calories: 100-110 kcal/kg/d
+Protein: 3-3.5 gm/kg/d 
+
+Diagnosis: 
+1.	Altered GI function related to Type C TEF as evidenced by radiographical findings, NPO with a need for TPN support 
+
+Nutrition Interventions:  
+1.	Recommend initiation of custom TPN via PICC at D12%, AA 3.5 gm/kg/d and SMOF 2 gm/kg/d. Goal: Achieve minimal metabolic support of 60-80 kcal/kg/d. 
+2.	Recommend CMP, Mg and Phos daily until TPN prescription is at goal. TG once lipids at goal. Goal: Values within normal limits with current nutrition management. 
+3.	Following POD #5 and completion of esophagram with no leak, recommend initiating feeds of EHM 20 kcal/oz via Surgical Feeding Guideline 2. Goal: Progress to full enteral feeds.
+4.	Recommend Milk Oral Pharyngeal (MOP) care while NPO. Goal: Positive immune function. 
+5.	Recommend daily weights. Goal: RTBW by DOL 7-10 with subsequent weight gain of 25-30 gm/kg/d. 
+
+Follow Up: 3-7 days (12/4-12/8)
