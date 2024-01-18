@@ -24,7 +24,7 @@ Labs: Na 134, K+ 4.5, Cl 104, CO2 24, BUN 17, Cr 0.2, BG 100, Ca 8.4, Phos 4.5
 Nutrition Prescription: 
 Current Diet Order: Starter TPN (D10%, Trophamine 3.5%) at 80 ml/kg/d, GIR: 5.5 mg/kg/min, AA 2.8 gm/kg/d
 
-Fluid: 80 mL/kg/d (acutely)  120-140 mL/kg/d (per NICU post-operatively) 
+Fluid: 80 mL/kg/d (acutely) -> 120-140 mL/kg/d (per NICU post-operatively) 
 Calories: 100-110 kcal/kg/d
 Protein: 3-3.5 gm/kg/d 
 
