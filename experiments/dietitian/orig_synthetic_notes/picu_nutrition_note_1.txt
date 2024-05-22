@@ -1,0 +1,49 @@
+Pt Name: AP
+Pediatric Critical Care Hospital
+MRN: 123456
+
+Nutrition Assessment
+
+AP is a 13-year-old female who presented to the ED with complaints of abd pain, weight loss and poor PO intake over the past month. Pt initially admitted to the medical floors, acutely decompensated requiring escalating respiratory support, transferred to PICU for further care. Pt with increasing FIO2 requirements, intubated on 12/5. KUB obtained- showed large intestinal mass. S/p ex-lap on 12/6 with resection of ~30 cm of necrotic bowel, removal of mass and jejunostomy placement. Currently NPO- nutrition consulted for malnutrition eval. Upon NFPE, pt noted to have severe loss of subcutaneous fat in buccal region and severe loss of muscle mass in temporal and clavicular region. Per growth chart review, pt has lost 10 kg (23% body weight) over the past 3 months resulting in a severe malnutrition diagnosis on the basis of BMI z-score deceleration of -1.70, PO intake and weight loss. PICC obtained 12/6, planning to start TPN tonight. RD following with team closely- will monitor for refeeding syndrome. 
+
+Physical Findings: 
+NFPE: Severe loss of muscle mass in the temporal region, clavicular region; Severe loss of subcutaneous fat in buccal region, thin and hollowed appearance, lanugo noted on patient’s face and back 
+
+Nutritional Hx: Per mom, reports NKFA. Pt has been eating smaller quantities of food over the past month, eating ~2 meals/d consisting of a few bites of rice, potato or pasta. Gets full very quickly 
+
+
+Anthropometrics: 
+Age: 13 years old
+Growth Chart: CDC
+Weight Hx: UBW: 45 kg (9/05/2023), 46%, z-score: -0.10
+ABW: 35 kg, 6%, Z-score: -1.55
+Ht: 146 cm, 5%, Z-score: -160
+BMI: 16%, Z-score: -0.99
+IBW: 39.9 kg 
+Wt Comment: Pt has lost 10 kg over the past month (23)%  weight loss and BMI z-score decline of -1.70. 
+
+Meds: Drips: dexmedetomidine, precede, morphine
+Oxacillin/cefepime, famotidine 
+PRN: morphine
+
+Nutrition Prescription: 
+Current Diet Order: NPO with D5% at maintenance 
+
+Fluids: 1800 ml (Holliday Segar)
+Calories: 1365 (Schofield using IBW of 39.9 kg)
+Protein: 1.5 gm/kg 
+
+Diagnosis
+1.	Severe protein calorie malnutrition related to acute illness, intestinal mass as evidenced by BMI z-score deceleration of -1.70, weight loss of 23% body weight x 3 months, poor PO intake meeting <25% goal nutritional needs x 1 month- Actual, Initial 
+2.	Altered GI function related to intestinal mass s/p 30 cm of bowel resection as evidenced by NPO, need for TPN support- Actual, Initial 
+
+Nutrition Interventions
+1.	Recommend gradual advancement of TPN to goal nutrition prescription while monitoring for re-feeding syndrome given severe malnutrition and with multiple risk factors for refeeding. 
+Recommend for Day 1 of TPN support: D 7.5%, AA 2 gm/kg, SMOF 0.5 gm/kg at 75 mL/hr x 24 hrs. – Goal: Prevent refeeding, advance cautiously to goal 
+2.	Recommend advancing TPN by no more than D 2.5% daily (equates to GIR increase of 1.8 mg/kg/min/d), to goal TPN prescripton of D15%, AA 2 gm/kg/d, SMOF 1.5 gm/kg/d at 75 mL/hr x 24 hrs- Goal: Meet goal caloric and protein needs. 
+3.	Recommend CMP, Mg, Phos q 6 hrs for the first 24 hrs after initiation of nutrition support to monitor for refeeding syndrome. Can space to q day once stable. Goal: Prevent refeeding syndrome. 
+4.	Recommend adding 2 mg/kg of thiamine to TPN x 7 days. Goal: Prevent thiamine depletion, help prevent refeeding syndrome. 
+5.	Recommend daily weights. Goal: Prevent further weight loss, monitor severe malnutrition. 
+6.	Consider referral to GI as pt with SBS and will need multidisciplinary involvement for GI rehabilitation. 
+
+Follow Up 1-3 days (12/10) 
