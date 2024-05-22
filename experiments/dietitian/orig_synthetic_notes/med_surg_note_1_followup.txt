@@ -1,0 +1,51 @@
+Pt Name: BB
+Med Surgical Floors
+MRN: BBMSTRF
+
+Nutrition Follow-Up
+
+TPN initiated on 11/12 via PICC line, infant reached goal PN prescription on 11/16. All labs WNL. SS placed to
+gravity on POD #6 and d/c POD #7. Infant remains intubated. Peds surg cleared infant for feeds 11/18.
+Planning to initiate trophic feeds 11/18 with EHM. Anticipate placing infant on SFG1. Will monitor tolerance.
+RD following with team
+
+Physical Findings:
+NFPE: improved edema
+
+Anthropometrics:
+Age: 6 months old
+Growth Chart: WHO
+Weight:
+Current: 7.615 kg, 64%, Z-score: 0.35
+Lt: 65 cm, 37%, Z-score: -0.32
+HC: 43 cm, 73%, Z-score: 0.61
+WFL: 73%, Z-score: 0.62
+
+Meds: Drips: morphine
+pantoprazole
+PRN: morphine, tyelonol
+
+Labs:
+11/18: Na 138, K+ 4.5, Cl 105, CO2 26, BUN 13, Cr 0.6
+
+Nutrition Prescription:
+D15%, AA 3.5 gm/kg, SMOF 3 gm/kg provides 120 mL/kg, 100 kcal/kg
+DCW: 7.615 kg
+
+Fluids: 750 ml (Holliday Segar)
+Calories: 825 (110 kcal/kg)
+Protein: 3-3.5 gm/kg
+
+Diagnosis
+1. Altered GI function related to s/p pyloromyotomy complicated by duodenal perf as evidenced by NPO,
+need for TPN support- Actual, unresolved, improvement shown
+
+Nutrition Interventions
+1. Wean PN macronutrients as feeds advance. – Goal: prevent overfeeding
+2. Initiate trophic feeds of 10 mls q 3 hrs of EHM 20 kcal/oz. - Goal: GI stimulation.
+3. If tolerated, begin SFG 1, line 2 on 4/19, advancement 1 line per day. – Goal: gradual advancement to
+goal enteral feeds
+4. Recommend CMP, Mg, Phos, M/Th on stable PN. Goal: Electrolytes WNL
+5. Recommend daily weights. Goal: monitor fluid status .
+
+Follow Up 1-3 days (11/19-11/21)

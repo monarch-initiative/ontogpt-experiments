@@ -1,0 +1,64 @@
+Pt Name: BB
+Med Surgical Floors
+MRN: BBMSTRF
+
+Nutrition Assessment
+
+BB is a 6-month-old female who presented to the ED with complaints of projectile vomiting over the past
+couple of days. Emesis is non-bilious. Parents report emesis is large and forceful, occasionally reaching as far
+as the other side of the table. Nutrition hx of exclusive BF and recent introduction of solids 2 weeks ago. Pt has
+trialed iron fortified cereal, pureed green beans and bananas. CBC and BMP obtained upon admit, noted
+hypernatremia most consistent with dehydration. Pyloric US obtained, noted an enlarged pylorus (16mm) and
+muscle thickness of 4mm, redundant pyloric mucosa protruding into the gastric antrum and indentation of the
+pylorus with no passage of gastric contents. Pt started on D5 +1/4 NS at 1.2x/maintenance and electrolytes
+corrected. Peds surg consulted, s/p pyloromyotomy on 11/11. Complications of surgery included duodenal
+perforation. Pt remains intubated, PICC line placed 4/11 with SS to LIS. Plan for initiation of TPN support
+tonight. RD following with team.
+
+Physical Findings:
+NFPE: Edematous
+
+Nutritional Hx: Exclusively BF ~7x/day for 15-20 minutes, mom rarely pumps but will get ~4 oz at each pump
+session. Introduced solids 2 weeks ago (iron fortified cereal, purees).
+
+Anthropometrics:
+Age: 6 months old
+Growth Chart: WHO
+Weight:
+ABW: 7.5 kg, 59, Z-score: 0.22
+Lt: 65 cm, 37%, Z-score: -0.32
+HC: 43 cm, 73%, Z-score: 0.61
+WFL: 73%, Z-score: 0.62
+Wt Comment: Using pre-op weight of 7.5kg, no new weight obtained post-op.
+
+Meds: Drips: morphine
+Cefepime, unasyn, pantoprazole
+Fluid replacement: ½ NS 1:1 for every ml &gt; 113 mls q 12 hrs, infuse over 4 hrs
+PRN: morphine
+
+Labs:
+11/10: Na 148, K+ 3.5, Cl 115, CO2 19, BUN 45, CR 1.0
+11/11: Na 136, K+ 3.6, Cl 109, CO2 20, BUN 12, Cr 0.6
+11/12: Na 132, K+ 2.1, Cl 110, CO2 20, BUN 20, Cr 0.8
+
+Nutrition Prescription:
+Current Diet Order: NPO
+
+Fluids: 750 ml (Holliday Segar)
+Calories: 825 (110 kcal/kg)
+Protein: 3-3.5 gm/kg
+
+Diagnosis
+1. Altered GI function related to s/p pyloromyotomy complicated by duodenal perf as evidenced by NPO,
+need for TPN support- Actual, Initial
+
+Nutrition Interventions
+1. Recommend initiation of TPN D10%, AA 3 gm/kg at 28 mL/hr x 24 hrs + SMOF 2 gm/kg at 3.1 mL/hr x
+24 hrs. – Goal: prevent catabolism through initiation of nutrition support
+2. Recommend advancing TPN by no more than D 2.5% daily (equates to GIR increase of 1.8
+mg/kg/min/d), to goal TPN prescription of D15%, AA 3/5 gm/kg/d at 28 mL/hr + 4.7 mL/hr x 24 hrs. -
+Goal: Meet goal caloric and protein needs.
+3. Recommend CMP, Mg, Phos daily. Goal: Electrolytes WNL
+4. Recommend daily weights. Goal: monitor fluid status .
+
+Follow Up 1-3 days (11/12-11/15)
