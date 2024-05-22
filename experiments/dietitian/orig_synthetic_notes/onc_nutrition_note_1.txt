@@ -1,0 +1,62 @@
+Pt Name: CA
+Pediatric Oncology Unit
+MRN: CAONCPEDS
+
+Nutrition Assessment
+
+CA is a 4-year-old male who presented to the ED after being evaluated at the pediatrician’s office with
+complaints of abdominal swelling, poor PO intake and constipation. Abdominal US obtained in ED, noting solid
+mass appearance on the left kidney. Admitted to the Onc floor for further imaging and testing. CT scan and
+MRI completed, confirming mass most consistent w/ Wilm’s tumor. Now s/p nephrectomy (4/11) with Dr. X.
+Pt NPO initially with D5% at maintenance, diet advanced on POD 3. Plan for port placement and starting
+chemo in the next coming days. RD now consulted d/t poor PO intake following surgery. Met with family at
+the bedside, reports at baseline CA is picky, but this has worsened over the past month when the abd
+distention started. Reports daily intake of &lt;50% of usual intake. Mom estimates CA has likely lost some weight
+but unsure of how much. Per growth chart review, noted pt has lost ~1.3 kg since a PCP appt 2 months ago
+(8% weight loss). Pt noted to have a thin appearance, visible wasting of subcutaneous fat noted. Mom reports
+that since surgery, CA has not been eating much. Discussed options for additional intake, plan to start ONS TID
+in-between meals. RD following with Onc Team.
+
+Physical Findings:
+NFPE: Moderate loss of subcutaneous fat noted in midthoracic region
+
+Nutritional Hx: Picky at baseline. Likes: chicken nuggets, popcorn, crackers, chips, cheese. Dislikes: veggies,
+most proteins. Drinks water and chocolate milk. Not on a MVI.
+
+Anthropometrics:
+Age: 4 years old
+Growth Chart:
+Weight Hx: UBW: 16 kg (3/11/2024), 45%, z-score: -0.12
+ABW: 14.7 kg, 19%, Z-score: -0.87
+Ht: 102 cm, 48 %, Z-score: -0.05
+BMI: 6%, Z-score: -1.54
+Wt Comment: Wt loss of -1.3 kg x 1 month (8%). BMI z-score decline of (-1.3)
+
+Meds: Tylenol ATC, cefoxitin
+PRN: glycerin
+
+Nutrition Prescription:
+Current Diet Order: Diet for Age (3-10 years)
+
+Fluids: 1235 ml (Holliday Segar)
+Calories: 1385 (DRI x 1.13 using UBW of 16 kg)
+Protein: 1.5-2 gm/kg
+
+Diagnosis
+1. Severe protein calorie malnutrition related to new onset cancer dx, as evidenced by BMI z-score
+deceleration of -1.3, weight loss of 8% body weight x 1 month, poor PO intake meeting &lt;25% goal
+nutritional needs x 1 month- Actual, Initial
+2. Inadequate protein, energy intake related to poor appetite as evidenced by minimal PO intake post-op,
+need for nutritional supplementation- Actual, Initial
+
+Nutrition Interventions
+1. Continue with Diet for Age, encourage 3 meals and 2 snacks/day – Goal: optimal nutrient intake
+2. Recommend starting Boost Kid Essentials 1.0- Chocolate, TID inbetween meals- Goal: Supplement PO
+intake
+3. Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D
+deficiency
+4. Recommend daily weights. Goal: Prevent further weight loss, monitor severe malnutrition.
+
+Follow Up 3 days (4/15/24)
+
+RD: Millie Muffin, RD, CSPCC, CSP, CNSC
