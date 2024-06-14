@@ -1,0 +1,44 @@
+Pt Name: AB
+Pediatric Neurology Unit
+MRN: ABNEUROPEDS
+
+Nutrition Assessment
+
+AB is a 10-year-old male who presented to the ED with complaints of frequent seizures and poor growth. Admitted to the Neurology floor for further evaluation and management. EEG and MRI confirmed diagnosis of intractable epilepsy. Now s/p VNS implantation (6/5) with Dr. Z. Pt was NPO initially with IV fluids, diet advanced on POD 2. Plan for ketogenic diet initiation to manage seizures. RD now consulted for ketogenic diet education and implementation. Met with family at bedside; parents report that AB has had poor appetite and significant weight loss over the past three months. Reports daily intake of <60% of usual intake. Parents estimate AB has lost approximately 4 kg since a pediatrician visit three months ago (12% weight loss). Per growth chart review, noted pt has lost ~3.5 kg since a PCP appointment 3 months ago (12% weight loss). Pt noted to have a thin appearance with mild muscle wasting. Parents report AB has been lethargic and less active since the seizures worsened. Discussed ketogenic diet options and necessity for monitoring. Plan to start ketogenic diet with 4:1 ratio. RD following with Neurology Team.
+
+Physical Findings:
+
+NFPE: Mild muscle wasting noted in upper arms and legs, mild loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Poor appetite and reduced food intake over the past three months. Likes: pasta, bread, apples, orange juice. Dislikes: meat, eggs, most vegetables. Drinks water and fruit juice. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 10 years old
+Growth Chart:
+Weight Hx: UBW: 30 kg (3/10/2024), 50%, z-score: 0.0
+ABW: 26.5 kg, 20%, Z-score: -0.84
+Ht: 140 cm, 50%, Z-score: 0.0
+BMI: 19%, Z-score: -0.84
+Wt Comment: Weight loss of -3.5 kg over 3 months (12%). BMI z-score decline of -0.84
+Meds: Levetiracetam, lamotrigine
+PRN: lorazepam
+
+Nutrition Prescription:
+
+Current Diet Order: Ketogenic Diet, 4:1 ratio (fat to combined protein and carbohydrate)
+Fluids: 1500 ml (calculated based on ketogenic diet protocol)
+Calories: 1800 kcal (adjusted for ketogenic diet using ABW of 26.5 kg)
+Protein: 1.0 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to intractable epilepsy and poor oral intake, as evidenced by BMI z-score deceleration of -0.84, weight loss of 12% body weight x 3 months, poor PO intake meeting <60% goal nutritional needs x 3 months – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent surgical intervention, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Start Ketogenic Diet, 4:1 ratio, with appropriate supplementation to meet micronutrient needs – Goal: Optimal nutrient intake and seizure management
+Recommend obtaining baseline lipid profile, liver enzymes, and renal function tests. Goal: Monitor potential side effects of ketogenic diet
+Encourage frequent small meals and snacks throughout the day – Goal: Improve overall PO intake
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/18/24)
+
+RD: John Nutritionist, RD, CSPCC, CSP, CNSC

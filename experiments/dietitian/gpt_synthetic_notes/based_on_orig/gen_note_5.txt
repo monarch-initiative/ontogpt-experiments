@@ -1,0 +1,44 @@
+Pt Name: JH
+Pediatric Endocrinology Unit
+MRN: JHENDOPEDS
+
+Nutrition Assessment
+
+JH is a 12-year-old female who presented to the ED with complaints of extreme fatigue, polyuria, polydipsia, and significant weight loss over the past two months. Admitted to the Endocrinology floor for further evaluation and management. Lab results confirmed diagnosis of Type 1 Diabetes Mellitus with an HbA1c of 12.3%. Now s/p initial insulin therapy initiation (6/12) with Dr. T. Pt was NPO initially with IV fluids, diet advanced on POD 2. Plan for long-term diabetes management and nutritional support. RD now consulted due to poor PO intake and significant weight loss. Met with family at bedside; parents report that at baseline, JH is a healthy eater, but her appetite has significantly decreased since symptoms worsened. Reports daily intake of <50% of usual intake. Parents estimate JH has lost approximately 5 kg since a pediatrician visit two months ago (15% weight loss). Per growth chart review, noted pt has lost ~4.8 kg since a PCP appointment 2 months ago (15% weight loss). Pt noted to have a very thin appearance with moderate muscle wasting. Parents report that since diagnosis, JH has been more lethargic and less active. Discussed nutritional support options, including carbohydrate counting and insulin management. Plan to start ONS TID in-between meals. RD following with Endocrinology Team.
+
+Physical Findings:
+
+NFPE: Moderate muscle wasting noted in upper arms and legs, mild loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Healthy eater at baseline. Likes: chicken, rice, yogurt, strawberries. Dislikes: most green vegetables, fish. Drinks water and milk. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 12 years old
+Growth Chart:
+Weight Hx: UBW: 40 kg (4/10/2024), 50%, z-score: 0.0
+ABW: 34.2 kg, 15%, Z-score: -1.28
+Ht: 145 cm, 55%, Z-score: 0.13
+BMI: 14%, Z-score: -1.1
+Wt Comment: Weight loss of -4.8 kg over 2 months (15%). BMI z-score decline of -1.1
+Meds: Insulin (basal and bolus), metformin
+PRN: acetaminophen
+
+Nutrition Prescription:
+
+Current Diet Order: Diet for Age (10-12 years), consistent carbohydrate intake
+Fluids: 1700 ml (Holliday Segar)
+Calories: 1800 kcal (DRI x 1.1 using UBW of 40 kg)
+Protein: 1.2-1.5 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to new onset Type 1 Diabetes Mellitus and poor oral intake, as evidenced by BMI z-score deceleration of -1.1, weight loss of 15% body weight x 2 months, poor PO intake meeting <50% goal nutritional needs x 2 months – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent diabetes diagnosis, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Continue with Diet for Age, consistent carbohydrate intake, encourage 3 meals and 2 snacks/day – Goal: Optimal nutrient intake and blood glucose management
+Recommend starting Glucerna 1.0 Cal – Vanilla, TID in-between meals – Goal: Supplement PO intake
+Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D deficiency
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/20/24)
+
+RD: Sarah Nutritionist, RD, CSPCC, CSP, CNSC

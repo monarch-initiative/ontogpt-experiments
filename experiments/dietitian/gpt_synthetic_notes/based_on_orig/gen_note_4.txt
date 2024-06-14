@@ -1,0 +1,45 @@
+
+Pt Name: SM
+Pediatric Pulmonology Unit
+MRN: SMPULMPEDS
+
+Nutrition Assessment
+
+SM is a 9-year-old male who presented to the ED with complaints of chronic cough, difficulty breathing, and poor growth. Admitted to the Pulmonology floor for further evaluation and management. Chest X-ray and CT scan confirmed diagnosis of cystic fibrosis with bronchiectasis. Now s/p bronchoscopy and mucus clearance (6/10) with Dr. V. Pt was NPO initially with IV fluids, diet advanced on POD 1. Plan for long-term pulmonary management and nutritional support. RD now consulted due to poor PO intake and significant weight loss over the past three months. Met with family at bedside; parents report that at baseline, SM is a moderate eater, but his appetite has significantly decreased since his symptoms worsened. Reports daily intake of <40% of usual intake. Parents estimate SM has lost approximately 4 kg since a pediatrician visit three months ago (14% weight loss). Per growth chart review, noted pt has lost ~3.8 kg since a PCP appointment 3 months ago (14% weight loss). Pt noted to have a very thin appearance with severe muscle wasting. Parents report that since the diagnosis, SM has been more fatigued and has had decreased activity levels. Discussed nutritional support options, including high-calorie, high-protein supplements. Plan to start ONS TID in-between meals. RD following with Pulmonology Team.
+
+Physical Findings:
+
+NFPE: Severe muscle wasting noted in upper arms and thighs, moderate loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Moderate appetite at baseline. Likes: peanut butter, pasta, apples, orange juice. Dislikes: most vegetables, fish, spicy foods. Drinks water and juice. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 9 years old
+Growth Chart:
+Weight Hx: UBW: 28 kg (3/15/2024), 50%, z-score: 0.0
+ABW: 24.2 kg, 20%, Z-score: -1.0
+Ht: 130 cm, 55%, Z-score: 0.1
+BMI: 15%, Z-score: -1.1
+Wt Comment: Weight loss of -3.8 kg over 3 months (14%). BMI z-score decline of -1.1
+Meds: Pulmozyme, albuterol, pancreatic enzymes
+PRN: acetaminophen
+
+Nutrition Prescription:
+
+Current Diet Order: High-calorie, high-protein diet
+Fluids: 1500 ml (Holliday Segar)
+Calories: 2000 kcal (DRI x 1.2 using UBW of 28 kg)
+Protein: 1.5-2 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to cystic fibrosis and poor oral intake, as evidenced by BMI z-score deceleration of -1.1, weight loss of 14% body weight x 3 months, poor PO intake meeting <40% goal nutritional needs x 3 months – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent pulmonary intervention, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Continue with high-calorie, high-protein diet, encourage 3 meals and 2 snacks/day – Goal: Optimal nutrient intake
+Recommend starting Pediasure 1.5 Cal – Vanilla, TID in-between meals – Goal: Supplement PO intake
+Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D deficiency
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/19/24)
+
+RD: Emily Nutritionist, RD, CSPCC, CSP, CNSC
