@@ -18,6 +18,6 @@ All documents in these directories are simulated clinical notes.
     <text of doc>
     ```
 
-    where `<text of doc>` is the full text of a document from the `orig_synthetic_notes` collection.
+    where `<text of doc>` is the full text of `onc_nutrition_note_1.txt` from the `orig_synthetic_notes` collection.
 
 * `orig_synthetic_notes` - Each document in this directory is a fictionalized case written by Alyson Lawrence, RD, CNSC in 2024 and adapted to text-only format.
