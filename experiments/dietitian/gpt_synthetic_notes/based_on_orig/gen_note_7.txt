@@ -1,0 +1,44 @@
+Pt Name: ER
+Pediatric Gastroenterology Unit
+MRN: ERGASTROPEDS
+
+Nutrition Assessment
+
+ER is a 5-year-old female who presented to the ED with complaints of chronic diarrhea, abdominal pain, and poor weight gain over the past three months. Admitted to the Gastroenterology floor for further evaluation and management. Lab results and endoscopy confirmed diagnosis of Crohn’s disease. Now s/p endoscopic biopsy (6/12) with Dr. M. Pt was NPO initially with IV fluids, diet advanced on POD 1. Plan for long-term gastrointestinal management and nutritional support. RD now consulted due to poor PO intake and significant weight loss. Met with family at bedside; parents report that at baseline, ER is a picky eater, and her appetite has significantly decreased since symptoms worsened. Reports daily intake of <30% of usual intake. Parents estimate ER has lost approximately 1.5 kg since a pediatrician visit two months ago (10% weight loss). Per growth chart review, noted pt has lost ~1.4 kg since a PCP appointment 2 months ago (10% weight loss). Pt noted to have a very thin appearance with mild muscle wasting. Parents report that since diagnosis, ER has been more lethargic and has had decreased activity levels. Discussed nutritional support options, including elemental formulas. Plan to start ONS TID in-between meals. RD following with Gastroenterology Team.
+
+Physical Findings:
+
+NFPE: Mild muscle wasting noted in upper arms and legs, mild loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Picky eater at baseline. Likes: pasta, applesauce, crackers, water. Dislikes: most vegetables, meat. Drinks water and apple juice. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 5 years old
+Growth Chart:
+Weight Hx: UBW: 14 kg (4/10/2024), 25%, z-score: -0.67
+ABW: 12.6 kg, 10%, Z-score: -1.28
+Ht: 95 cm, 30%, Z-score: -0.52
+BMI: 9%, Z-score: -1.24
+Wt Comment: Weight loss of -1.4 kg over 2 months (10%). BMI z-score decline of -1.24
+Meds: Mesalamine, prednisolone
+PRN: acetaminophen
+
+Nutrition Prescription:
+
+Current Diet Order: Elemental diet with nutritional supplementation
+Fluids: 1100 ml (Holliday Segar)
+Calories: 1250 kcal (DRI x 1.1 using UBW of 14 kg)
+Protein: 1.2-1.5 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to Crohn’s disease and poor oral intake, as evidenced by BMI z-score deceleration of -1.24, weight loss of 10% body weight x 2 months, poor PO intake meeting <30% goal nutritional needs x 2 months – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent gastrointestinal intervention, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Continue with elemental diet, encourage 3 meals and 2 snacks/day – Goal: Optimal nutrient intake
+Recommend starting Pediasure Peptide 1.5 – Vanilla, TID in-between meals – Goal: Supplement PO intake
+Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D deficiency
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/17/24)
+
+RD: Amy Nutritionist, RD, CSPCC, CSP, CNSC

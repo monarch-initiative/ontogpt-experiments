@@ -1,0 +1,44 @@
+Pt Name: LD
+Pediatric Cardiology Unit
+MRN: LDCARDPEDS
+
+Nutrition Assessment
+
+LD is a 7-year-old female who presented to the ED with complaints of fatigue, shortness of breath, and poor growth. Admitted to the Cardiology floor for further evaluation. Echocardiogram and MRI confirmed diagnosis of dilated cardiomyopathy. Now s/p cardiac catheterization (6/8) with Dr. W. Pt was NPO initially with IV fluids, diet advanced on POD 2. Plan for long-term cardiac management and potential listing for heart transplant. RD now consulted due to poor PO intake and significant weight loss over the past two months. Met with family at bedside; parents report that at baseline, LD is a good eater, but her appetite has significantly decreased since symptoms worsened. Reports daily intake of <50% of usual intake. Parents estimate LD has lost approximately 2.5 kg since a pediatrician visit two months ago (10% weight loss). Per growth chart review, noted pt has lost ~2.3 kg since a PCP appointment 2 months ago (10% weight loss). Pt noted to have a thin appearance with moderate muscle wasting. Parents report that since the diagnosis, LD has been more lethargic and has had decreased activity levels. Discussed nutritional support options, including high-calorie, high-protein supplements. Plan to start ONS TID in-between meals. RD following with Cardiology Team.
+
+Physical Findings:
+
+NFPE: Moderate muscle wasting noted in upper arms and legs, mild loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Generally good appetite at baseline. Likes: pizza, yogurt, strawberries, milk. Dislikes: green vegetables, fish, spicy foods. Drinks water and milk. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 7 years old
+Growth Chart:
+Weight Hx: UBW: 23 kg (4/15/2024), 50%, z-score: 0.0
+ABW: 20.7 kg, 25%, Z-score: -0.67
+Ht: 125 cm, 55%, Z-score: 0.13
+BMI: 20%, Z-score: -0.84
+Wt Comment: Weight loss of -2.3 kg over 2 months (10%). BMI z-score decline of -0.84
+Meds: Carvedilol, enalapril
+PRN: furosemide
+
+Nutrition Prescription:
+
+Current Diet Order: Diet for Age (3-10 years)
+Fluids: 1350 ml (Holliday Segar)
+Calories: 1600 kcal (DRI x 1.15 using UBW of 23 kg)
+Protein: 1.2-1.5 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to dilated cardiomyopathy and poor oral intake, as evidenced by BMI z-score deceleration of -0.84, weight loss of 10% body weight x 2 months, poor PO intake meeting <50% goal nutritional needs x 2 months – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent cardiac intervention, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Continue with Diet for Age, encourage 3 meals and 2 snacks/day – Goal: Optimal nutrient intake
+Recommend starting Boost Kid Essentials 1.5 – Strawberry, TID in-between meals – Goal: Supplement PO intake
+Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D deficiency
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/17/24)
+
+RD: Jane Nutritionist, RD, CSPCC, CSP, CNSC

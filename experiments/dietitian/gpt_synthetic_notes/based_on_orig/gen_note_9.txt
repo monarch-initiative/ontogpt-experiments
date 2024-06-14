@@ -1,0 +1,44 @@
+Pt Name: LG
+Pediatric Neurology Unit
+MRN: LGNEUROPEDS
+
+Nutrition Assessment
+
+LG is a 7-year-old female who presented to the ED with complaints of recurrent seizures, fatigue, and poor appetite over the past two months. Admitted to the Neurology floor for further evaluation and management. EEG and MRI confirmed diagnosis of epilepsy. Now s/p initial anti-epileptic drug therapy (6/11) with Dr. R. Pt was NPO initially with IV fluids, diet advanced on POD 1. Plan for long-term neurological management and nutritional support. RD now consulted due to poor PO intake and significant weight loss. Met with family at bedside; parents report that at baseline, LG is a moderate eater, but her appetite has significantly decreased since symptoms worsened. Reports daily intake of <35% of usual intake. Parents estimate LG has lost approximately 2 kg since a pediatrician visit two months ago (11% weight loss). Per growth chart review, noted pt has lost ~1.8 kg since a PCP appointment 2 months ago (11% weight loss). Pt noted to have a thin appearance with mild muscle wasting. Parents report that since diagnosis, LG has been more lethargic and has had decreased activity levels. Discussed nutritional support options, including a ketogenic diet to support seizure management. Plan to start ONS TID in-between meals. RD following with Neurology Team.
+
+Physical Findings:
+
+NFPE: Mild muscle wasting noted in upper arms and legs, mild loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Moderate eater at baseline. Likes: pasta, yogurt, apples, orange juice. Dislikes: most vegetables, fish. Drinks water and milk. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 7 years old
+Growth Chart:
+Weight Hx: UBW: 18 kg (4/10/2024), 30%, z-score: -0.52
+ABW: 16.2 kg, 15%, Z-score: -1.04
+Ht: 110 cm, 45%, Z-score: -0.13
+BMI: 14%, Z-score: -1.0
+Wt Comment: Weight loss of -1.8 kg over 2 months (11%). BMI z-score decline of -1.0
+Meds: Valproate, levetiracetam
+PRN: acetaminophen
+
+Nutrition Prescription:
+
+Current Diet Order: Ketogenic diet with nutritional supplementation
+Fluids: 1400 ml (Holliday Segar)
+Calories: 1600 kcal (DRI x 1.2 using UBW of 18 kg)
+Protein: 1.2-1.5 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to epilepsy and poor oral intake, as evidenced by BMI z-score deceleration of -1.0, weight loss of 11% body weight x 2 months, poor PO intake meeting <35% goal nutritional needs x 2 months – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent neurological intervention, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Continue with ketogenic diet, encourage 3 meals and 2 snacks/day – Goal: Optimal nutrient intake and seizure management
+Recommend starting KetoCal 4:1 – Vanilla, TID in-between meals – Goal: Supplement PO intake
+Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D deficiency
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/16/24)
+
+RD: Emily Nutritionist, RD, CSPCC, CSP, CNSC

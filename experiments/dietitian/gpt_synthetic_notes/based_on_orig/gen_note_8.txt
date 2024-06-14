@@ -1,0 +1,44 @@
+Pt Name: ZL
+Pediatric Hepatology Unit
+MRN: ZLHEPATPEDS
+
+Nutrition Assessment
+
+ZL is an 8-year-old male who presented to the ED with jaundice, fatigue, and poor appetite over the past month. Admitted to the Hepatology floor for further evaluation and management. Lab results confirmed diagnosis of autoimmune hepatitis with elevated liver enzymes and bilirubin. Now s/p liver biopsy (6/10) with Dr. S. Pt was NPO initially with IV fluids, diet advanced on POD 1. Plan for long-term hepatic management and nutritional support. RD now consulted due to poor PO intake and significant weight loss. Met with family at bedside; parents report that at baseline, ZL is a moderate eater, but his appetite has significantly decreased since symptoms worsened. Reports daily intake of <30% of usual intake. Parents estimate ZL has lost approximately 3 kg since a pediatrician visit one month ago (12% weight loss). Per growth chart review, noted pt has lost ~2.8 kg since a PCP appointment 1 month ago (12% weight loss). Pt noted to have a thin appearance with mild muscle wasting. Parents report that since diagnosis, ZL has been more lethargic and has had decreased activity levels. Discussed nutritional support options, including a balanced diet with additional caloric supplements. Plan to start ONS TID in-between meals. RD following with Hepatology Team.
+
+Physical Findings:
+
+NFPE: Mild muscle wasting noted in upper arms and legs, mild loss of subcutaneous fat in the triceps and subscapular regions
+Nutritional Hx: Moderate eater at baseline. Likes: rice, chicken, apples, orange juice. Dislikes: most vegetables, fish. Drinks water and juice. Not on a multivitamin.
+
+Anthropometrics:
+
+Age: 8 years old
+Growth Chart:
+Weight Hx: UBW: 25 kg (5/10/2024), 50%, z-score: 0.0
+ABW: 22.2 kg, 20%, Z-score: -0.84
+Ht: 125 cm, 55%, Z-score: 0.13
+BMI: 14%, Z-score: -0.91
+Wt Comment: Weight loss of -2.8 kg over 1 month (12%). BMI z-score decline of -0.91
+Meds: Prednisone, ursodiol
+PRN: acetaminophen
+
+Nutrition Prescription:
+
+Current Diet Order: Balanced diet with high-calorie, high-protein supplements
+Fluids: 1500 ml (Holliday Segar)
+Calories: 1800 kcal (DRI x 1.2 using UBW of 25 kg)
+Protein: 1.5-2 g/kg
+Diagnosis:
+
+Severe protein-calorie malnutrition related to autoimmune hepatitis and poor oral intake, as evidenced by BMI z-score deceleration of -0.91, weight loss of 12% body weight x 1 month, poor PO intake meeting <30% goal nutritional needs x 1 month – Actual, Initial
+Inadequate protein and energy intake related to poor appetite and recent hepatic intervention, as evidenced by minimal PO intake post-op, need for nutritional supplementation – Actual, Initial
+Nutrition Interventions:
+
+Continue with balanced diet, encourage 3 meals and 2 snacks/day – Goal: Optimal nutrient intake
+Recommend starting Pediasure 1.5 Cal – Chocolate, TID in-between meals – Goal: Supplement PO intake
+Recommend obtaining baseline 25-OH Vitamin D level with next lab draw. Goal: Prevent vitamin D deficiency
+Recommend daily weights. Goal: Prevent further weight loss, monitor malnutrition
+Follow Up: 3 days (6/15/24)
+
+RD: Megan Nutritionist, RD, CSPCC, CSP, CNSC
