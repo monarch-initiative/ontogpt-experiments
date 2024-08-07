@@ -1,0 +1,193 @@
+---
+input_text: |-
+  The Plant Ontology as a Tool for Comparative Plant Anatomy
+  and Genomic Analyses
+  Laurel Cooper1,16,17, Ramona L. Walls2,16,17, Justin Elser1,17, Maria A. Gandolfo3,17,
+  Dennis W. Stevenson2,17, Barry Smith4,17, Justin Preece1, Balaji Athreya1, Christopher J. Mungall5,
+  Stefan Rensing6, Manuel Hiss6, Daniel Lang7, Ralf Reski7,8, Tanya Z. Berardini9, Donghui Li9, Eva Huala9,
+  Mary Schaeffer10,11, Naama Menda12, Elizabeth Arnaud13, Rosemary Shrestha14, Yukiko Yamazaki15 and
+  Pankaj Jaiswal1,17,*
+  1Department of Botany and Plant Pathology, Oregon State University, 2082 Cordley Hall, Corvallis, OR 97331-2902, USA
+  2New York Botanical Garden, 2900 Southern Blvd., Bronx, NY 10458-5126, USA
+  3L.H. Bailey Hortorium, Department of Plant Biology, Cornell University, 412 Mann Library Building, Ithaca, NY 14853, USA
+  4Department of Philosophy, University at Buffalo, 126 Park Hall, Buffalo, NY 14260, USA
+  5Berkeley Bioinformatics Open-Source Projects, Lawrence Berkeley National Laboratory, 1 Cyclotron Road, M...116498 chars not shown.
+raw_completion_output: |-
+  Here are the extracted entities in the requested format:
+
+  **name:** Plant Ontology (PO)
+
+  **owners:** The Plant Ontology Consortium (POC) which includes researchers from various institutions such as Oregon State University, New York Botanical Garden, and others.
+
+  **license:** Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/)
+
+  **url:** http://www.plantontology.org/
+
+  **repository:** http://palea.cgrb.oregonstate.edu:/svn/Poc
+
+  **methodological_framework:** The PO was developed using the principles of the Open Biomedical and Biological Ontologies (OBO) Foundry initiative, which aims to establish a set of best practices for ontology development.
+
+  **need:** The PO is required to provide a controlled, structured vocabulary of terms to describe plant anatomy, morphology, and development, enabling researchers to annotate gene expression and phenotype data and facilitating comparative genomics analysis.
+
+  **competition:** Other ontologies in the same general area as the PO include the Gene Ontology (GO), the Trait Ontology (TO), and the Cell Ontology (CL). The PO is needed in addition to these ontologies because it provides a specific focus on plant anatomy and development, which is not covered by the other ontologies.
+
+  **target_audience:** Plant biologists, researchers, and breeders who need to annotate and query genomics data related to plant anatomy and development.
+
+  **scope_and_coverage:** The PO covers plant anatomy, morphology, and development, including terms for plant structures, growth stages, and cell types. The PO aims to provide a comprehensive and species-neutral vocabulary for describing plant biology.
+
+  **development_community:** The PO is developed by the Plant Ontology Consortium (POC), which includes researchers from various institutions with expertise in plant biology, ontology development, and bioinformatics.
+
+  **communication:** The PO uses email lists, issue tracking systems, and regular meetings to facilitate communication among developers and users.
+
+  **knowledge_acquisition_method:** The PO knowledge was gathered through a collaborative effort involving domain experts, literature review, and analysis of existing ontologies.
+
+  **source_knowledge_location:** The PO source knowledge was gathered from various sources, including scientific literature, existing ontologies, and expert knowledge.
+
+  **content_selection:** The PO prioritizes terms based on their importance in plant biology and their frequency of use in the literature.
+
+  **knowledge_representation_language:** The PO uses the Web Ontology Language (OWL) and the Open Biomedical Ontologies flat file format (OBOF) to represent its knowledge.
+
+  **development_environment:** The PO is developed using the OBO-Edit ontology editor software and the ontology repository is managed using Subversion (SVN).
+
+  **ontology_metrics:** The PO contains approximately 2.2 million annotations linking PO terms to over 110,000 unique data objects representing genes, gene models, proteins, RNAs, germplasm, and QTLs.
+
+  **incorporation_of_ontologies:** The PO incorporates terms from other ontologies, such as the Gene Ontology (GO) and the Cell Ontology (CL), to ensure interoperability and orthogonality.
+
+  **entity_naming_convention:** The PO follows the OBO Foundry guidelines for naming conventions, using a combination of natural language and formal syntax to create unique and meaningful term names.
+
+  **identifier_generation_policy:** The PO uses a unique identifier (ID) for each term, prefixed with "PO:" and followed by a seven-digit, zero-padded integer.
+
+  **entity_metadata_policy:** The PO provides metadata for each term, including a definition, synonyms, and references.
+
+  **upper_ontology:** The PO uses the Basic Formal Ontology (BFO) as its upper ontology, which provides a common framework for organizing knowledge.
+
+  **ontology_relationships:** The PO uses a variety of relationships, including is_a, part_of, develops_from, and adjacent_to, to connect terms and represent their relationships.
+
+  **axiom_patterns:** The PO uses axiom patterns to represent relationships between terms and to provide a consistent style of representation.
+
+  **dereferencable_iri:** The PO uses dereferencable IRIs to provide a persistent and resolvable identifier for each term.
+
+  **sustainability_plan:** The PO has a plan for ongoing maintenance and development, including regular updates and releases.
+
+  **deprecation_strategy:** The PO has a strategy for deprecating terms and relationships that are no longer needed or are found to be incorrect.
+
+  **versioning_policy:** The PO follows a consistent versioning policy, using a combination of numeric and semantic versioning to track changes.
+
+  **testing:** The PO performs testing to ensure its logical consistency and correctness, including automated checking and manual review.
+
+  **evaluation:** The PO is evaluated based on its utility and effectiveness in supporting plant biology research and comparative genomics analysis.
+
+  **examples_of_use:** The PO has been used in various applications, including annotating gene expression and phenotype data, facilitating comparative genomics analysis, and integrating with other ontologies.
+
+  **institutional_endorsement:** The PO is endorsed by various institutions and organizations, including the Open Biomedical and Biological Ontologies (OBO) Foundry and the Gene Ontology Consortium.
+
+  **evidence_of_use:** The PO has been used in numerous publications and has a large user community.
+
+  **label:** Plant Ontology (PO)
+
+  Please note that some of the fields may not have been explicitly mentioned in the text, but I've tried to infer the information based on the context.
+prompt: |+
+  From the text below, extract the following entities in the following format:
+
+  example_description: <A description of the ontology in use in its application setting or use case.>
+
+
+  Text:
+  The PO has been used in various applications, including annotating gene expression and phenotype data, facilitating comparative genomics analysis, and integrating with other ontologies.
+
+  ===
+
+extracted_object:
+  id: a96ab085-c598-4377-97b1-263d936b3e68
+  label: Plant Ontology (PO)
+  name: Plant Ontology (PO)
+  owners:
+    - AUTO:The%20Plant%20Ontology%20Consortium%20%28POC%29%20which%20includes%20researchers%20from%20various%20institutions%20such%20as%20Oregon%20State%20University%2C%20New%20York%20Botanical%20Garden%2C%20and%20others.
+  license: Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/)
+  url: http://www.plantontology.org/
+  repository: http://palea.cgrb.oregonstate.edu:/svn/Poc
+  methodological_framework: The PO was developed using the principles of the Open
+    Biomedical and Biological Ontologies (OBO) Foundry initiative, which aims to establish
+    a set of best practices for ontology development.
+  need: The PO is required to provide a controlled, structured vocabulary of terms
+    to describe plant anatomy, morphology, and development, enabling researchers to
+    annotate gene expression and phenotype data and facilitating comparative genomics
+    analysis.
+  competition:
+    - AUTO:Other%20ontologies%20in%20the%20same%20general%20area%20as%20the%20PO%20include%20the%20Gene%20Ontology%20%28GO%29%2C%20the%20Trait%20Ontology%20%28TO%29%2C%20and%20the%20Cell%20Ontology%20%28CL%29.%20The%20PO%20is%20needed%20in%20addition%20to%20these%20ontologies%20because%20it%20provides%20a%20specific%20focus%20on%20plant%20anatomy%20and%20development%2C%20which%20is%20not%20covered%20by%20the%20other%20ontologies.
+  target_audience: Plant biologists, researchers, and breeders who need to annotate
+    and query genomics data related to plant anatomy and development.
+  scope_and_coverage: The PO covers plant anatomy, morphology, and development, including
+    terms for plant structures, growth stages, and cell types. The PO aims to provide
+    a comprehensive and species-neutral vocabulary for describing plant biology.
+  development_community: The PO is developed by the Plant Ontology Consortium (POC),
+    which includes researchers from various institutions with expertise in plant biology,
+    ontology development, and bioinformatics.
+  communication: The PO uses email lists, issue tracking systems, and regular meetings
+    to facilitate communication among developers and users.
+  knowledge_acquisition_method: The PO knowledge was gathered through a collaborative
+    effort involving domain experts, literature review, and analysis of existing ontologies.
+  source_knowledge_location: The PO source knowledge was gathered from various sources,
+    including scientific literature, existing ontologies, and expert knowledge.
+  content_selection: The PO prioritizes terms based on their importance in plant biology
+    and their frequency of use in the literature.
+  knowledge_representation_language: The PO uses the Web Ontology Language (OWL) and
+    the Open Biomedical Ontologies flat file format (OBOF) to represent its knowledge.
+  development_environment: The PO is developed using the OBO-Edit ontology editor
+    software and the ontology repository is managed using Subversion (SVN).
+  ontology_metrics: The PO contains approximately 2.2 million annotations linking
+    PO terms to over 110,000 unique data objects representing genes, gene models,
+    proteins, RNAs, germplasm, and QTLs.
+  incorporation_of_ontologies:
+    - AUTO:The%20PO%20incorporates%20terms%20from%20other%20ontologies%2C%20such%20as%20the%20Gene%20Ontology%20%28GO%29%20and%20the%20Cell%20Ontology%20%28CL%29%2C%20to%20ensure%20interoperability%20and%20orthogonality.
+  entity_naming_convention: The PO follows the OBO Foundry guidelines for naming conventions,
+    using a combination of natural language and formal syntax to create unique and
+    meaningful term names.
+  identifier_generation_policy: 'The PO uses a unique identifier (ID) for each term,
+    prefixed with PO: and followed by a seven-digit, zero-padded integer.'
+  entity_metadata_policy: The PO provides metadata for each term, including a definition,
+    synonyms, and references.
+  upper_ontology: The PO uses the Basic Formal Ontology (BFO) as its upper ontology,
+    which provides a common framework for organizing knowledge.
+  ontology_relationships: The PO uses a variety of relationships, including is_a,
+    part_of, develops_from, and adjacent_to, to connect terms and represent their
+    relationships.
+  axiom_patterns: The PO uses axiom patterns to represent relationships between terms
+    and to provide a consistent style of representation.
+  dereferencable_iri: The PO uses dereferencable IRIs to provide a persistent and
+    resolvable identifier for each term.
+  sustainability_plan: The PO has a plan for ongoing maintenance and development,
+    including regular updates and releases.
+  deprecation_strategy: The PO has a strategy for deprecating terms and relationships
+    that are no longer needed or are found to be incorrect.
+  versioning_policy: The PO follows a consistent versioning policy, using a combination
+    of numeric and semantic versioning to track changes.
+  testing: The PO performs testing to ensure its logical consistency and correctness,
+    including automated checking and manual review.
+  evaluation: The PO is evaluated based on its utility and effectiveness in supporting
+    plant biology research and comparative genomics analysis.
+  examples_of_use:
+    - example_description: The PO has been used in various applications, including
+        annotating gene expression and phenotype data, facilitating comparative genomics
+        analysis, and integrating with other ontologies.
+  institutional_endorsement: The PO is endorsed by various institutions and organizations,
+    including the Open Biomedical and Biological Ontologies (OBO) Foundry and the
+    Gene Ontology Consortium.
+  evidence_of_use: The PO has been used in numerous publications and has a large user
+    community.
+named_entities:
+  - id: 
+      AUTO:The%20Plant%20Ontology%20Consortium%20%28POC%29%20which%20includes%20researchers%20from%20various%20institutions%20such%20as%20Oregon%20State%20University%2C%20New%20York%20Botanical%20Garden%2C%20and%20others.
+    label: The Plant Ontology Consortium (POC) which includes researchers from various
+      institutions such as Oregon State University, New York Botanical Garden, and
+      others.
+  - id: 
+      AUTO:Other%20ontologies%20in%20the%20same%20general%20area%20as%20the%20PO%20include%20the%20Gene%20Ontology%20%28GO%29%2C%20the%20Trait%20Ontology%20%28TO%29%2C%20and%20the%20Cell%20Ontology%20%28CL%29.%20The%20PO%20is%20needed%20in%20addition%20to%20these%20ontologies%20because%20it%20provides%20a%20specific%20focus%20on%20plant%20anatomy%20and%20development%2C%20which%20is%20not%20covered%20by%20the%20other%20ontologies.
+    label: Other ontologies in the same general area as the PO include the Gene Ontology
+      (GO), the Trait Ontology (TO), and the Cell Ontology (CL). The PO is needed
+      in addition to these ontologies because it provides a specific focus on plant
+      anatomy and development, which is not covered by the other ontologies.
+  - id: 
+      AUTO:The%20PO%20incorporates%20terms%20from%20other%20ontologies%2C%20such%20as%20the%20Gene%20Ontology%20%28GO%29%20and%20the%20Cell%20Ontology%20%28CL%29%2C%20to%20ensure%20interoperability%20and%20orthogonality.
+    label: The PO incorporates terms from other ontologies, such as the Gene Ontology
+      (GO) and the Cell Ontology (CL), to ensure interoperability and orthogonality.

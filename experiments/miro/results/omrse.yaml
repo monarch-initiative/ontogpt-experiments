@@ -1,0 +1,193 @@
+---
+input_text: |-
+  Hicks et al. Journal of Biomedical Semantics  (2016) 7:47 
+  DOI 10.1186/s13326-016-0087-8
+  RESEARCH
+  Open Access
+  The ontology of medically related social
+  entities: recent developments
+  Amanda Hicks1*, Josh Hanna1, Daniel Welch1, Mathias Brochhausen2 and William R. Hogan1
+  Abstract
+  Background: The Ontology of Medically Related Social Entities (OMRSE) was initially developed in 2011 to provide a
+  framework for modeling demographic data in Resource Description Framework/Web Ontology Language. It is built
+  upon the Basic Formal Ontology and conforms to Open Biomedical Ontologies Foundry’s best practices.
+  Description: We report recent development of OMRSE which includes representations of organizations, roles,
+  facilities, demographic data, enrollment in insurance plans, and data about socio-economic indicators.
+  Conclusions: OMRSE’s coverage has been expanding in recent years to include a wide variety of classes and has
+  been useful in several biomedical applications.
+  Keywords: Ontology, OMRSE, Soci...17127 chars not shown.
+raw_completion_output: |-
+  Here are the extracted entities in the requested format:
+
+  **name:** Ontology of Medically Related Social Entities (OMRSE) version not specified
+
+  **owners:** Amanda Hicks; Josh Hanna; Daniel Welch; Mathias Brochhausen; William R. Hogan; University of Florida, Department of Health Outcomes and Policy; University of Arkansas for Medical Science, Department of Biomedical Informatics; Contact: aehicks@ufl.edu
+
+  **license:** Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
+
+  **url:** https://github.com/ufbmi/OMRSE
+
+  **repository:** https://github.com/ufbmi/OMRSE
+
+  **methodological_framework:** Not explicitly stated, but follows OBO Foundry principles and uses Basic Formal Ontology (BFO) as upper ontology.
+
+  **need:** To provide a framework for modeling demographic data in Resource Description Framework/Web Ontology Language and to represent medically related social entities.
+
+  **competition:** Not explicitly stated, but mentions reuse of classes from other ontologies such as Basic Formal Ontology (BFO), NCBI Taxonomy, Information Artifact Ontology, and Document Acts Ontology.
+
+  **target_audience:** Biomedical community, particularly those working with demographic data and social entities in healthcare.
+
+  **scope_and_coverage:** Representations of organizations, roles, facilities, demographic data, enrollment in insurance plans, and data about socio-economic indicators.
+
+  **development_community:** Amanda Hicks, Josh Hanna, Daniel Welch, Mathias Brochhausen, and William R. Hogan, with contributions from other researchers and domain experts.
+
+  **communication:** Google Group for discussion at http://groups.google.com/group/omrse-discuss.
+
+  **knowledge_acquisition_method:** Reuse of existing classes from other ontologies, participation in discussions with other OBO/BFO ontology developers, and collaboration with domain experts.
+
+  **source_knowledge_location:** Not explicitly stated, but mentions use of existing ontologies and domain expertise.
+
+  **content_selection:** Prioritization of entities based on use cases and requirements of the ontology.
+
+  **knowledge_representation_language:** Web Ontology Language (OWL).
+
+  **development_environment:** Not explicitly stated, but mentions use of GitHub for version control.
+
+  **ontology_metrics:** Not explicitly stated.
+
+  **incorporation_of_ontologies:** Reuse of classes from Basic Formal Ontology (BFO), NCBI Taxonomy, Information Artifact Ontology, and Document Acts Ontology.
+
+  **entity_naming_convention:** Not explicitly stated.
+
+  **identifier_generation_policy:** Not explicitly stated.
+
+  **entity_metadata_policy:** Not explicitly stated, but mentions use of competency questions for validation.
+
+  **upper_ontology:** Basic Formal Ontology (BFO).
+
+  **ontology_relationships:** Not explicitly stated, but mentions use of object properties to represent relationships between entities.
+
+  **axiom_patterns:** Not explicitly stated.
+
+  **dereferencable_iri:** Not explicitly stated, but mentions use of GitHub repository.
+
+  **sustainability_plan:** Active maintenance and development through a mailing list and issue tracker.
+
+  **deprecation_strategy:** Not explicitly stated.
+
+  **versioning_policy:** Not explicitly stated, but mentions use of GitHub for version control.
+
+  **testing:** Validation using competency questions.
+
+  **evaluation:** Utility and discussion of the ontology's application in various projects.
+
+  **examples_of_use:** Apollo-SV, OOSTT, PCORnet Common Data Model.
+
+  **institutional_endorsement:** Not explicitly stated, but mentions funding from the National Institute of General Medical Sciences and the James and Esther King Foundation.
+
+  **evidence_of_use:** Active projects and applications that use the ontology, such as Apollo-SV and OOSTT.
+
+  **label:** Ontology of Medically Related Social Entities (OMRSE).
+prompt: |+
+  Split the following piece of text into fields in the following format:
+
+  example_description: <A description of the ontology in use in its application setting or use case.>
+
+
+  Text:
+  Apollo-SV, OOSTT, PCORnet Common Data Model.
+
+  ===
+
+extracted_object:
+  id: 47d2210d-414a-46d7-b60d-67d60b97ea00
+  label: Ontology of Medically Related Social Entities (OMRSE).
+  name: Ontology of Medically Related Social Entities (OMRSE) version not specified
+  owners:
+    - AUTO:Amanda%20Hicks
+    - AUTO:Josh%20Hanna
+    - AUTO:Daniel%20Welch
+    - AUTO:Mathias%20Brochhausen
+    - AUTO:William%20R.%20Hogan
+    - AUTO:University%20of%20Florida%2C%20Department%20of%20Health%20Outcomes%20and%20Policy
+    - AUTO:University%20of%20Arkansas%20for%20Medical%20Science%2C%20Department%20of%20Biomedical%20Informatics
+    - AUTO:Contact%3A%20aehicks%40ufl.edu
+  license: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
+  url: https://github.com/ufbmi/OMRSE
+  repository: https://github.com/ufbmi/OMRSE
+  methodological_framework: Not explicitly stated, but follows OBO Foundry principles
+    and uses Basic Formal Ontology (BFO) as upper ontology.
+  need: To provide a framework for modeling demographic data in Resource Description
+    Framework/Web Ontology Language and to represent medically related social entities.
+  competition:
+    - AUTO:Not%20explicitly%20stated%2C%20but%20mentions%20reuse%20of%20classes%20from%20other%20ontologies%20such%20as%20Basic%20Formal%20Ontology%20%28BFO%29%2C%20NCBI%20Taxonomy%2C%20Information%20Artifact%20Ontology%2C%20and%20Document%20Acts%20Ontology.
+  target_audience: Biomedical community, particularly those working with demographic
+    data and social entities in healthcare.
+  scope_and_coverage: Representations of organizations, roles, facilities, demographic
+    data, enrollment in insurance plans, and data about socio-economic indicators.
+  development_community: Amanda Hicks, Josh Hanna, Daniel Welch, Mathias Brochhausen,
+    and William R. Hogan, with contributions from other researchers and domain experts.
+  communication: Google Group for discussion at http://groups.google.com/group/omrse-discuss.
+  knowledge_acquisition_method: Reuse of existing classes from other ontologies, participation
+    in discussions with other OBO/BFO ontology developers, and collaboration with
+    domain experts.
+  source_knowledge_location: Not explicitly stated, but mentions use of existing ontologies
+    and domain expertise.
+  content_selection: Prioritization of entities based on use cases and requirements
+    of the ontology.
+  knowledge_representation_language: Web Ontology Language (OWL).
+  development_environment: Not explicitly stated, but mentions use of GitHub for version
+    control.
+  ontology_metrics: Not explicitly stated.
+  incorporation_of_ontologies:
+    - AUTO:Reuse%20of%20classes%20from%20Basic%20Formal%20Ontology%20%28BFO%29%2C%20NCBI%20Taxonomy%2C%20Information%20Artifact%20Ontology%2C%20and%20Document%20Acts%20Ontology.
+  entity_naming_convention: Not explicitly stated.
+  identifier_generation_policy: Not explicitly stated.
+  entity_metadata_policy: Not explicitly stated, but mentions use of competency questions
+    for validation.
+  upper_ontology: Basic Formal Ontology (BFO).
+  ontology_relationships: Not explicitly stated, but mentions use of object properties
+    to represent relationships between entities.
+  axiom_patterns: Not explicitly stated.
+  dereferencable_iri: Not explicitly stated, but mentions use of GitHub repository.
+  sustainability_plan: Active maintenance and development through a mailing list and
+    issue tracker.
+  deprecation_strategy: Not explicitly stated.
+  versioning_policy: Not explicitly stated, but mentions use of GitHub for version
+    control.
+  testing: Validation using competency questions.
+  evaluation: Utility and discussion of the ontology's application in various projects.
+  examples_of_use:
+    - example_description: Apollo-SV, OOSTT, PCORnet Common Data Model.
+  institutional_endorsement: Not explicitly stated, but mentions funding from the
+    National Institute of General Medical Sciences and the James and Esther King Foundation.
+  evidence_of_use: Active projects and applications that use the ontology, such as
+    Apollo-SV and OOSTT.
+named_entities:
+  - id: AUTO:Amanda%20Hicks
+    label: Amanda Hicks
+  - id: AUTO:Josh%20Hanna
+    label: Josh Hanna
+  - id: AUTO:Daniel%20Welch
+    label: Daniel Welch
+  - id: AUTO:Mathias%20Brochhausen
+    label: Mathias Brochhausen
+  - id: AUTO:William%20R.%20Hogan
+    label: William R. Hogan
+  - id: 
+      AUTO:University%20of%20Florida%2C%20Department%20of%20Health%20Outcomes%20and%20Policy
+    label: University of Florida, Department of Health Outcomes and Policy
+  - id: 
+      AUTO:University%20of%20Arkansas%20for%20Medical%20Science%2C%20Department%20of%20Biomedical%20Informatics
+    label: University of Arkansas for Medical Science, Department of Biomedical Informatics
+  - id: AUTO:Contact%3A%20aehicks%40ufl.edu
+    label: 'Contact: aehicks@ufl.edu'
+  - id: 
+      AUTO:Not%20explicitly%20stated%2C%20but%20mentions%20reuse%20of%20classes%20from%20other%20ontologies%20such%20as%20Basic%20Formal%20Ontology%20%28BFO%29%2C%20NCBI%20Taxonomy%2C%20Information%20Artifact%20Ontology%2C%20and%20Document%20Acts%20Ontology.
+    label: Not explicitly stated, but mentions reuse of classes from other ontologies
+      such as Basic Formal Ontology (BFO), NCBI Taxonomy, Information Artifact Ontology,
+      and Document Acts Ontology.
+  - id: 
+      AUTO:Reuse%20of%20classes%20from%20Basic%20Formal%20Ontology%20%28BFO%29%2C%20NCBI%20Taxonomy%2C%20Information%20Artifact%20Ontology%2C%20and%20Document%20Acts%20Ontology.
+    label: Reuse of classes from Basic Formal Ontology (BFO), NCBI Taxonomy, Information
+      Artifact Ontology, and Document Acts Ontology.

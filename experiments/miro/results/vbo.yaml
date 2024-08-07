@@ -1,0 +1,204 @@
+---
+input_text: |-
+  The Vertebrate Breed Ontology: Towards Effective Breed Data Standardization
+  Kathleen R. Mullen(1), Imke Tammen(2), Nicolas A. Matentzoglu(3), Marius Mather(2),
+  Christopher J. Mungall(4), Melissa A. Haendel(5), Frank W. Nicholas(2), Sabrina Toro(5),
+  the Vertebrate Breed Ontology Consortium
+  (1)University of Colorado Anschutz Medical Campus, (2)University of Sydney, (3)Semanticly Ltd,
+  (4)Lawrence Berkeley National Laboratory, (5)University of North Carolina at Chapel Hill
+  Abstract
+  Background - Limited universally adopted data standards in veterinary science hinders data
+  interoperability and therefore integration and comparison; this ultimately impedes application of
+  existing information-based tools to support advancement in veterinary diagnostics, treatments,
+  and precision medicine.
+  Hypothesis/Objectives - Creation of a Vertebrate Breed Ontology (VBO) as a single, coherent
+  logic-based standard for documenting breed names in animal health, production and
+  research-related records will impro...52392 chars not shown.
+raw_completion_output: |-
+  Here is the extracted information in the requested format:
+
+  **name:** Vertebrate Breed Ontology (VBO) v2024-05-22
+
+  **owners:** Monarch Initiative (https://monarchinitiative.org); Kathleen R. Mullen, Imke Tammen, Nicolas A. Matentzoglu, Marius Mather, Christopher J. Mungall, Melissa A. Haendel, Frank W. Nicholas, Sabrina Toro, the Vertebrate Breed Ontology Consortium
+
+  **license:** CC-BY 4.0
+
+  **url:** http://purl.obolibrary.org/obo/vbo.owl
+
+  **repository:** https://github.com/monarch-initiative/vertebrate-breed-ontology
+
+  **methodological_framework:** Breed lists were collected from international breed organizations and communities. These lists were manually curated and integrated such that the same breed concept and its information was represented by a single VBO term. Term classification based on species (NCBITaxon) was also done manually.
+
+  **need:** Single source for breed name and related information, representing a broad range of species and breeds, open access, and including provenance for the information.
+
+  **competition:** Livestock Breed Ontology (LBO) is a resource for livestock breed. LBO is, however, limited to livestock breeds, and does not include companion animals (such as cat and dog breeds).
+
+  **target_audience:** Databases, such as OMIA; any sources containing breed information; for example veterinary EHR; publications, in order to disambiguate breeds and enable data curation and integration.
+
+  **scope_and_coverage:** All vertebrate breeds, including sub-breeds, varieties, strains, etc.
+
+  **development_community:** The content of the ontology was initially created based on international breed organization and communities lists. Additional VBO terms and breed information are driven by user requests and new available (either discovered or not yet included) breed sources.
+
+  **communication:** GitHub Issue tracker: https://github.com/monarch-initiative/vertebrate-breed-ontology/issues; Mailing list: vbo-users@tislab.org (subscribe by sending an email to: vbo-users+subscribe@tislab.org)
+
+  **knowledge_acquisition_method:** Breed lists were collected from international breed organizations and communities and manually curated, with consultation with animal experts. Review and verification happens with targeted reviews involving experts, and via user requests.
+
+  **source_knowledge_location:** Sources where the breed knowledge was gathered can be found here: https://monarch-initiative.github.io/vertebrate-breed-ontology/general/gen
+
+  **content_selection:** User requests for new breeds and update to the existing ontology are given priority. While synchronization of information with the original sources, as well as the addition of new breed sources are also of high priority, these are addressed on a per available ontology editor resources basis.
+
+  **knowledge_representation_language:** The OWL language is used as it is more expressive and allows axioms such as “located_in value [Wikidata ID for country]”, which are necessary for the majority of the breeds from the DAD-IS list.
+
+  **development_environment:** The Ontology Development Kit (ODK, https://github.com/INCATools/ontology-development-kit) was used to create and is used to maintain VBO.
+
+  **ontology_metrics:** As of version (v2024-05-22): 19,413 classes; 118 Object properties; 245,368 Axioms (54,804 Logical axioms)
+
+  **incorporation_of_ontologies:** NCBITaxon (though not an ontology per se) is at the basis of VBO; Relation Ontology (RO) is used for relationships; Core Ontology for Biology and Biomedicine (COB) is used as an upper-level ontology.
+
+  **entity_naming_convention:** Naming conventions for term labels follow the format: 'Most common name (Species)’ in which Species is the English names (e.g. 'Chihuahua (Dog)’ (VBO:0200338)); 'Most common name, Country; (Species)’ in which country and species are the English names. (e.g. ‘Jersey Giant, Canada; Chicken’ (VBO:0006068))
+
+  **identifier_generation_policy:** http://purl.obolibrary.org/obo/VBO_ followed by 7 digits
+
+  **entity_metadata_policy:** The following metadata is required: ID; Term label; Most common name; Source; Contributor. Other metadata is optional, for example: Synonyms; Database cross-reference; Breed code; …
+
+  **upper_ontology:** Core Ontology for Biology and Biomedicine (COB)
+
+  **ontology_relationships:** RO relations are used. The main relations used are is_a, and located_in (RO:0001025; used specifically for DAD-IS breed defined by their country of existence as reported by FAO National coordinators). Additional relations specific to breed information were created in VBO.
+
+  **axiom_patterns:** See documentation: https://monarch-initiative.github.io/vertebrate-breed-ontology/general/gen
+
+  **dereferencable_iri:** Standard prefix: VBO
+
+  **sustainability_plan:** VBO is actively developed and maintained by the members of the Monarch Initiative and the OMIA team. Training sessions and new ontology editing tools are in the works to empower more users (who are not necessarily ontologists) to edit the ontology directly.
+
+  **deprecation_strategy:** Terms deprecation happens when: A VBO term represents a concept that never existed (i.e. created by mistake). In this case, the term is obsoleted.
+
+  **versioning_policy:** We aim to release a new ontology version every month.
+
+  **testing:** We use the general QA/QC included in the ODK framework. In addition, we are working on creating new QC tests specific to VBO.
+
+  **evaluation:** Currently, the ontology is evaluated by users who use VBO in data annotations, and checking that all required VBO terms exist; Ontology developers who are reviewing the ontology by comparing it to major breed sources (e.g Mason’s World Dictionary of Livestock Breeds, Types and Varieties and Mason's World Encyclopedia of Livestock Breeds and Breeding)
+
+  **examples_of_use:** https://omia.org/OMIA000515/9685/; https://omia.org/OMIA001081/9615/
+
+  **institutional_endorsement:** VBO has been accepted to the OBO foundry.
+
+  **evidence_of_use:** OMIA (https://omia.org/home/) records breed information and use VBO ID to refer to breeds; Selected publications using VBO ID to refer to breeds
+prompt: |+
+  Split the following piece of text into fields in the following format:
+
+  example_description: <A description of the ontology in use in its application setting or use case.>
+
+
+  Text:
+  https://omia.org/OMIA001081/9615/
+
+  ===
+
+extracted_object:
+  id: a7f773b3-0d5e-4ea4-93f8-bedb30b134d5
+  name: Vertebrate Breed Ontology (VBO) v2024-05-22
+  owners:
+    - AUTO:Monarch%20Initiative%20%28https%3A//monarchinitiative.org%29
+    - AUTO:Kathleen%20R.%20Mullen%2C%20Imke%20Tammen%2C%20Nicolas%20A.%20Matentzoglu%2C%20Marius%20Mather%2C%20Christopher%20J.%20Mungall%2C%20Melissa%20A.%20Haendel%2C%20Frank%20W.%20Nicholas%2C%20Sabrina%20Toro%2C%20the%20Vertebrate%20Breed%20Ontology%20Consortium
+  license: CC-BY 4.0
+  url: http://purl.obolibrary.org/obo/vbo.owl
+  repository: https://github.com/monarch-initiative/vertebrate-breed-ontology
+  methodological_framework: Breed lists were collected from international breed organizations
+    and communities. These lists were manually curated and integrated such that the
+    same breed concept and its information was represented by a single VBO term. Term
+    classification based on species (NCBITaxon) was also done manually.
+  need: Single source for breed name and related information, representing a broad
+    range of species and breeds, open access, and including provenance for the information.
+  competition:
+    - AUTO:Livestock%20Breed%20Ontology%20%28LBO%29%20is%20a%20resource%20for%20livestock%20breed.%20LBO%20is%2C%20however%2C%20limited%20to%20livestock%20breeds%2C%20and%20does%20not%20include%20companion%20animals%20%28such%20as%20cat%20and%20dog%20breeds%29.
+  target_audience: Databases, such as OMIA; any sources containing breed information;
+    for example veterinary EHR; publications, in order to disambiguate breeds and
+    enable data curation and integration.
+  scope_and_coverage: All vertebrate breeds, including sub-breeds, varieties, strains,
+    etc.
+  development_community: The content of the ontology was initially created based on
+    international breed organization and communities lists. Additional VBO terms and
+    breed information are driven by user requests and new available (either discovered
+    or not yet included) breed sources.
+  communication: 'GitHub Issue tracker: https://github.com/monarch-initiative/vertebrate-breed-ontology/issues;
+    Mailing list: vbo-users@tislab.org (subscribe by sending an email to: vbo-users+subscribe@tislab.org)'
+  knowledge_acquisition_method: Breed lists were collected from international breed
+    organizations and communities and manually curated, with consultation with animal
+    experts. Review and verification happens with targeted reviews involving experts,
+    and via user requests.
+  source_knowledge_location: 'Sources where the breed knowledge was gathered can be
+    found here: https://monarch-initiative.github.io/vertebrate-breed-ontology/general/gen'
+  content_selection: User requests for new breeds and update to the existing ontology
+    are given priority. While synchronization of information with the original sources,
+    as well as the addition of new breed sources are also of high priority, these
+    are addressed on a per available ontology editor resources basis.
+  knowledge_representation_language: The OWL language is used as it is more expressive
+    and allows axioms such as “located_in value [Wikidata ID for country]”, which
+    are necessary for the majority of the breeds from the DAD-IS list.
+  development_environment: The Ontology Development Kit (ODK, https://github.com/INCATools/ontology-development-kit)
+    was used to create and is used to maintain VBO.
+  ontology_metrics: 'As of version (v2024-05-22): 19,413 classes; 118 Object properties;
+    245,368 Axioms (54,804 Logical axioms)'
+  incorporation_of_ontologies:
+    - AUTO:NCBITaxon%20%28though%20not%20an%20ontology%20per%20se%29%20is%20at%20the%20basis%20of%20VBO
+    - AUTO:Relation%20Ontology%20%28RO%29%20is%20used%20for%20relationships
+    - AUTO:Core%20Ontology%20for%20Biology%20and%20Biomedicine%20%28COB%29%20is%20used%20as%20an%20upper-level%20ontology.
+  entity_naming_convention: "Naming conventions for term labels follow the format:
+    'Most common name (Species)’ in which Species is the English names (e.g. 'Chihuahua
+    (Dog)’ (VBO:0200338)); 'Most common name, Country; (Species)’ in which country
+    and species are the English names. (e.g. ‘Jersey Giant, Canada; Chicken’ (VBO:0006068))"
+  identifier_generation_policy: http://purl.obolibrary.org/obo/VBO_ followed by 7
+    digits
+  entity_metadata_policy: 'The following metadata is required: ID; Term label; Most
+    common name; Source; Contributor. Other metadata is optional, for example: Synonyms;
+    Database cross-reference; Breed code; …'
+  upper_ontology: Core Ontology for Biology and Biomedicine (COB)
+  ontology_relationships: RO relations are used. The main relations used are is_a,
+    and located_in (RO:0001025; used specifically for DAD-IS breed defined by their
+    country of existence as reported by FAO National coordinators). Additional relations
+    specific to breed information were created in VBO.
+  axiom_patterns: 'See documentation: https://monarch-initiative.github.io/vertebrate-breed-ontology/general/gen'
+  dereferencable_iri: 'Standard prefix: VBO'
+  sustainability_plan: VBO is actively developed and maintained by the members of
+    the Monarch Initiative and the OMIA team. Training sessions and new ontology editing
+    tools are in the works to empower more users (who are not necessarily ontologists)
+    to edit the ontology directly.
+  deprecation_strategy: 'Terms deprecation happens when: A VBO term represents a concept
+    that never existed (i.e. created by mistake). In this case, the term is obsoleted.'
+  versioning_policy: We aim to release a new ontology version every month.
+  testing: We use the general QA/QC included in the ODK framework. In addition, we
+    are working on creating new QC tests specific to VBO.
+  evaluation: Currently, the ontology is evaluated by users who use VBO in data annotations,
+    and checking that all required VBO terms exist; Ontology developers who are reviewing
+    the ontology by comparing it to major breed sources (e.g Mason’s World Dictionary
+    of Livestock Breeds, Types and Varieties and Mason's World Encyclopedia of Livestock
+    Breeds and Breeding)
+  examples_of_use:
+    - example_description: '[No description provided]'
+    - example_description: No description provided.
+  institutional_endorsement: VBO has been accepted to the OBO foundry.
+  evidence_of_use: OMIA (https://omia.org/home/) records breed information and use
+    VBO ID to refer to breeds; Selected publications using VBO ID to refer to breeds
+named_entities:
+  - id: AUTO:Monarch%20Initiative%20%28https%3A//monarchinitiative.org%29
+    label: Monarch Initiative (https://monarchinitiative.org)
+  - id: 
+      AUTO:Kathleen%20R.%20Mullen%2C%20Imke%20Tammen%2C%20Nicolas%20A.%20Matentzoglu%2C%20Marius%20Mather%2C%20Christopher%20J.%20Mungall%2C%20Melissa%20A.%20Haendel%2C%20Frank%20W.%20Nicholas%2C%20Sabrina%20Toro%2C%20the%20Vertebrate%20Breed%20Ontology%20Consortium
+    label: Kathleen R. Mullen, Imke Tammen, Nicolas A. Matentzoglu, Marius Mather,
+      Christopher J. Mungall, Melissa A. Haendel, Frank W. Nicholas, Sabrina Toro,
+      the Vertebrate Breed Ontology Consortium
+  - id: 
+      AUTO:Livestock%20Breed%20Ontology%20%28LBO%29%20is%20a%20resource%20for%20livestock%20breed.%20LBO%20is%2C%20however%2C%20limited%20to%20livestock%20breeds%2C%20and%20does%20not%20include%20companion%20animals%20%28such%20as%20cat%20and%20dog%20breeds%29.
+    label: Livestock Breed Ontology (LBO) is a resource for livestock breed. LBO is,
+      however, limited to livestock breeds, and does not include companion animals
+      (such as cat and dog breeds).
+  - id: 
+      AUTO:NCBITaxon%20%28though%20not%20an%20ontology%20per%20se%29%20is%20at%20the%20basis%20of%20VBO
+    label: NCBITaxon (though not an ontology per se) is at the basis of VBO
+  - id: AUTO:Relation%20Ontology%20%28RO%29%20is%20used%20for%20relationships
+    label: Relation Ontology (RO) is used for relationships
+  - id: 
+      AUTO:Core%20Ontology%20for%20Biology%20and%20Biomedicine%20%28COB%29%20is%20used%20as%20an%20upper-level%20ontology.
+    label: Core Ontology for Biology and Biomedicine (COB) is used as an upper-level
+      ontology.
