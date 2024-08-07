@@ -5,7 +5,7 @@ Initial evaluation of the MIRO extraction template was done on August 7, 2024, w
 This command was used:
 
 ```python
-
+$ ontogpt -vvv extract -t miro -i temp/{ontology_name}.pdf --use-pdf -m lbl/llama-3 --model-provider openai --api-base "https://api.cborg.lbl.gov" --cut-input-text -o {ontology_name}.yaml
 ```
 
 The full PDF of each of the following papers describing ontologies were used in the evaluation:
